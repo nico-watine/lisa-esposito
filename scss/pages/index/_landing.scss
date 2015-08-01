@@ -5,17 +5,57 @@
 		height: em(696);
 		background: url('/img/index/landing/escape-artist/escape-artist.jpg') no-repeat;
 		background-position: right top;
+		border-bottom: em(30) solid $base-white;
+		position: relative;
 
 		.verbiage {
 			position: absolute;
+			height: 100%;
 			left: 0;
 			width: 100%;
-			top: em(150);
-			padding-left: em(40);
+			padding: em(150) 0 0 em(40);
+
+			h1,
+			h2 {
+				display: block;
+			}
 
 			h2#painter {
 				font-size: $h3-size;
+				margin-bottom: rem(60);
 			}
+		}
+
+		nav {
+			ul.vertical-list {
+				list-style-type: none;
+				padding: 0;
+				li {
+					display: block;
+					a {
+						text-decoration: none;
+						font-size: rem(26);
+
+						&:hover {
+							text-decoration: underline;
+						}
+					}
+				}
+			}
+		}
+
+		#contact-info {
+			.row {
+				h4 {
+					display: inline-block;
+				}
+				h4#phone {
+					margin-right: rem(40);
+				}
+			}
+			position: absolute;
+			bottom: em(16);
+			display: block;
 		}
 
 		.verbiage-bg {
@@ -32,5 +72,13 @@
 			float: left;
 			height: 100%;
 		}
+
+		aside {
+			position: absolute;
+			top: em(30);
+			right: em(60);
+			color: #222;
+		}
 	}
 }
+

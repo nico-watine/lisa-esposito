@@ -27,11 +27,28 @@
 	<div class="verbiage">
 		<h1 id="lisa">Lisa Esposito, PhD</h1>	
 		<h2 id="painter">Abstract Expressionist Painter</h2>
+		<nav>
+			<ul class="vertical-list">
+				<li><a href="/galleries/">Galleries</a></li>
+				<li><a href="/upcoming-events/">Upcoming Events</a></li>
+				<li><a href="#">Artist Statement</a></li>
+				<li><a href="#">CV / Bio</a></li>
+			</ul>
+		</nav>
+		<div id="contact-info">
+			<div class="row">
+				<h4 id="phone">832-520-4743</h4>
+				<h4 id="email">info@lisaesposito.com</h4>
+			</div>
+			<h4>Located in the Greater Boston area</h4>
+		</div>
 	</div>
 	<div class="verbiage-bg"></div>
 	<div class="bg-angle"></div>
+	<aside><h4>'Escape Artist'</h4></aside>
 	<div id="escape-artist"></div>
 </header>
+
 
 
 

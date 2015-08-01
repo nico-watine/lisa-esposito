@@ -144,7 +144,9 @@ p { margin-bottom: 1.4em; }
 a, a:visited { color: #222; }
 a:hover, a:focus, a:visited:hover, a:visited:focus { text-decoration: none; }
 
-h1, h2, h3, h4, h5, h6 { margin: 0 0 0.5rem; font-weight: 700; }
+h1, h2 { font-weight: 700; margin: 0 0 0.5rem; }
+
+h3, h4, h5, h6 { margin: 0 0 0.5rem; font-weight: 400; }
 
 h5, h6 { letter-spacing: 1.2; text-transform: uppercase; }
 
@@ -200,15 +202,17 @@ span.inline { display: inline-block; }
 
 html, body { background-color: #F6F6F6; }
 
-#index header { height: 43.5em; background: url("/img/index/landing/escape-artist/escape-artist.jpg") no-repeat; background-position: right top; }
-#index header .verbiage { position: absolute; left: 0; width: 100%; top: 9.375em; padding-left: 2.5em; }
-#index header .verbiage h2#painter { font-size: 1.9375em; }
+#index header { height: 43.5em; background: url("/img/index/landing/escape-artist/escape-artist.jpg") no-repeat; background-position: right top; border-bottom: 1.875em solid #F6F6F6; position: relative; }
+#index header .verbiage { position: absolute; height: 100%; left: 0; width: 100%; padding: 9.375em 0 0 2.5em; }
+#index header .verbiage h1, #index header .verbiage h2 { display: block; }
+#index header .verbiage h2#painter { font-size: 1.9375em; margin-bottom: 3.75rem; }
+#index header nav ul.vertical-list { list-style-type: none; padding: 0; }
+#index header nav ul.vertical-list li { display: block; }
+#index header nav ul.vertical-list li a { text-decoration: none; font-size: 1.625rem; }
+#index header nav ul.vertical-list li a:hover { text-decoration: underline; }
+#index header #contact-info { position: absolute; bottom: 1em; display: block; }
+#index header #contact-info .row h4 { display: inline-block; }
+#index header #contact-info .row h4#phone { margin-right: 2.5rem; }
 #index header .verbiage-bg { width: 23.75em; height: 100%; float: left; background-color: #F6F6F6; }
 #index header .bg-angle { background-image: url("/img/index/landing/div-angle.png"); background-size: 100%; width: 11.875em; float: left; height: 100%; }
-
-body { background: yellow; }
-@media screen and (max-width: 62.5em) { body { background: red; } }
-@media screen and (max-width: 46.875em) { body { background: blue; } }
-@media screen and (max-width: 38.125em) { body { background: yellow; } }
-@media screen and (max-width: 31.25em) { body { background: green; } }
-@media screen and (max-width: 23.75em) { body { background: purple; } }
+#index header aside { position: absolute; top: 1.875em; right: 3.75em; color: #222; }

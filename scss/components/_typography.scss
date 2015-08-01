@@ -37,13 +37,17 @@ a:visited {
 
 
 h1, 
-h2, 
+h2 {
+	font-weight: $header-font-weight;
+	margin: 0 0 rem(8);
+}
+
 h3, 
 h4,
 h5,
 h6 {
 	margin: 0 0 rem(8);
-	font-weight: $header-font-weight;
+	font-weight: $body-font-weight;
 }
 
 h5,
