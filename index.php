@@ -20,7 +20,18 @@
 	<![endif]-->
 
 </head>
-<body>
+
+<body id="index">
+
+<header>
+	<div class="verbiage">
+		<h1 id="lisa">Lisa Esposito, PhD</h1>	
+		<h2 id="painter">Abstract Expressionist Painter</h2>
+	</div>
+	<div class="verbiage-bg"></div>
+	<div class="bg-angle"></div>
+	<div id="escape-artist"></div>
+</header>
 
 
 

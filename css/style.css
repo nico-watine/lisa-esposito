@@ -128,13 +128,18 @@ html { -moz-box-sizing: border-box; box-sizing: border-box; }
 
 *, *::after, *::before { -moz-box-sizing: inherit; box-sizing: inherit; }
 
+@font-face { font-family: 'Nexa Light'; src: url("/fonts/nexa-light/nexa-light.eot");
+  /* IE9 Compat Modes */
+  src: url("/fonts/nexa-light/nexa-light.eot?#iefix") format("embedded-opentype"), url("/fonts/nexa-light/nexa-light.woff") format("woff"), url("/fonts/nexa-light/nexa-light.ttf") format("truetype"), url("/fonts/nexa-light/nexa-light.svg#8daeb39b16ba4fbde275db0ba71a5206") format("svg");
+  /* Legacy iOS */
+  font-style: normal; font-weight: 200; }
 html { font-size: 1em; }
 
 html, input, button, textarea { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; -moz-osx-font-smoothing: grayscale; }
 
-body { color: #333; font-weight: 400; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; line-height: 1.4rem; }
+body { color: #333; font-weight: 400; font-family: "Nexa Light", sans-serif; line-height: 1.2; }
 
-p { margin-bottom: 1.4rem; }
+p { margin-bottom: 1.4em; }
 
 a, a:visited { color: #222; }
 a:hover, a:focus, a:visited:hover, a:visited:focus { text-decoration: none; }
@@ -193,6 +198,15 @@ span.inline { display: inline-block; }
 
 .margin-bottom { margin-bottom: 1.25rem; }
 
+html, body { background-color: #F6F6F6; }
+
+#index header { height: 43.5em; background: url("/img/index/landing/escape-artist/escape-artist.jpg") no-repeat; background-position: right top; }
+#index header .verbiage { position: absolute; left: 0; width: 100%; top: 9.375em; padding-left: 2.5em; }
+#index header .verbiage h2#painter { font-size: 1.9375em; }
+#index header .verbiage-bg { width: 23.75em; height: 100%; float: left; background-color: #F6F6F6; }
+#index header .bg-angle { background-image: url("/img/index/landing/div-angle.png"); background-size: 100%; width: 11.875em; float: left; height: 100%; }
+
+body { background: yellow; }
 @media screen and (max-width: 62.5em) { body { background: red; } }
 @media screen and (max-width: 46.875em) { body { background: blue; } }
 @media screen and (max-width: 38.125em) { body { background: yellow; } }

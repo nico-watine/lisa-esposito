@@ -1,0 +1,36 @@
+@import "../../settings/_settings.scss";
+
+#index {
+	header {
+		height: em(696);
+		background: url('/img/index/landing/escape-artist/escape-artist.jpg') no-repeat;
+		background-position: right top;
+
+		.verbiage {
+			position: absolute;
+			left: 0;
+			width: 100%;
+			top: em(150);
+			padding-left: em(40);
+
+			h2#painter {
+				font-size: $h3-size;
+			}
+		}
+
+		.verbiage-bg {
+			width: em(380);
+			height: 100%;
+			float: left;
+			background-color: $base-white;
+		}
+
+		.bg-angle {
+			background-image: url('/img/index/landing/div-angle.png');
+			background-size: 100%;
+			width: em(190);
+			float: left;
+			height: 100%;
+		}
+	}
+}
