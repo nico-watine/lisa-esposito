@@ -65,8 +65,16 @@
 	<aside><h4>'Netherworld'</h4></aside>
 </section>
 
-
-
+<section class="bio">
+	<!-- <div class="feature-image"> -->
+		<aside><h4>'All Points West'</h4></aside>
+	<!-- </div> -->
+	<div class="verbiage">
+		<h2>Meet Lisa Esposito</h2>
+		<p>I am a self-taught, abstract expressionist artist best known for spiritually evocative, non-representational paintings. In 2005, with no prior art training, I began painting in acrylic on large-scale canvases. <br>
+		Evolving as a painter, I gained gallery representation in 2006. An exhibited artist, I am inspired by the Abstract Expressionists of the early to mid-20th c. as well as Buddhism, Taoism, ancient Greek philosophy, and New England Transcendentalism. My artwork consists of vibrant, contrasting colors and abstract images drawn from 25 years of teaching Philosophy.</p>
+	</div>
+</section>
 
 
 

@@ -1,0 +1,25 @@
+section.bio {
+	position: relative;
+	background: url('/img/index/bio/all-points-west.jpg') no-repeat;
+	background-position: left center;
+	height: auto;
+
+	aside {
+		position: absolute;
+		left: em(30);
+		top: em(30);
+		color: #fff;
+	}
+
+	.verbiage {
+		width: 50%;
+		position: absolute;
+		right: 0;
+		background: #fff;
+		padding: em(50) em(30) em(30) em(40);
+
+		p {
+			font-size: rem(22);
+		}
+	}
+}

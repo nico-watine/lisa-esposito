@@ -239,3 +239,8 @@ html, body { background-color: #F6F6F6; }
 .gallery-link#lyrical-abstraction .angled-div { left: 0; top: 0; margin-right: 9.375em; }
 .gallery-link#lyrical-abstraction .angled-div:after { right: -150px; top: 0; border-top: 0 solid transparent; border-bottom: 420px solid #4a4a4a; border-left: 0 solid transparent; border-right: 150px solid transparent; }
 .gallery-link#lyrical-abstraction aside { position: absolute; right: 1.875em; top: 1.875em; }
+
+section.bio { position: relative; background: url("/img/index/bio/all-points-west.jpg") no-repeat; background-position: left center; height: auto; }
+section.bio aside { position: absolute; left: 1.875em; top: 1.875em; color: #fff; }
+section.bio .verbiage { width: 50%; position: absolute; right: 0; background: #fff; padding: 3.125em 1.875em 1.875em 2.5em; }
+section.bio .verbiage p { font-size: 1.375rem; }
