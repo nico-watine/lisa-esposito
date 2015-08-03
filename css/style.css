@@ -200,10 +200,14 @@ span.inline { display: inline-block; }
 
 .margin-bottom { margin-bottom: 1.25rem; }
 
+.angled-div { position: absolute; z-index: 5; }
+
+.angled-div:after, .angled-div:before { position: absolute; z-index: 5; content: ''; line-height: 0; font-size: 0; width: 0; height: 0; }
+
 html, body { background-color: #F6F6F6; }
 
-#index header { height: 43.5em; background: url("/img/index/landing/escape-artist/escape-artist.jpg") no-repeat; background-position: right top; border-bottom: 1.875em solid #F6F6F6; position: relative; }
-#index header .verbiage { position: absolute; height: 100%; left: 0; width: 100%; padding: 9.375em 0 0 2.5em; }
+#index header { height: 43.75em; background: url("/img/index/landing/escape-artist/escape-artist.jpg") no-repeat; background-position: right top; border-bottom: 1.875em solid #F6F6F6; position: relative; }
+#index header .verbiage { position: absolute; height: 100%; left: 0; padding: 9.375em 0 0 2.5em; z-index: 10; }
 #index header .verbiage h1, #index header .verbiage h2 { display: block; }
 #index header .verbiage h2#painter { font-size: 1.9375em; margin-bottom: 3.75rem; }
 #index header nav ul.vertical-list { list-style-type: none; padding: 0; }
@@ -213,6 +217,8 @@ html, body { background-color: #F6F6F6; }
 #index header #contact-info { position: absolute; bottom: 1em; display: block; }
 #index header #contact-info .row h4 { display: inline-block; }
 #index header #contact-info .row h4#phone { margin-right: 2.5rem; }
-#index header .verbiage-bg { width: 23.75em; height: 100%; float: left; background-color: #F6F6F6; }
-#index header .bg-angle { background-image: url("/img/index/landing/div-angle.png"); background-size: 100%; width: 11.875em; float: left; height: 100%; }
 #index header aside { position: absolute; top: 1.875em; right: 3.75em; color: #222; }
+
+.angled-div#landing { width: 23.75em; height: 41.875em; background: #F6F6F6; top: 0; left: 0; margin-right: 9.375em; }
+
+.angled-div#landing:after { border-top: 0 solid transparent; border-bottom: 670px solid #F6F6F6; border-left: 0 solid transparent; border-right: 150px solid transparent; right: -150px; top: 0; }

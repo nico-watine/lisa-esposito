@@ -43,10 +43,8 @@
 			<h4>Located in the Greater Boston area</h4>
 		</div>
 	</div>
-	<div class="verbiage-bg"></div>
-	<div class="bg-angle"></div>
+	<div class="angled-div" id="landing"></div>
 	<aside><h4>'Escape Artist'</h4></aside>
-	<div id="escape-artist"></div>
 </header>
 
 

@@ -2,7 +2,7 @@
 
 #index {
 	header {
-		height: em(696);
+		height: em(700);
 		background: url('/img/index/landing/escape-artist/escape-artist.jpg') no-repeat;
 		background-position: right top;
 		border-bottom: em(30) solid $base-white;
@@ -12,8 +12,8 @@
 			position: absolute;
 			height: 100%;
 			left: 0;
-			width: 100%;
 			padding: em(150) 0 0 em(40);
+			z-index: 10;
 
 			h1,
 			h2 {
@@ -58,21 +58,6 @@
 			display: block;
 		}
 
-		.verbiage-bg {
-			width: em(380);
-			height: 100%;
-			float: left;
-			background-color: $base-white;
-		}
-
-		.bg-angle {
-			background-image: url('/img/index/landing/div-angle.png');
-			background-size: 100%;
-			width: em(190);
-			float: left;
-			height: 100%;
-		}
-
 		aside {
 			position: absolute;
 			top: em(30);
@@ -80,5 +65,23 @@
 			color: #222;
 		}
 	}
+}
+
+.angled-div#landing {
+	width: em(380);
+	height: em(670);
+	background: $base-white;
+	top: 0;
+	left: 0;
+	margin-right: em(150);
+}
+
+.angled-div#landing:after {
+    border-top: 0 solid transparent;
+    border-bottom: 670px solid $base-white;
+    border-left: 0 solid transparent;
+    border-right: 150px solid transparent;
+	right: -150px;
+	top: 0;
 }
 

@@ -1,41 +1,13 @@
 .angled-div {
   position: absolute;
-  height: 460px;
-  width: 400px;
-  background: #8b8d91; }
+  z-index: 5; }
 
-.right.angled-div {
-  right: 0;
-  margin-left: 100px; }
-
-.right.angled-div:before {
+.angled-div:after,
+.angled-div:before {
+  position: absolute;
+  z-index: 5;
   content: '';
   line-height: 0;
   font-size: 0;
   width: 0;
-  height: 0;
-  border-top: 460px solid #8b8d91;
-  border-bottom: 0px solid transparent;
-  border-left: 100px solid transparent;
-  border-right: 0px solid transparent;
-  position: absolute;
-  top: 0px;
-  left: -100px; }
-
-.left.angled-div {
-  left: 0;
-  margin-right: 100px; }
-
-.left.angled-div:after {
-  content: '';
-  line-height: 0;
-  font-size: 0;
-  width: 0;
-  height: 0;
-  border-top: 0px solid transparent;
-  border-bottom: 460px solid #8b8d91;
-  border-left: 0px solid transparent;
-  border-right: 100px solid transparent;
-  position: absolute;
-  top: 0px;
-  right: -100px; }
+  height: 0; }
