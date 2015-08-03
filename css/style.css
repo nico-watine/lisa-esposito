@@ -206,7 +206,7 @@ span.inline { display: inline-block; }
 
 html, body { background-color: #F6F6F6; }
 
-#index header { height: 43.75em; background: url("/img/index/landing/escape-artist/escape-artist.jpg") no-repeat; background-position: right top; border-bottom: 1.875em solid #F6F6F6; position: relative; }
+#index header { height: 43.75em; background: url("/img/index/landing/header/escape-artist.jpg") no-repeat; background-position: right top; border-bottom: 1.875em solid #F6F6F6; position: relative; }
 #index header .verbiage { position: absolute; height: 100%; left: 0; padding: 9.375em 0 0 2.5em; z-index: 10; }
 #index header .verbiage h1, #index header .verbiage h2 { display: block; }
 #index header .verbiage h2#painter { font-size: 1.9375em; margin-bottom: 3.75rem; }
@@ -217,18 +217,25 @@ html, body { background-color: #F6F6F6; }
 #index header #contact-info { position: absolute; bottom: 1em; display: block; }
 #index header #contact-info .row h4 { display: inline-block; }
 #index header #contact-info .row h4#phone { margin-right: 2.5rem; }
-#index header aside { position: absolute; top: 1.875em; right: 3.75em; color: #222; }
+#index header aside { position: absolute; top: 1.875em; right: 3.75em; color: #fff; }
 
 .angled-div#landing { width: 23.75em; height: 41.875em; background: #F6F6F6; top: 0; left: 0; margin-right: 9.375em; }
 
 .angled-div#landing:after { border-top: 0 solid transparent; border-bottom: 670px solid #F6F6F6; border-left: 0 solid transparent; border-right: 150px solid transparent; right: -150px; top: 0; }
 
-.gallery-link { color: #fff; height: 28.75em; position: relative; }
+.gallery-link { color: #fff; position: relative; }
 .gallery-link h2 { font-size: 2rem; letter-spacing: 1.2; font-weight: 400; }
 .gallery-link h3.gallery-title { font-size: 2.5rem; }
-.gallery-link .angled-div { background: #4A4A4A; height: 100%; width: 21.875em; }
+.gallery-link .angled-div { background: #4A4A4A; height: 100%; width: 15.625em; }
 
-.gallery-link#linear-abstraction { border-bottom: 1.25em solid #4a4a4a; }
+.gallery-link#linear-abstraction { height: 28.75em; background: url("/img/index/gallery-link/linear-abstraction/lost-in-transit.jpg") no-repeat; background-position: left top; border-bottom: 1.25em solid #4a4a4a; }
 .gallery-link#linear-abstraction .verbiage { text-align: right; position: absolute; right: 0; padding: 8.75em 2.5em 0 0; z-index: 10; }
 .gallery-link#linear-abstraction .angled-div { right: 0; top: 0; margin-left: 9.375em; }
 .gallery-link#linear-abstraction .angled-div:after { left: -150px; top: 0; border-top: 460px solid #4a4a4a; border-bottom: 0 solid transparent; border-left: 150px solid transparent; border-right: 0 solid transparent; }
+.gallery-link#linear-abstraction aside { position: absolute; bottom: 1em; left: 1.875em; }
+
+.gallery-link#lyrical-abstraction { height: 26.25em; background: url("/img/index/gallery-link/lyrical-abstraction/netherworld.jpg") no-repeat; background-position: right top; border-bottom: 1.25em solid #4a4a4a; }
+.gallery-link#lyrical-abstraction .verbiage { text-align: left; position: absolute; left: 0; padding: 8.75em 0 0 2.5em; z-index: 10; }
+.gallery-link#lyrical-abstraction .angled-div { left: 0; top: 0; margin-right: 9.375em; }
+.gallery-link#lyrical-abstraction .angled-div:after { right: -150px; top: 0; border-top: 0 solid transparent; border-bottom: 420px solid #4a4a4a; border-left: 0 solid transparent; border-right: 150px solid transparent; }
+.gallery-link#lyrical-abstraction aside { position: absolute; right: 1.875em; top: 1.875em; }

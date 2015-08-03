@@ -3,7 +3,7 @@
 #index {
 	header {
 		height: em(700);
-		background: url('/img/index/landing/escape-artist/escape-artist.jpg') no-repeat;
+		background: url('/img/index/landing/header/escape-artist.jpg') no-repeat;
 		background-position: right top;
 		border-bottom: em(30) solid $base-white;
 		position: relative;
@@ -62,7 +62,7 @@
 			position: absolute;
 			top: em(30);
 			right: em(60);
-			color: #222;
+			color: #fff;
 		}
 	}
 }

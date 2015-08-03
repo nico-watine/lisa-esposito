@@ -672,46 +672,90 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/img\/index\/landing\/escape-artist\/_ignores\/original.jpg": {
+	"\/img\/index\/bio\/_ignores\/original.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 599796,
-		"inputAbbreviatedPath": "\/img\/index\/landing\/escape-artist\/_ignores\/original.jpg",
-		"outputAbbreviatedPath": "\/img\/index\/landing\/escape-artist\/_ignores\/original.jpg",
+		"initialSize": 524892,
+		"inputAbbreviatedPath": "\/img\/index\/bio\/_ignores\/original.jpg",
+		"outputAbbreviatedPath": "\/img\/index\/bio\/_ignores\/original.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/index\/landing\/escape-artist\/escape-artist.jpg": {
+	"\/img\/index\/bio\/all-points-west.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 119351,
-		"inputAbbreviatedPath": "\/img\/index\/landing\/escape-artist\/escape-artist.jpg",
-		"outputAbbreviatedPath": "\/img\/index\/landing\/escape-artist\/escape-artist.jpg",
+		"initialSize": 105508,
+		"inputAbbreviatedPath": "\/img\/index\/bio\/all-points-west.jpg",
+		"outputAbbreviatedPath": "\/img\/index\/bio\/all-points-west.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/index\/landing\/lost-in-transit\/_ignores\/original.jpg": {
+	"\/img\/index\/gallery-link\/linear-abstraction\/_ignores\/original.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 600843,
-		"inputAbbreviatedPath": "\/img\/index\/landing\/lost-in-transit\/_ignores\/original.jpg",
-		"outputAbbreviatedPath": "\/img\/index\/landing\/lost-in-transit\/_ignores\/original.jpg",
+		"inputAbbreviatedPath": "\/img\/index\/gallery-link\/linear-abstraction\/_ignores\/original.jpg",
+		"outputAbbreviatedPath": "\/img\/index\/gallery-link\/linear-abstraction\/_ignores\/original.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/index\/landing\/lost-in-transit\/lost-in-transit.jpg": {
+	"\/img\/index\/gallery-link\/linear-abstraction\/lost-in-transit.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 133628,
-		"inputAbbreviatedPath": "\/img\/index\/landing\/lost-in-transit\/lost-in-transit.jpg",
-		"outputAbbreviatedPath": "\/img\/index\/landing\/lost-in-transit\/lost-in-transit.jpg",
+		"inputAbbreviatedPath": "\/img\/index\/gallery-link\/linear-abstraction\/lost-in-transit.jpg",
+		"outputAbbreviatedPath": "\/img\/index\/gallery-link\/linear-abstraction\/lost-in-transit.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/index\/gallery-link\/lyrical-abstraction\/_ignores\/netherworld.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.96831e+06,
+		"inputAbbreviatedPath": "\/img\/index\/gallery-link\/lyrical-abstraction\/_ignores\/netherworld.jpg",
+		"outputAbbreviatedPath": "\/img\/index\/gallery-link\/lyrical-abstraction\/_ignores\/netherworld.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/index\/gallery-link\/lyrical-abstraction\/netherworld.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97884,
+		"inputAbbreviatedPath": "\/img\/index\/gallery-link\/lyrical-abstraction\/netherworld.jpg",
+		"outputAbbreviatedPath": "\/img\/index\/gallery-link\/lyrical-abstraction\/netherworld.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/index\/landing\/header\/_ignores\/original.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 599796,
+		"inputAbbreviatedPath": "\/img\/index\/landing\/header\/_ignores\/original.jpg",
+		"outputAbbreviatedPath": "\/img\/index\/landing\/header\/_ignores\/original.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/index\/landing\/header\/escape-artist.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 119351,
+		"inputAbbreviatedPath": "\/img\/index\/landing\/header\/escape-artist.jpg",
+		"outputAbbreviatedPath": "\/img\/index\/landing\/header\/escape-artist.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

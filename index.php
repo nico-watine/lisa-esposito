@@ -53,6 +53,16 @@
 		<h3 class="gallery-title">Linear Abstraction</h3>
 	</div>
 	<div class="angled-div"></div>
+	<aside><h4>'Lost In Transition'</h4></aside>
+</section>
+
+<section class="gallery-link" id="lyrical-abstraction">
+	<div class="verbiage">
+		<h2>GALLERY</h2>
+		<h3 class="gallery-title">Lyrical Abstraction</h3>
+	</div>
+	<div class="angled-div"></div>
+	<aside><h4>'Netherworld'</h4></aside>
 </section>
 
 

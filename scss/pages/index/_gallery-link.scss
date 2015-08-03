@@ -2,7 +2,6 @@
 
 .gallery-link {
 	color: #fff;
-	height: em(460);
 	position: relative;
 
 	h2 {
@@ -18,11 +17,14 @@
 	.angled-div {
 		background: #4A4A4A;
 		height: 100%;
-		width: em(350);	
+		width: em(250);	
 	}
 }
 
 .gallery-link#linear-abstraction {
+	height: em(460);
+	background: url('/img/index/gallery-link/linear-abstraction/lost-in-transit.jpg') no-repeat;
+	background-position: left top;
 	border-bottom: em(20) solid #4a4a4a;
 
 	.verbiage {
@@ -46,24 +48,46 @@
 	    border-left: 150px solid transparent;
 	    border-right: 0 solid transparent;
 	}
+
+	aside {
+		position: absolute;
+		bottom: em(16);
+		left: em(30);
+	}
 }
 
+.gallery-link#lyrical-abstraction {
+	height: em(420);
+	background: url('/img/index/gallery-link/lyrical-abstraction/netherworld.jpg') no-repeat;
+	background-position: right top;
+	border-bottom: em(20) solid #4a4a4a;
 
+	.verbiage {
+		text-align: left;
+		position: absolute;
+		left: 0;
+		padding: em(140) 0 0 em(40);
+		z-index: 10;
+	}
 
-// .angled-div#landing {
-// 	width: em(380);
-// 	height: em(670);
-// 	background: $base-white;
-// 	top: 0;
-// 	left: 0;
-// 	margin-right: em(150);
-// }
+	.angled-div {
+		left: 0;
+		top: 0;
+		margin-right: em(150);
+	}
+	.angled-div:after {
+		right: -150px;
+		top: 0;
+	    border-top: 0 solid transparent;
+	    border-bottom: 420px solid #4a4a4a;
+	    border-left: 0 solid transparent;
+	    border-right: 150px solid transparent;
+	}
 
-// .angled-div#landing:after {
-//     border-top: 0 solid transparent;
-//     border-bottom: 670px solid $base-white;
-//     border-left: 0 solid transparent;
-//     border-right: 150px solid transparent;
-// 	right: -150px;
-// 	top: 0;
-// }
+	aside {
+		position: absolute;
+		right: em(30);
+		top: em(30);
+	}
+}
+
