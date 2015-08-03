@@ -47,6 +47,14 @@
 	<aside><h4>'Escape Artist'</h4></aside>
 </header>
 
+<section class="gallery-link" id="linear-abstraction">
+	<div class="verbiage">
+		<h2>GALLERY</h2>
+		<h3 class="gallery-title">Linear Abstraction</h3>
+	</div>
+	<div class="angled-div"></div>
+</section>
+
 
 
 

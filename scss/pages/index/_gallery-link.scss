@@ -1,0 +1,69 @@
+@import "../../settings/_settings.scss";
+
+.gallery-link {
+	color: #fff;
+	height: em(460);
+	position: relative;
+
+	h2 {
+		font-size: rem(32);
+		letter-spacing: $h5-h6-letter-spacing;
+		font-weight: $body-font-weight;
+	}
+
+	h3.gallery-title {
+		font-size: rem(40);
+	}
+
+	.angled-div {
+		background: #4A4A4A;
+		height: 100%;
+		width: em(350);	
+	}
+}
+
+.gallery-link#linear-abstraction {
+	border-bottom: em(20) solid #4a4a4a;
+
+	.verbiage {
+		text-align: right;
+		position: absolute;
+		right: 0;
+		padding: em(140) em(40) 0 0;
+		z-index: 10;
+	}
+
+	.angled-div {
+		right: 0;
+		top: 0;
+		margin-left: em(150);
+	}
+	.angled-div:after {
+		left: -150px;
+		top: 0;
+	    border-top: 460px solid #4a4a4a;
+	    border-bottom: 0 solid transparent;
+	    border-left: 150px solid transparent;
+	    border-right: 0 solid transparent;
+	}
+}
+
+
+
+// .angled-div#landing {
+// 	width: em(380);
+// 	height: em(670);
+// 	background: $base-white;
+// 	top: 0;
+// 	left: 0;
+// 	margin-right: em(150);
+// }
+
+// .angled-div#landing:after {
+//     border-top: 0 solid transparent;
+//     border-bottom: 670px solid $base-white;
+//     border-left: 0 solid transparent;
+//     border-right: 150px solid transparent;
+// 	right: -150px;
+// 	top: 0;
+// }

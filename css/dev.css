@@ -2,8 +2,7 @@
   position: absolute;
   z-index: 5; }
 
-.angled-div:after,
-.angled-div:before {
+.angled-div:after {
   position: absolute;
   z-index: 5;
   content: '';
