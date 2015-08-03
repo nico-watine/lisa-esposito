@@ -22,6 +22,13 @@
 </head>
 <body>
 
+<div class="right angled-div"></div>
+
+</div>
+<div class="left angled-div">
+		
+</div>
+
 
 
 
