@@ -760,6 +760,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/index\/quoted\/_ignores\/original.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.44113e+06,
+		"inputAbbreviatedPath": "\/img\/index\/quoted\/_ignores\/original.jpg",
+		"outputAbbreviatedPath": "\/img\/index\/quoted\/_ignores\/original.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/index\/quoted\/back-to-center.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83779,
+		"inputAbbreviatedPath": "\/img\/index\/quoted\/back-to-center.jpg",
+		"outputAbbreviatedPath": "\/img\/index\/quoted\/back-to-center.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1104,6 +1126,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
+	"\/scss\/pages\/index\/_footer.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/pages\/index\/_footer.scss",
+		"outputAbbreviatedPath": "\/css\/_footer.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
 	"\/scss\/pages\/index\/_gallery-link.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -1161,6 +1199,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scss\/pages\/index\/_landing.scss",
 		"outputAbbreviatedPath": "\/css\/_landing.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/pages\/index\/_quotes.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/pages\/index\/_quotes.scss",
+		"outputAbbreviatedPath": "\/css\/_quotes.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,

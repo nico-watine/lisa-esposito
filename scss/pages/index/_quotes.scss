@@ -1,0 +1,30 @@
+@import "../../settings/_settings.scss";
+
+section.quoted {
+	width: 100%;
+	height: em(480);
+	background: url('/img/index/quoted/back-to-center.jpg') no-repeat;
+	position: relative;
+	background-position: center;
+	border-top: em(8) solid $base-white;
+	text-align: center;
+	color: #fff;
+	padding-top: em(130);
+
+	h2 {
+		font-size: rem(32);
+		font-weight: $body-font-weight;
+		margin-bottom: rem(42);
+	}
+
+	h3 {
+		margin-bottom: rem(40);
+		font-weight: $header-font-weight;
+	}
+
+	aside {
+		position: absolute;
+		bottom: em(40);
+		right: em(50);
+	}
+}

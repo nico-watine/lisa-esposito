@@ -1,22 +1,23 @@
-section.bio {
+main.bio {
 	position: relative;
 	background: url('/img/index/bio/all-points-west.jpg') no-repeat;
 	background-position: left center;
-	height: auto;
+	height: em(500);
 
 	aside {
 		position: absolute;
 		left: em(30);
-		top: em(30);
+		top: em(40);
 		color: #fff;
 	}
 
 	.verbiage {
 		width: 50%;
 		position: absolute;
+		height: 100%;
 		right: 0;
-		background: #fff;
-		padding: em(50) em(30) em(30) em(40);
+		background: $base-white;
+		padding: em(30) em(30) 0 em(30);
 
 		p {
 			font-size: rem(22);

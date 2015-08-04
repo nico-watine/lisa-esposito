@@ -1,0 +1,52 @@
+@import "../../settings/_settings.scss";
+
+
+body#index {
+	footer {
+		position: relative;
+		width: 100%;
+		height: em(230);
+
+		.contact-info,
+		.footer-menu {
+			position: absolute;
+			height: 100%;
+			width: 50%;
+
+			h5 {
+				margin-bottom: rem(20);
+				text-transform: none;
+				font-size: rem(18);
+			}
+		}
+
+		.contact-info {
+			left: 0;
+			padding: em(80) 0 0 em(40);
+		}
+
+		.footer-nav {
+			right: 0;
+			text-align: right;
+			padding: em(80) em(40) 0 0;
+
+			ul {
+				display: block;
+				margin: 0;
+				padding: 0;
+				list-style-type: none;
+				margin-bottom: rem(20);
+				font-size: rem(18);
+
+				li {
+					display: inline-block;
+					margin-right: rem(35);
+				}
+
+				li#last {
+					margin-right: 0;
+				}
+			}
+		}
+	}
+}

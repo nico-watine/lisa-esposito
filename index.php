@@ -65,20 +65,36 @@
 	<aside><h4>'Netherworld'</h4></aside>
 </section>
 
-<section class="bio">
-	<!-- <div class="feature-image"> -->
-		<aside><h4>'All Points West'</h4></aside>
-	<!-- </div> -->
+<main class="bio">
+	<aside><h4>'All Points West'</h4></aside>
 	<div class="verbiage">
 		<h2>Meet Lisa Esposito</h2>
-		<p>I am a self-taught, abstract expressionist artist best known for spiritually evocative, non-representational paintings. In 2005, with no prior art training, I began painting in acrylic on large-scale canvases. <br>
+		<p>I am a self-taught, abstract expressionist artist best known for spiritually evocative, non-representational paintings. In 2005, with no prior art training, I began painting in acrylic on large-scale canvases. <br> <br>
 		Evolving as a painter, I gained gallery representation in 2006. An exhibited artist, I am inspired by the Abstract Expressionists of the early to mid-20th c. as well as Buddhism, Taoism, ancient Greek philosophy, and New England Transcendentalism. My artwork consists of vibrant, contrasting colors and abstract images drawn from 25 years of teaching Philosophy.</p>
 	</div>
+</main>
+
+<section class="quoted">
+	<h2>“The first rule is to keep an untroubled spirit. <br>The second is to look things in the face and know them for what they are.” </h2>
+	<h3>Marcus Aurelius</h3>
+	<aside><h4>'Back to Center'</h4></aside>
 </section>
 
-
-
-
+<footer>
+	<div class="contact-info">
+		<h5>832-520-4743</h5>
+		<h5>info@lisaesposito.com</h5>
+	</div>
+	<div class="footer-nav">
+		<ul>
+			<li>Galleries</li>
+			<li>Upcoming Events</li>
+			<li>Artist Statement</li>
+			<li id="last">CV/Bio</li>
+		</ul>
+		<h5>&copy; Lisa Esposito, PhD | 2015</h5>
+	</div>
+</footer>
 
 <script src="<?php autoVer('/js/scripts-min.js'); ?>"></script>
 
