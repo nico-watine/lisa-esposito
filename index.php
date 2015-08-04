@@ -99,6 +99,11 @@
 	</div>
 </footer>
 
+<script src="./"></script>
+
+<!--[if lt IE 9]>
+	<script src="<?php autoVer('/js/ie-min.js'); ?>"></script>
+<![endif]-->
 
 </body>
 </html>
