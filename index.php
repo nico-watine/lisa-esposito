@@ -8,7 +8,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
-	<title>PAGE TITLE</title>
+	<title>Lisa Esposito, PhD | Abstract Expressionist Painter</title>
 	<meta name="description" content="###">
 	<link type="text/plain" rel="author" href="/humans.txt">
 	
@@ -47,6 +47,7 @@
 	<aside><h4>'Escape Artist'</h4></aside>
 </header>
 
+<main>
 <section class="gallery-link" id="linear-abstraction">
 	<div class="verbiage">
 		<h2>GALLERY</h2>
@@ -65,14 +66,14 @@
 	<aside><h4>'Netherworld'</h4></aside>
 </section>
 
-<main class="bio">
+<section class="bio">
 	<aside><h4>'All Points West'</h4></aside>
-	<div class="verbiage">
+	<article class="verbiage">
 		<h2>Meet Lisa Esposito</h2>
 		<p>I am a self-taught, abstract expressionist artist best known for spiritually evocative, non-representational paintings. In 2005, with no prior art training, I began painting in acrylic on large-scale canvases. <br> <br>
 		Evolving as a painter, I gained gallery representation in 2006. An exhibited artist, I am inspired by the Abstract Expressionists of the early to mid-20th c. as well as Buddhism, Taoism, ancient Greek philosophy, and New England Transcendentalism. My artwork consists of vibrant, contrasting colors and abstract images drawn from 25 years of teaching Philosophy.</p>
-	</div>
-</main>
+	</article>
+</section>
 
 <section class="quoted">
 	<h2>“The first rule is to keep an untroubled spirit. <br>The second is to look things in the face and know them for what they are.” </h2>
@@ -80,10 +81,12 @@
 	<aside><h4>'Back to Center'</h4></aside>
 </section>
 
+</main>
+
 <footer>
 	<div class="contact-info">
 		<h5>832-520-4743</h5>
-		<h5>info@lisaesposito.com</h5>
+		<h5>Info@LisaEsposito.com</h5>
 	</div>
 	<div class="footer-nav">
 		<ul>
@@ -96,7 +99,6 @@
 	</div>
 </footer>
 
-<script src="<?php autoVer('/js/scripts-min.js'); ?>"></script>
 
 </body>
 </html>

@@ -760,6 +760,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/index\/landing\/header\/escape-artist@880.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62478,
+		"inputAbbreviatedPath": "\/img\/index\/landing\/header\/escape-artist@880.jpg",
+		"outputAbbreviatedPath": "\/img\/index\/landing\/header\/escape-artist@880.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/index\/quoted\/_ignores\/original.jpg": {
 		"fileType": 16384,
 		"ignore": 0,

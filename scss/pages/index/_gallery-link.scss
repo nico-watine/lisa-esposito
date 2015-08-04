@@ -19,6 +19,18 @@
 		height: 100%;
 		width: em(250);	
 	}
+
+	@include media($large) {
+		h2 {
+			font-size: rem(28);
+		}
+		h3.gallery-title {
+			font-size: rem(35);
+		}
+		.angled-div {
+			width: 15%;
+		}
+	}
 }
 
 .gallery-link#linear-abstraction {
@@ -54,6 +66,12 @@
 		bottom: em(16);
 		left: em(30);
 	}
+
+	@include media($large) {
+		.verbiage {
+			padding-top: em(60);
+		}
+	}
 }
 
 .gallery-link#lyrical-abstraction {
@@ -88,6 +106,12 @@
 		position: absolute;
 		right: em(30);
 		top: em(30);
+	}
+
+	@include media($large) {
+		.verbiage {
+			padding-top: em(270);
+		}
 	}
 }
 

@@ -218,35 +218,57 @@ html, body { background-color: #F6F6F6; }
 #index header #contact-info .row h4 { display: inline-block; }
 #index header #contact-info .row h4#phone { margin-right: 2.5rem; }
 #index header aside { position: absolute; top: 1.875em; right: 3.75em; color: #fff; }
+@media screen and (max-width: 62.5em) { #index header { height: 34.375em; }
+  #index header .verbiage { padding-top: 3.125em; } }
+@media only screen and (max-width: 880px) { #index header { background: url("/img/index/landing/header/escape-artist@880.jpg") no-repeat; background-position: right top; }
+  #index header h1 { font-size: 3.4375rem; }
+  #index header h2 { font-size: 1.625rem; }
+  #index header nav ul.vertical-list li a { font-size: 1.375rem; }
+  #index header aside { top: 0.625em; right: 0.625em; }
+  #index header #contact-info .row h4 { display: block; font-size: 1.25rem; }
+  #index header #contact-info .row h4#phone { margin-right: 0; } }
 
-.angled-div#landing { width: 23.75em; height: 41.875em; background: #F6F6F6; top: 0; left: 0; margin-right: 9.375em; }
+.angled-div#landing { width: 30%; height: 41.875em; background: #F6F6F6; top: 0; left: 0; margin-right: 9.375em; }
 
 .angled-div#landing:after { border-top: 0 solid transparent; border-bottom: 670px solid #F6F6F6; border-left: 0 solid transparent; border-right: 150px solid transparent; right: -150px; top: 0; }
 
+@media only screen and (max-width: 1100px) { .angled-div#landing { width: 20%; } }
+@media screen and (max-width: 62.5em) { .angled-div#landing { height: 34.375em; }
+  .angled-div#landing:after { border-bottom: 550px solid #F6F6F6; } }
 .gallery-link { color: #fff; position: relative; }
 .gallery-link h2 { font-size: 2rem; letter-spacing: 1.2; font-weight: 400; }
 .gallery-link h3.gallery-title { font-size: 2.5rem; }
 .gallery-link .angled-div { background: #4A4A4A; height: 100%; width: 15.625em; }
+@media screen and (max-width: 62.5em) { .gallery-link h2 { font-size: 1.75rem; }
+  .gallery-link h3.gallery-title { font-size: 2.1875rem; }
+  .gallery-link .angled-div { width: 15%; } }
 
 .gallery-link#linear-abstraction { height: 28.75em; background: url("/img/index/gallery-link/linear-abstraction/lost-in-transit.jpg") no-repeat; background-position: left top; border-bottom: 1.25em solid #4a4a4a; }
 .gallery-link#linear-abstraction .verbiage { text-align: right; position: absolute; right: 0; padding: 8.75em 2.5em 0 0; z-index: 10; }
 .gallery-link#linear-abstraction .angled-div { right: 0; top: 0; margin-left: 9.375em; }
 .gallery-link#linear-abstraction .angled-div:after { left: -150px; top: 0; border-top: 460px solid #4a4a4a; border-bottom: 0 solid transparent; border-left: 150px solid transparent; border-right: 0 solid transparent; }
 .gallery-link#linear-abstraction aside { position: absolute; bottom: 1em; left: 1.875em; }
+@media screen and (max-width: 62.5em) { .gallery-link#linear-abstraction .verbiage { padding-top: 3.75em; } }
 
 .gallery-link#lyrical-abstraction { height: 26.25em; background: url("/img/index/gallery-link/lyrical-abstraction/netherworld.jpg") no-repeat; background-position: right top; border-bottom: 1.25em solid #4a4a4a; }
 .gallery-link#lyrical-abstraction .verbiage { text-align: left; position: absolute; left: 0; padding: 8.75em 0 0 2.5em; z-index: 10; }
 .gallery-link#lyrical-abstraction .angled-div { left: 0; top: 0; margin-right: 9.375em; }
 .gallery-link#lyrical-abstraction .angled-div:after { right: -150px; top: 0; border-top: 0 solid transparent; border-bottom: 420px solid #4a4a4a; border-left: 0 solid transparent; border-right: 150px solid transparent; }
 .gallery-link#lyrical-abstraction aside { position: absolute; right: 1.875em; top: 1.875em; }
+@media screen and (max-width: 62.5em) { .gallery-link#lyrical-abstraction .verbiage { padding-top: 16.875em; } }
 
-main.bio { position: relative; background: url("/img/index/bio/all-points-west.jpg") no-repeat; background-position: left center; height: 31.25em; }
-main.bio aside { position: absolute; left: 1.875em; top: 2.5em; color: #fff; }
-main.bio .verbiage { width: 50%; position: absolute; height: 100%; right: 0; background: #F6F6F6; padding: 1.875em 1.875em 0 1.875em; }
-main.bio .verbiage p { font-size: 1.375rem; }
+section.bio { position: relative; background: url("/img/index/bio/all-points-west.jpg") no-repeat; background-position: left center; height: 33.125em; }
+section.bio aside { position: absolute; left: 1.875em; bottom: 1.875em; color: #fff; }
+section.bio article.verbiage { width: 50%; position: absolute; height: 100%; right: 0; background: #F6F6F6; padding: 1.875em 1.875em 0 1.875em; }
+section.bio article.verbiage p { font-size: 1.375rem; }
+@media only screen and (max-width: 1100px) { section.bio { height: 35em; } }
+@media screen and (max-width: 62.5em) { section.bio { height: 39.375em; }
+  section.bio article.verbiage h2 { font-size: 2.5rem; } }
+@media only screen and (max-width: 880px) { section.bio { height: 40.625em; }
+  section.bio article.verbiage { width: 55%; } }
 
 section.quoted { width: 100%; height: 30em; background: url("/img/index/quoted/back-to-center.jpg") no-repeat; position: relative; background-position: center; border-top: 0.5em solid #F6F6F6; text-align: center; color: #fff; padding-top: 8.125em; }
-section.quoted h2 { font-size: 2rem; font-weight: 400; margin-bottom: 2.625rem; }
+section.quoted h2 { font-size: 2rem; font-weight: 400; margin-bottom: 2.625rem; padding: 0 1.5625rem; }
 section.quoted h3 { margin-bottom: 2.5rem; font-weight: 700; }
 section.quoted aside { position: absolute; bottom: 2.5em; right: 3.125em; }
 
@@ -258,3 +280,9 @@ body#index footer .footer-nav { right: 0; text-align: right; padding: 5em 2.5em 
 body#index footer .footer-nav ul { display: block; margin: 0; padding: 0; list-style-type: none; margin-bottom: 1.25rem; font-size: 1.125rem; }
 body#index footer .footer-nav ul li { display: inline-block; margin-right: 2.1875rem; }
 body#index footer .footer-nav ul li#last { margin-right: 0; }
+body#index footer .footer-nav h5 { text-transform: none; }
+@media screen and (max-width: 62.5em) { body#index footer .footer-nav ul li { margin-right: 1.25rem; } }
+@media only screen and (max-width: 880px) { body#index footer { height: 12.5em; }
+  body#index footer .contact-info { padding: 3.125em 0 0 1.5em; }
+  body#index footer .footer-nav { padding: 3.125em 1.5em 0 0; }
+  body#index footer h5, body#index footer .footer-nav ul li { font-size: 1rem; } }

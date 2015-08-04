@@ -1,5 +1,8 @@
 @import "../../settings/_settings.scss";
 
+$max-1100: "only screen and (max-width : 1100px)";
+$max-880: "only screen and (max-width : 880px)";
+
 #index {
 	header {
 		height: em(700);
@@ -64,11 +67,71 @@
 			right: em(60);
 			color: #fff;
 		}
+
+		@include media($large) {
+			height: em(550);
+
+			.verbiage {
+				padding-top: em(50);
+			}
+		}
+
+		@media #{$max-880} {
+			background: url('/img/index/landing/header/escape-artist@880.jpg') no-repeat;
+			background-position: right top;
+
+			h1 {
+				font-size: rem(55);
+			}
+
+			h2 {
+				font-size: rem(26);
+			}
+			nav {
+				ul.vertical-list {
+					li {
+						a {
+							font-size: rem(22);
+						}
+					}
+				}
+			}
+
+			aside {
+				top: em(10);
+				right: em(10);
+			}
+
+			#contact-info {
+				.row {
+					h4 {
+						display: block;
+						font-size: rem(20);
+					}
+					h4#phone {
+						margin-right: 0;
+					}
+				}
+			}
+		}
+
+		@include media($medium) {
+			// #contact-info {
+			// 	.row {
+			// 		h4 {
+			// 			display: block;
+			// 		}
+			// 		h4#phone {
+			// 			margin-right: 0;
+			// 		}
+			// 	}
+			// }
+		}
 	}
 }
 
 .angled-div#landing {
-	width: em(380);
+	width: 30%;
 	height: em(670);
 	background: $base-white;
 	top: 0;
@@ -85,4 +148,17 @@
 	top: 0;
 }
 
+@media #{$max-1100} {
+	.angled-div#landing {
+		width: 20%;
+	}
+}
 
+@include media($large) {
+	.angled-div#landing {
+		height: em(550);
+	}
+	.angled-div#landing:after {
+		border-bottom: 550px solid $base-white;
+	}
+}

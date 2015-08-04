@@ -1,5 +1,6 @@
 @import "../../settings/_settings.scss";
 
+$max-880: "only screen and (max-width : 880px)";
 
 body#index {
 	footer {
@@ -46,6 +47,37 @@ body#index {
 				li#last {
 					margin-right: 0;
 				}
+			}
+
+			h5 {
+				text-transform: none;
+			}
+		}
+
+		@include media($large) {
+			.footer-nav {
+				ul {
+					li {
+						margin-right: rem(20);
+					}
+				}
+			}
+		}
+
+		@media #{$max-880} {
+			height: em(200);
+
+			.contact-info {
+				padding: em(50) 0 0 em(24);
+			}
+
+			.footer-nav {
+				padding: em(50) em(24) 0 0;
+			}
+
+			h5,
+			.footer-nav ul li {
+				font-size: rem(16);
 			}
 		}
 	}
