@@ -29,9 +29,11 @@ a,
 a:visited {
 	color: $link-color;
 
+	text-decoration: none;
+
 	&:hover,
 	&:focus {
-		text-decoration: none;
+		text-decoration: underline;
 	}
 }
 

@@ -5,3 +5,11 @@
 @import "_bio.scss";
 @import "_quotes.scss";
 @import "_footer.scss";
+
+body#index {
+	aside {
+		a {
+			color: #fff;
+		}
+	}
+}

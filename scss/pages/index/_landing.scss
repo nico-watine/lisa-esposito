@@ -44,12 +44,7 @@ $max-880: "only screen and (max-width : 880px)";
 				li {
 					display: block;
 					a {
-						text-decoration: none;
 						font-size: rem(26);
-
-						&:hover {
-							text-decoration: underline;
-						}
 					}
 				}
 			}
@@ -59,14 +54,6 @@ $max-880: "only screen and (max-width : 880px)";
 			.row {
 				h4 {
 					display: inline-block;
-
-					a {
-						text-decoration: none;
-
-						&:hover {
-							text-decoration: underline;
-						}
-					}
 				}
 				h4#phone {
 					margin-right: rem(40);
@@ -81,7 +68,6 @@ $max-880: "only screen and (max-width : 880px)";
 			position: absolute;
 			top: em(30);
 			right: em(60);
-			color: #fff;
 		}
 
 		@include media($large) {
@@ -129,19 +115,6 @@ $max-880: "only screen and (max-width : 880px)";
 					}
 				}
 			}
-		}
-
-		@include media($medium) {
-			// #contact-info {
-			// 	.row {
-			// 		h4 {
-			// 			display: block;
-			// 		}
-			// 		h4#phone {
-			// 			margin-right: 0;
-			// 		}
-			// 	}
-			// }
 		}
 	}
 }

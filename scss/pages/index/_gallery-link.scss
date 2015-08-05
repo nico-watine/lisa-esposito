@@ -1,8 +1,18 @@
 @import "../../settings/_settings.scss";
 
 .gallery-link {
-	color: #fff;
 	position: relative;
+
+	a {
+		color: #fff;
+
+		&:hover {
+			h2,
+			h3 {
+				text-decoration: underline;
+			}
+		}
+	}
 
 	h2 {
 		font-size: rem(32);

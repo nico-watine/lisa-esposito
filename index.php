@@ -45,30 +45,34 @@
 		</div>
 	</div>
 	<div class="angled-div" id="landing"></div>
-	<aside><h4>'Escape Artist'</h4></aside>
+	<aside><h4><a href="#">'Escape Artist'</a></h4></aside>
 </header>
 
 <main>
 <section class="gallery-link" id="linear-abstraction">
-	<div class="verbiage">
-		<h2>GALLERY</h2>
-		<h3 class="gallery-title">Linear Abstraction</h3>
-	</div>
-	<div class="angled-div"></div>
-	<aside><h4>'Lost In Transition'</h4></aside>
+	<a href="#">
+		<div class="verbiage">
+			<h2>GALLERY</h2>
+			<h3 class="gallery-title">Linear Abstraction</h3>
+		</div>
+		<div class="angled-div"></div>
+	</a>
+	<aside><h4><a href="#">'Lost In Transition'</a></h4></aside>
 </section>
 
 <section class="gallery-link" id="lyrical-abstraction">
-	<div class="verbiage">
-		<h2>GALLERY</h2>
-		<h3 class="gallery-title">Lyrical Abstraction</h3>
-	</div>
-	<div class="angled-div"></div>
-	<aside><h4>'Netherworld'</h4></aside>
+	<a href="#">
+		<div class="verbiage">
+			<h2>GALLERY</h2>
+			<h3 class="gallery-title">Lyrical Abstraction</h3>
+		</div>
+		<div class="angled-div"></div>
+	</a>
+	<aside><h4><a href="#">'Netherworld'</a></h4></aside>
 </section>
 
 <section class="bio">
-	<aside><h4>'All Points West'</h4></aside>
+	<aside><h4><a href="#">'All Points West'</a></h4></aside>
 	<article class="verbiage">
 		<h2>Meet Lisa Esposito</h2>
 		<p>I am a self-taught, abstract expressionist artist best known for spiritually evocative, non-representational paintings. In 2005, with no prior art training, I began painting in acrylic on large-scale canvases. <br> <br>
@@ -79,7 +83,7 @@
 <section class="quoted">
 	<h2>“The first rule is to keep an untroubled spirit. <br>The second is to look things in the face and know them for what they are.” </h2>
 	<h3>Marcus Aurelius</h3>
-	<aside><h4>'Back to Center'</h4></aside>
+	<aside><h4><a href="#">'Back to Center'</a></h4></aside>
 </section>
 
 </main>
