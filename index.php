@@ -11,6 +11,7 @@
 	<title>Lisa Esposito, PhD | Abstract Expressionist Painter</title>
 	<meta name="description" content="###">
 	<link type="text/plain" rel="author" href="/humans.txt">
+	<meta name="format-detection" content="telephone=no">
 	
 	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>"/>
 
@@ -25,20 +26,20 @@
 
 <header>
 	<div class="verbiage">
-		<h1 id="lisa">Lisa Esposito, PhD</h1>	
-		<h2 id="painter">Abstract Expressionist Painter</h2>
+		<h1>Lisa Esposito<span>, PhD</span></h1>	
+		<h2>Abstract Expressionist Painter</h2>
 		<nav>
 			<ul class="vertical-list">
-				<li><a href="/galleries/">Galleries</a></li>
-				<li><a href="/upcoming-events/">Upcoming Events</a></li>
-				<li><a href="#">Artist Statement</a></li>
-				<li><a href="#">CV / Bio</a></li>
+				<li><a href="http://lisaesposito.com/galleries.html">Galleries</a></li>
+				<!--TO BE ADDED LATER ON--> <!-- <li><a href="/upcoming-events/">Upcoming Events</a></li> --> 
+				<li><a href="http://lisaesposito.com/artist-statement.html">Artist Statement</a></li>
+				<li><a href="http://lisaesposito.com/bio.html">CV / Bio</a></li>
 			</ul>
 		</nav>
 		<div id="contact-info">
 			<div class="row">
-				<h4 id="phone">832-520-4743</h4>
-				<h4 id="email">info@lisaesposito.com</h4>
+				<h4 id="phone"><a href="tel://832-651-3136">832-520-4743</a></h4>
+				<h4 id="email"><a href="mailto:info@lisaesposito.com" target="_top">Info@LisaEsposito.com</a></h4>
 			</div>
 			<h4>Located in the Greater Boston area</h4>
 		</div>
@@ -85,21 +86,20 @@
 
 <footer>
 	<div class="contact-info">
-		<h5>832-520-4743</h5>
-		<h5>Info@LisaEsposito.com</h5>
+		<h5><a href="tel://832-651-3136">832-520-4743</a></h5>
+		<h5><a href="mailto:info@lisaesposito.com" target="_top">Info@LisaEsposito.com</a></h5>
 	</div>
 	<div class="footer-nav">
 		<ul>
-			<li>Galleries</li>
-			<li>Upcoming Events</li>
-			<li>Artist Statement</li>
-			<li id="last">CV/Bio</li>
+			<li><a href="http://lisaesposito.com/galleries.html">Galleries</a></li>
+			<!--TO BE ADDED LATER ON--> <!-- <li><a href="/upcoming-events/">Upcoming Events</a></li> --> 
+			<li><a href="http://lisaesposito.com/artist-statement.html">Artist Statement</a></li>
+			<li id="last"><a href="http://lisaesposito.com/bio.html">CV / Bio</a></li>
 		</ul>
 		<h5>&copy; Lisa Esposito, PhD | 2015</h5>
 	</div>
 </footer>
 
-<script src="./"></script>
 
 <!--[if lt IE 9]>
 	<script src="<?php autoVer('/js/ie-min.js'); ?>"></script>

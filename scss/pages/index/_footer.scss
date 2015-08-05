@@ -8,6 +8,14 @@ body#index {
 		width: 100%;
 		height: em(230);
 
+		a {
+			text-decoration: none;
+
+			&:hover {
+				text-decoration: underline;
+			}
+		}
+
 		.contact-info,
 		.footer-menu {
 			position: absolute;

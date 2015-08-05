@@ -23,8 +23,16 @@ $max-880: "only screen and (max-width : 880px)";
 				display: block;
 			}
 
-			h2#painter {
-				font-size: $h3-size;
+			h1 {
+				font-size: rem(72);
+
+				span {
+					font-size: rem(40);
+				}
+			}
+
+			h2 {
+				font-size: rem(45);
 				margin-bottom: rem(60);
 			}
 		}
@@ -51,6 +59,14 @@ $max-880: "only screen and (max-width : 880px)";
 			.row {
 				h4 {
 					display: inline-block;
+
+					a {
+						text-decoration: none;
+
+						&:hover {
+							text-decoration: underline;
+						}
+					}
 				}
 				h4#phone {
 					margin-right: rem(40);
