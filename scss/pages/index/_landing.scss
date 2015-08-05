@@ -1,13 +1,33 @@
 @import "../../settings/_settings.scss";
 
-$max-1100: "only screen and (max-width : 1100px)";
-$max-880: "only screen and (max-width : 880px)";
+$max-2001: "only screen and (max-width : 2001px)";
+$max-1801: "only screen and (max-width : 1801px)";
+$max-1601: "only screen and (max-width : 1601px)";
+$max-1101: "only screen and (max-width : 1101px)";
+$max-881: "only screen and (max-width : 881px)";
 
 #index {
 	header {
-		height: em(700);
-		background: url('/img/index/landing/header/escape-artist.jpg') no-repeat;
+		background: url('/img/index/landing/header/escape-artist@max.jpg') no-repeat;
 		background-position: right top;
+		background-size: cover;
+
+		@media #{$max-2001} {
+			background: url('/img/index/landing/header/escape-artist@2001.jpg') no-repeat;
+			background-position: right top;
+		}
+
+		@media #{$max-1801} {
+			background: url('/img/index/landing/header/escape-artist@1801.jpg') no-repeat;
+			background-position: right top;
+		}
+
+		@media #{$max-1601} {
+			background: url('/img/index/landing/header/escape-artist@1601.jpg') no-repeat;
+			background-position: right top;
+		}
+
+		height: em(700);
 		border-bottom: em(30) solid $base-white;
 		position: relative;
 
@@ -72,8 +92,8 @@ $max-880: "only screen and (max-width : 880px)";
 			}
 		}
 
-		@media #{$max-880} {
-			background: url('/img/index/landing/header/escape-artist@880.jpg') no-repeat;
+		@media #{$max-881} {
+			background: url('/img/index/landing/header/escape-artist@881.jpg') no-repeat;
 			background-position: right top;
 
 			h1 {
@@ -131,7 +151,7 @@ $max-880: "only screen and (max-width : 880px)";
 	top: 0;
 }
 
-@media #{$max-1100} {
+@media #{$max-1101} {
 	.angled-div#landing {
 		width: 20%;
 	}

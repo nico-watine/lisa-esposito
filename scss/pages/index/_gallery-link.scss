@@ -1,5 +1,7 @@
 @import "../../settings/_settings.scss";
 
+$max-1501: "only screen and (max-width : 1501px)";
+
 .gallery-link {
 	position: relative;
 
@@ -44,9 +46,16 @@
 
 .gallery-link#linear-abstraction {
 	height: em(460);
+	border-bottom: em(20) solid #4a4a4a;
+
 	background: url('/img/index/gallery-link/linear-abstraction/lost-in-transit.jpg') no-repeat;
 	background-position: left top;
-	border-bottom: em(20) solid #4a4a4a;
+	
+	background-size: cover;
+
+	@media #{$max-1501} {
+		background-size: inherit;
+	}
 
 	.verbiage {
 		text-align: right;
@@ -79,9 +88,16 @@
 
 .gallery-link#lyrical-abstraction {
 	height: em(420);
+	border-bottom: em(20) solid #4a4a4a;
+
 	background: url('/img/index/gallery-link/lyrical-abstraction/netherworld.jpg') no-repeat;
 	background-position: right top;
-	border-bottom: em(20) solid #4a4a4a;
+
+	background-size: cover;
+
+	@media #{$max-1501} {
+		background-size: inherit;
+	}
 
 	.verbiage {
 		text-align: left;
