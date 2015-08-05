@@ -6,10 +6,28 @@
 @import "_quotes.scss";
 @import "_footer.scss";
 
-body#index {
+#index {
 	aside {
+		position: absolute;
+		
 		a {
 			color: #fff;
 		}
+	}
+}
+
+.gallery-link#linear-abstraction,
+section.bio {
+	aside {
+		bottom: em(15);
+		left: em(30);
+	}
+}
+
+#index header,
+.gallery-link#lyrical-abstraction {
+	aside {
+		top: em(30);
+		right: em(30);
 	}
 }

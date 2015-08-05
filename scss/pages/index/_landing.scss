@@ -64,12 +64,6 @@ $max-880: "only screen and (max-width : 880px)";
 			display: block;
 		}
 
-		aside {
-			position: absolute;
-			top: em(30);
-			right: em(60);
-		}
-
 		@include media($large) {
 			height: em(550);
 

@@ -57,7 +57,7 @@
 		</div>
 		<div class="angled-div"></div>
 	</a>
-	<aside><h4><a href="#">'Lost In Transition'</a></h4></aside>
+	<aside><h4><a href="#">'Lost In Transit'</a></h4></aside>
 </section>
 
 <section class="gallery-link" id="lyrical-abstraction">

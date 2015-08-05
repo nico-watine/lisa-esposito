@@ -16,7 +16,6 @@
 
 	h2 {
 		font-size: rem(32);
-		letter-spacing: $h5-h6-letter-spacing;
 		font-weight: $body-font-weight;
 	}
 
@@ -71,12 +70,6 @@
 	    border-right: 0 solid transparent;
 	}
 
-	aside {
-		position: absolute;
-		bottom: em(16);
-		left: em(30);
-	}
-
 	@include media($large) {
 		.verbiage {
 			padding-top: em(60);
@@ -110,12 +103,6 @@
 	    border-bottom: 420px solid #4a4a4a;
 	    border-left: 0 solid transparent;
 	    border-right: 150px solid transparent;
-	}
-
-	aside {
-		position: absolute;
-		right: em(30);
-		top: em(30);
 	}
 
 	@include media($large) {
