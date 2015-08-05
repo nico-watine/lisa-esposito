@@ -28,7 +28,7 @@ $max-1501: "only screen and (max-width : 1501px)";
 	.angled-div {
 		background: #4A4A4A;
 		height: 100%;
-		width: em(250);	
+		width: 20%;
 	}
 
 	@include media($large) {
@@ -51,7 +51,7 @@ $max-1501: "only screen and (max-width : 1501px)";
 	background: url('/img/index/gallery-link/linear-abstraction/lost-in-transit.jpg') no-repeat;
 	background-position: left top;
 	
-	background-size: cover;
+	background-size: 85%;
 
 	@media #{$max-1501} {
 		background-size: inherit;
@@ -93,7 +93,7 @@ $max-1501: "only screen and (max-width : 1501px)";
 	background: url('/img/index/gallery-link/lyrical-abstraction/netherworld.jpg') no-repeat;
 	background-position: right top;
 
-	background-size: cover;
+	background-size: 85%;
 
 	@media #{$max-1501} {
 		background-size: inherit;

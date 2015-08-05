@@ -1,15 +1,22 @@
 @import "../../settings/_settings.scss";
 
+$max-1441: "only screen and (max-width : 1441px)";
+
 section.quoted {
 	width: 100%;
 	height: em(480);
 	background: url('/img/index/quoted/back-to-center.jpg') no-repeat;
+	background-size: 100%;
 	position: relative;
 	background-position: center;
 	border-top: em(8) solid $base-white;
 	text-align: center;
 	color: #fff;
 	padding-top: em(130);
+
+	@media #{$max-1441} {
+		background-size: inherit;
+	}
 
 	h2 {
 		font-size: rem(32);

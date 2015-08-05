@@ -1,7 +1,6 @@
 @import "../../settings/_settings.scss";
 
 $max-2001: "only screen and (max-width : 2001px)";
-$max-1801: "only screen and (max-width : 1801px)";
 $max-1601: "only screen and (max-width : 1601px)";
 $max-1101: "only screen and (max-width : 1101px)";
 $max-881: "only screen and (max-width : 881px)";
@@ -10,21 +9,17 @@ $max-881: "only screen and (max-width : 881px)";
 	header {
 		background: url('/img/index/landing/header/escape-artist@max.jpg') no-repeat;
 		background-position: right top;
-		background-size: cover;
+		background-size: 75%;
 
 		@media #{$max-2001} {
 			background: url('/img/index/landing/header/escape-artist@2001.jpg') no-repeat;
 			background-position: right top;
 		}
 
-		@media #{$max-1801} {
-			background: url('/img/index/landing/header/escape-artist@1801.jpg') no-repeat;
-			background-position: right top;
-		}
-
 		@media #{$max-1601} {
 			background: url('/img/index/landing/header/escape-artist@1601.jpg') no-repeat;
 			background-position: right top;
+			background-size: inherit;
 		}
 
 		height: em(700);
@@ -86,6 +81,8 @@ $max-881: "only screen and (max-width : 881px)";
 
 		@include media($large) {
 			height: em(550);
+			background: url('/img/index/landing/header/escape-artist@large.jpg') no-repeat;
+			background-position: right top;
 
 			.verbiage {
 				padding-top: em(50);
@@ -93,9 +90,6 @@ $max-881: "only screen and (max-width : 881px)";
 		}
 
 		@media #{$max-881} {
-			background: url('/img/index/landing/header/escape-artist@881.jpg') no-repeat;
-			background-position: right top;
-
 			h1 {
 				font-size: rem(55);
 			}
