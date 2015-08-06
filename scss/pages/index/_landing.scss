@@ -86,17 +86,32 @@ $max-881: "only screen and (max-width : 881px)";
 
 			.verbiage {
 				padding-top: em(50);
+
+				h1 {
+					font-size: rem(60);
+
+					span {
+						font-size: rem(32);
+					}
+				}
+				h2 {
+					font-size: rem(40);
+				}
+			}
+
+			#contact-info {
+				h4,
+				.row h4 {
+					font-size: rem(20);
+					display: block;
+				}
+				h4#phone {
+					margin-right: 0;
+				}
 			}
 		}
 
 		@media #{$max-881} {
-			h1 {
-				font-size: rem(55);
-			}
-
-			h2 {
-				font-size: rem(26);
-			}
 			nav {
 				ul.vertical-list {
 					li {
@@ -113,14 +128,9 @@ $max-881: "only screen and (max-width : 881px)";
 			}
 
 			#contact-info {
-				.row {
-					h4 {
-						display: block;
-						font-size: rem(20);
-					}
-					h4#phone {
-						margin-right: 0;
-					}
+				h4,
+				.row h4 {
+					font-size: rem(18);
 				}
 			}
 		}

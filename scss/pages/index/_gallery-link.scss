@@ -84,6 +84,26 @@ $max-1501: "only screen and (max-width : 1501px)";
 			padding-top: em(60);
 		}
 	}
+
+	@include media($small-plus) {
+		height: em(300);
+
+		.verbiage {
+			padding: 0;
+			top: em(40);
+			right: em(40);
+		}
+
+		.angled-div {
+			margin-left: em(100);
+		}
+
+		.angled-div:after {
+			left: -100px;
+			border-top: 300px solid #4a4a4a;
+			border-left: 100px solid transparent;
+		}
+	}
 }
 
 .gallery-link#lyrical-abstraction {
@@ -124,6 +144,26 @@ $max-1501: "only screen and (max-width : 1501px)";
 	@include media($large) {
 		.verbiage {
 			padding-top: em(270);
+		}
+	}
+
+	@include media($small-plus) {
+		height: em(300);
+
+		.verbiage {
+			padding: 0;
+			top: em(180);
+			left: em(40);
+		}
+
+		.angled-div {
+			margin-right: em(100);
+		}
+
+		.angled-div:after {
+			right: -100px;
+			border-bottom: 300px solid #4a4a4a;
+			border-right: 100px solid transparent;
 		}
 	}
 }

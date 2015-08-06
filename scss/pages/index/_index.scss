@@ -31,3 +31,11 @@ section.bio {
 		right: em(30);
 	}
 }
+
+@include media($medium) {
+	aside {
+		a {
+			font-size: rem(20);
+		}
+	}
+}

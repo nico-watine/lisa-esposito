@@ -13,11 +13,12 @@ section.bio {
 
 	article.verbiage {
 		width: 50%;
+		top: 0;
 		position: absolute;
 		height: 100%;
 		right: 0;
 		background: $base-white;
-		padding: em(30) em(30) 0 em(30);
+		padding: rem(30) rem(30) 0 rem(30);
 
 		p {
 			font-size: rem(22);
@@ -43,7 +44,34 @@ section.bio {
 		height: em(650);
 
 		article.verbiage {
-			width: 55%;
-		}	
+			padding: rem(20) rem(24) 0 rem(24);
+
+			h2 {
+				font-size: rem(34);
+			}
+		}
+	}
+
+	@include media($medium) {
+		height: auto;
+		padding-top: em(300);
+
+		aside {
+			top: em(20);
+
+			a {
+				color: #333 !important;
+			}
+		}
+
+		article.verbiage {
+			position: inherit;
+			height: auto;
+			width: 100%;
+
+			p {
+				font-size: rem(20);
+			}
+		}
 	}
 }
