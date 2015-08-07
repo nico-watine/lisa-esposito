@@ -50,24 +50,24 @@
 
 <main>
 <section class="gallery-link" id="linear-abstraction">
-	<a href="http://lisaesposito.com/galleries/new-artworks.html">
 		<div class="verbiage">
 			<h2>GALLERY</h2>
-			<h3 class="gallery-title">Linear Abstraction</h3>
+			<a href="http://lisaesposito.com/galleries/new-artworks.html" class="verbiage-link">
+				<h3 class="gallery-title">Linear Abstraction</h3>
+			</a>
 		</div>
-		<div class="angled-div"></div>
-	</a>
+	<div class="angled-div"></div>
 	<aside><h4><a href="http://lisaesposito.com/galleries/new-artworks.html#!/Lost-in-Transit/p/51320080/category=5009182">'Lost In Transit'</a></h4></aside>
 </section>
 
 <section class="gallery-link" id="lyrical-abstraction">
-	<a href="http://lisaesposito.com/galleries/free-intuitive-spontaneous.html">
 		<div class="verbiage">
 			<h2>GALLERY</h2>
-			<h3 class="gallery-title">Lyrical Abstraction</h3>
+			<a href="http://lisaesposito.com/galleries/free-intuitive-spontaneous.html" class="verbiage-link">
+				<h3 class="gallery-title">Lyrical Abstraction</h3>
+			</a>
 		</div>
 		<div class="angled-div"></div>
-	</a>
 	<aside><h4><a href="http://lisaesposito.com/galleries/free-intuitive-spontaneous.html#!/Netherworld-SOLD/p/25990544/category=5009183">'Netherworld'</a></h4></aside>
 </section>
 

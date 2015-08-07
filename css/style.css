@@ -242,7 +242,7 @@ html, body { background-color: #F6F6F6; }
   #index header nav ul.vertical-list li a { font-size: 1.375rem; }
   #index header aside { top: 0.625em; right: 0.625em; }
   #index header #contact-info h4, #index header #contact-info .row h4 { font-size: 1.125rem; } }
-@media screen and (max-width: 43.8125em) { #index header { border-bottom: 0; }
+@media screen and (max-width: 43.8125em) { #index header { background: url("/img/index/landing/header/escape-artist@mobile.jpg") no-repeat; background-position: center top; border-bottom: 0; }
   #index header nav, #index header #contact-info { display: inline-block; }
   #index header .verbiage { padding: 0; width: 100%; top: 50%; padding: 0 3%; height: 45%; }
   #index header .verbiage h1 { color: #fff; margin-bottom: 1.25rem; }
@@ -261,9 +261,10 @@ html, body { background-color: #F6F6F6; }
   #index header nav ul.vertical-list li a { font-size: 1.125rem; }
   #index header #contact-info { text-align: left; left: 0; display: block; top: 0; position: relative; }
   #index header #contact-info .row h4, #index header #contact-info h4 { font-size: 1rem; margin-bottom: 0.3125rem; } }
-@media only screen and (max-width: 481px) { #index header { height: 32.5em; }
+@media only screen and (max-width: 481px) { #index header { height: 32.5em; background-position: -200px -70px; }
   #index header .verbiage { top: 40%; height: 60%; } }
-@media only screen and (max-width: 401px) { #index header .verbiage { top: 35%; height: 65%; } }
+@media only screen and (max-width: 401px) { #index header { background-position: -270px -70px; }
+  #index header .verbiage { top: 35%; height: 65%; } }
 
 .angled-div#landing { width: 30%; height: 41.875em; background: #F6F6F6; top: 0; left: 0; margin-right: 9.375em; }
 
@@ -277,9 +278,10 @@ html, body { background-color: #F6F6F6; }
 @media only screen and (max-width: 601px) { .angled-div#landing { top: 55%; height: 45%; } }
 @media only screen and (max-width: 481px) { .angled-div#landing { top: 50%; height: 50%; } }
 @media only screen and (max-width: 401px) { .angled-div#landing { top: 45%; height: 55%; } }
-.gallery-link { position: relative; }
+.gallery-link { position: relative; color: #fff; }
 .gallery-link a { color: #fff; }
-.gallery-link a:hover h2, .gallery-link a:hover h3 { text-decoration: underline; }
+.gallery-link a.verbiage-link { text-decoration: underline; }
+.gallery-link a.verbiage-link:hover { text-decoration: none; }
 .gallery-link h2 { font-size: 2rem; font-weight: 400; }
 .gallery-link h3.gallery-title { font-size: 2.5rem; }
 .gallery-link .angled-div { background: #4A4A4A; height: 100%; width: 20%; }
@@ -291,7 +293,7 @@ html, body { background-color: #F6F6F6; }
 
 .gallery-link#linear-abstraction { height: 28.75em; border-bottom: 1.25em solid #4a4a4a; background: url("/img/index/gallery-link/linear-abstraction/lost-in-transit.jpg") no-repeat; background-position: left top; background-size: 85%; }
 @media only screen and (max-width: 1501px) { .gallery-link#linear-abstraction { background-size: inherit; } }
-.gallery-link#linear-abstraction .verbiage { text-align: right; position: absolute; right: 0; padding: 8.75em 2.5em 0 0; z-index: 10; }
+.gallery-link#linear-abstraction .verbiage { text-align: right; position: absolute; right: 4%; top: 23%; z-index: 10; }
 .gallery-link#linear-abstraction .angled-div { right: 0; top: 0; margin-left: 9.375em; }
 .gallery-link#linear-abstraction .angled-div:after { left: -150px; top: 0; border-top: 460px solid #4a4a4a; border-bottom: 0 solid transparent; border-left: 150px solid transparent; border-right: 0 solid transparent; }
 @media screen and (max-width: 62.5em) { .gallery-link#linear-abstraction .verbiage { padding-top: 3.75em; } }

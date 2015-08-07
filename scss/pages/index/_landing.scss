@@ -152,6 +152,8 @@ $max-401: "only screen and (max-width : 401px)";
 		}
 
 		@include media($small-plus) {
+			background: url('/img/index/landing/header/escape-artist@mobile.jpg') no-repeat;
+			background-position: center top;
 			border-bottom: 0;
 
 			nav,
@@ -253,6 +255,7 @@ $max-401: "only screen and (max-width : 401px)";
 
 		@media #{$max-481} {
 			height: em(520);
+			background-position: -200px -70px; 
 
 			.verbiage {
 				top: 40%;
@@ -261,6 +264,8 @@ $max-401: "only screen and (max-width : 401px)";
 		}
 
 		@media #{$max-401} {
+			background-position: -270px -70px; 
+
 			.verbiage {
 				top: 35%;
 				height: 65%;

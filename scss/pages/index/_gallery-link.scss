@@ -6,15 +6,17 @@ $max-481: "only screen and (max-width : 481px)";
 
 .gallery-link {
 	position: relative;
+	color: #fff;
 
 	a {
 		color: #fff;
+	}
+
+	a.verbiage-link {
+		text-decoration: underline;
 
 		&:hover {
-			h2,
-			h3 {
-				text-decoration: underline;
-			}
+			text-decoration: none;
 		}
 	}
 
@@ -74,8 +76,8 @@ $max-481: "only screen and (max-width : 481px)";
 	.verbiage {
 		text-align: right;
 		position: absolute;
-		right: 0;
-		padding: em(140) em(40) 0 0;
+		right: 4%;
+		top: 23%;
 		z-index: 10;
 	}
 
