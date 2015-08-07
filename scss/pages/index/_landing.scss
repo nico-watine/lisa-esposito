@@ -4,6 +4,9 @@ $max-2001: "only screen and (max-width : 2001px)";
 $max-1601: "only screen and (max-width : 1601px)";
 $max-1101: "only screen and (max-width : 1101px)";
 $max-881: "only screen and (max-width : 881px)";
+$max-601: "only screen and (max-width : 601px)";
+$max-481: "only screen and (max-width : 481px)";
+$max-401: "only screen and (max-width : 401px)";
 
 #index {
 	header {
@@ -112,6 +115,19 @@ $max-881: "only screen and (max-width : 881px)";
 		}
 
 		@media #{$max-881} {
+
+			.verbiage {
+				h1 {
+					font-size: rem(44);
+
+					span {
+						font-size: rem(22);
+					}
+				}
+				h2 {
+					font-size: rem(30);
+				}
+			}
 			nav {
 				ul.vertical-list {
 					li {
@@ -132,6 +148,122 @@ $max-881: "only screen and (max-width : 881px)";
 				.row h4 {
 					font-size: rem(18);
 				}
+			}
+		}
+
+		@include media($small-plus) {
+			border-bottom: 0;
+
+			nav,
+			#contact-info {
+				display: inline-block;
+			}
+
+			.verbiage {
+				padding: 0;
+				width: 100%;
+				top: 50%;
+				padding: 0 3%;
+				height: 45%;
+
+				h1 {
+					color: #fff;
+					margin-bottom: rem(20);
+				}
+
+				h2 {
+					margin-bottom: rem(20);
+				}
+			}
+
+			nav {
+				ul.vertical-list {
+					li {
+						a {
+							font-size: rem(24);
+						}
+					}
+				}
+			}
+
+			#contact-info {
+				text-align: right;
+				right: 7%;
+				
+				.row {
+					h4#phone {
+						margin-right: 0;
+					}	
+				}
+			}
+		}
+
+		@media #{$max-601} {
+			height: em(575);
+
+			aside {
+				top: em(10);
+				right: em(10);
+			}
+
+			.verbiage {
+				height: 44%;
+				top: 46%;
+
+				h1 {
+					font-size: rem(40);
+					margin-bottom: rem(10)''
+				}
+
+				h2 {
+					font-size: rem(25);
+				}
+			}
+
+			nav {
+				display: block;
+
+				ul.vertical-list {
+					margin-bottom: rem(36);
+
+					li {
+						margin-bottom: rem(6);
+
+						a {
+							font-size: rem(18);
+						}
+					}
+				}
+			}
+
+			#contact-info {
+			    text-align: left;
+			    left: 0;
+			    display: block;
+			    top: 0;
+			    position: relative;
+
+			    .row h4,
+			    h4 {
+			    	font-size: rem(16);
+			    	margin-bottom: rem(5);
+			    }
+			}
+		}
+
+		@media #{$max-481} {
+			height: em(520);
+
+			.verbiage {
+				top: 40%;
+				height: 60%;
+			}
+		}
+
+		@media #{$max-401} {
+			.verbiage {
+				top: 35%;
+				height: 65%;
 			}
 		}
 	}
@@ -167,5 +299,37 @@ $max-881: "only screen and (max-width : 881px)";
 	}
 	.angled-div#landing:after {
 		border-bottom: 550px solid $base-white;
+	}
+}
+
+@include media($small-plus) {
+	.angled-div#landing {
+		top: 60%;
+		width: 100%;
+		height: 40%;
+	}
+	.angled-div#landing:after {
+		border: none;
+	}
+}
+
+@media #{$max-601} {
+	.angled-div#landing {
+		top: 55%;
+		height: 45%;
+	}
+}
+
+@media #{$max-481} {
+	.angled-div#landing {
+		top: 50%;
+		height: 50%;
+	}
+}
+
+@media #{$max-401} {
+	.angled-div#landing {
+		top: 45%;
+		height: 55%;
 	}
 }

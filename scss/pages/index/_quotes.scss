@@ -34,4 +34,10 @@ section.quoted {
 		bottom: em(40);
 		right: em(50);
 	}
+
+	@include media($medium) {
+		h2 {
+			font-size: rem(25);
+		}
+	}
 }

@@ -1,10 +1,7 @@
 @import "../../settings/_settings.scss";
 
-@import "_landing.scss";
-@import "_gallery-link.scss";
-@import "_bio.scss";
-@import "_quotes.scss";
-@import "_footer.scss";
+$max-481: "only screen and (max-width : 481px)";
+
 
 #index {
 	aside {
@@ -39,3 +36,17 @@ section.bio {
 		}
 	}
 }
+
+@media #{$max-481} {
+	aside {
+		a {
+			font-size: rem(16);
+		}
+	}
+}
+
+@import "_landing.scss";
+@import "_gallery-link.scss";
+@import "_bio.scss";
+@import "_quotes.scss";
+@import "_footer.scss";

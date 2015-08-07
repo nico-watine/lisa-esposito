@@ -227,31 +227,7 @@
 			"file": "/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/index.php",
 			"settings":
 			{
-				"buffer_size": 3321,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/.htaccess",
-			"settings":
-			{
-				"buffer_size": 26283,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/php/autoVer.php",
-			"settings":
-			{
-				"buffer_size": 197,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/js/src/ie.js",
-			"settings":
-			{
-				"buffer_size": 18,
+				"buffer_size": 4665,
 				"line_ending": "Unix"
 			}
 		},
@@ -259,47 +235,15 @@
 			"file": "/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/pages/index/_landing.scss",
 			"settings":
 			{
-				"buffer_size": 2497,
+				"buffer_size": 3109,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/pages/index/_bio.scss",
+			"file": "/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/pages/index/_gallery-link.scss",
 			"settings":
 			{
-				"buffer_size": 769,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/pages/index/_quotes.scss",
-			"settings":
-			{
-				"buffer_size": 563,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/assets/neat/_grid-settings.scss",
-			"settings":
-			{
-				"buffer_size": 305,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/pages/index/_footer.scss",
-			"settings":
-			{
-				"buffer_size": 1148,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/pages/index/_index.scss",
-			"settings":
-			{
-				"buffer_size": 165,
+				"buffer_size": 2676,
 				"line_ending": "Unix"
 			}
 		}
@@ -422,22 +366,26 @@
 	],
 	"file_history":
 	[
+		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/pages/index/_bio.scss",
+		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/pages/index/_index.scss",
+		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/assets/neat/_grid-settings.scss",
+		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/pages/index/_quotes.scss",
+		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/pages/index/_gallery-link.scss",
+		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/pages/index/_landing.scss",
+		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/style.scss",
+		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/pages/index/_footer.scss",
+		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/index.php",
+		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/components/_typography.scss",
+		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/js/src/ie.js",
+		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/php/autoVer.php",
+		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/.htaccess",
 		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/403.html",
 		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/404.html",
 		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/components/extras/_code-blocks.scss",
-		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/style.scss",
 		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/js/src/scripts.js",
-		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/pages/index/_gallery-link.scss",
-		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/assets/neat/_grid-settings.scss",
-		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/pages/index/_bio.scss",
-		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/components/_typography.scss",
-		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/pages/index/_quotes.scss",
 		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/blocks/_footer.scss",
-		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/pages/index/_index.scss",
 		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/settings/_settings.scss",
 		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/components/_angles.scss",
-		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/pages/index/_landing.scss",
-		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/index.php",
 		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/dev/angles.php",
 		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/dev.scss",
 		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/dev/_pages.scss",
@@ -447,7 +395,6 @@
 		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/css/style.css",
 		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/components/_fonts.scss",
 		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/.gitignore",
-		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/.htaccess",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/style/pages/index/_portfolio.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/style/pages/portfolio/_jdf.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/style/components/_fonts.scss",
@@ -546,10 +493,7 @@
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/js/src/scripts-2.js",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/css/style.css",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/assets/bower_components/animate.css/source/_base.css",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/portfolio.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/htaccess.txt",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/portfolio/zaraza-design/index.php",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/index.scss"
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/portfolio.scss"
 	],
 	"find":
 	{
@@ -568,6 +512,17 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"10",
+			"881",
+			"1101",
+			"880",
+			"body",
+			"aside",
+			"trans",
+			"none",
+			"fff",
+			"aside",
+			"Netherworld",
 			".html",
 			"div",
 			"article",
@@ -684,18 +639,7 @@
 			"one-half",
 			"button-container",
 			"one-half",
-			"line-hei",
-			" {\n		&:hover {\n			text-shadow: $text-shadow-hover #000;\n		}\n	}",
-			"#000",
-			"inset",
-			"inner-",
-			"em",
-			"3px",
-			"1px",
-			" class=\"inverse-shadow\"",
-			"p",
-			"0px 0px em(4) em(1) #333 inset",
-			"div"
+			"line-hei"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -745,15 +689,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3321,
+						"buffer_size": 4665,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								703,
-								703
+								1055,
+								1055
 							]
 						],
 						"settings":
@@ -761,21 +705,6 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
@@ -786,36 +715,51 @@
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
-								"bh_single_quote_content"
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
 							"syntax": "Packages/PHP/PHP.tmLanguage",
@@ -830,19 +774,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/.htaccess",
+					"file": "/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/pages/index/_landing.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 26283,
+						"buffer_size": 3109,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								9823,
-								9824
+								2913,
+								2913
 							]
 						],
 						"settings":
@@ -850,21 +794,6 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
@@ -875,76 +804,36 @@
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 3561.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/php/autoVer.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 197,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								197,
-								197
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
@@ -955,125 +844,80 @@
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
-								"bh_square_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
+								"bh_square_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/PHP/PHP.tmLanguage"
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2788.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/js/src/ie.js",
+					"buffer": 2,
+					"file": "/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/pages/index/_gallery-link.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 18,
+						"buffer_size": 2676,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								18,
-								18
+								164,
+								164
 							]
 						],
 						"settings":
 						{
 							"BracketHighlighterBusy": false,
-							"_anf_new": "",
 							"bh_regions":
 							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
@@ -1083,184 +927,17 @@
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/pages/index/_landing.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2497,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1428,
-								1428
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
+								"bh_curly_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1151.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/pages/index/_bio.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 769,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								317,
-								317
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
+								"bh_tag_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
 							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
@@ -1270,361 +947,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/pages/index/_quotes.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 563,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								416,
-								416
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/assets/neat/_grid-settings.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 305,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/pages/index/_footer.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1148,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								352,
-								352
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"_anf_new": "",
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 44.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/scss/pages/index/_index.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 165,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								163,
-								163
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -1632,7 +955,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 34.0
 	},
 	"input":
 	{
@@ -1687,6 +1010,70 @@
 				"index.php"
 			],
 			[
+				"gri",
+				"assets/neat/_grid-settings.scss"
+			],
+			[
+				"bio",
+				"scss/pages/index/_bio.scss"
+			],
+			[
+				"gal",
+				"scss/pages/index/_gallery-link.scss"
+			],
+			[
+				"ins",
+				"scss/pages/index/_index.scss"
+			],
+			[
+				"lan",
+				"scss/pages/index/_landing.scss"
+			],
+			[
+				"quo",
+				"scss/pages/index/_quotes.scss"
+			],
+			[
+				"inla",
+				"scss/pages/index/_landing.scss"
+			],
+			[
+				"inbi",
+				"scss/pages/index/_bio.scss"
+			],
+			[
+				"st",
+				"scss/style.scss"
+			],
+			[
+				"ingal",
+				"scss/pages/index/_gallery-link.scss"
+			],
+			[
+				"info",
+				"scss/pages/index/_footer.scss"
+			],
+			[
+				"inga",
+				"scss/pages/index/_gallery-link.scss"
+			],
+			[
+				"inqu",
+				"scss/pages/index/_quotes.scss"
+			],
+			[
+				"ty",
+				"scss/components/_typography.scss"
+			],
+			[
+				"sts",
+				"scss/style.scss"
+			],
+			[
+				"infoo",
+				"scss/pages/index/_footer.scss"
+			],
+			[
 				".h",
 				".htaccess"
 			],
@@ -1699,36 +1086,12 @@
 				"scss/components/extras/_code-blocks.scss"
 			],
 			[
-				"st",
-				"scss/style.scss"
-			],
-			[
 				"sc",
 				"js/src/scripts.js"
 			],
 			[
-				"bio",
-				"scss/pages/index/_bio.scss"
-			],
-			[
 				"foo",
 				"scss/pages/index/_footer.scss"
-			],
-			[
-				"lan",
-				"scss/pages/index/_landing.scss"
-			],
-			[
-				"quo",
-				"scss/pages/index/_quotes.scss"
-			],
-			[
-				"gri",
-				"assets/neat/_grid-settings.scss"
-			],
-			[
-				"gal",
-				"scss/pages/index/_gallery-link.scss"
 			],
 			[
 				"spla",
@@ -1737,10 +1100,6 @@
 			[
 				"typ",
 				"scss/components/_typography.scss"
-			],
-			[
-				"ins",
-				"scss/pages/index/_index.scss"
 			],
 			[
 				"land",
@@ -1755,10 +1114,6 @@
 				"scss/components/_angles.scss"
 			],
 			[
-				"sts",
-				"scss/style.scss"
-			],
-			[
 				"angls",
 				"scss/components/_angles.scss"
 			],
@@ -1769,14 +1124,6 @@
 			[
 				"stys",
 				"scss/style.scss"
-			],
-			[
-				"inla",
-				"scss/pages/index/_landing.scss"
-			],
-			[
-				"ty",
-				"scss/components/_typography.scss"
 			],
 			[
 				"ut",
@@ -2159,10 +1506,6 @@
 				"contact/index.php"
 			],
 			[
-				"infoo",
-				"scss/style/pages/index/_footer.scss"
-			],
-			[
 				"fon",
 				"scss/style/components/_fonts.scss"
 			],
@@ -2173,26 +1516,6 @@
 			[
 				"conta",
 				"contact/index.php"
-			],
-			[
-				"form",
-				"js/src/form-validation.js"
-			],
-			[
-				"contaphp",
-				"contact/index.php"
-			],
-			[
-				"abouindp",
-				"about-us/index.php"
-			],
-			[
-				"por2j",
-				"js/src/portfolio-2.js"
-			],
-			[
-				"por2",
-				"js/portfolio-2-min.js"
 			]
 		],
 		"width": 0.0
@@ -2200,9 +1523,17 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "np",
+		"last_filter": "ph",
 		"selected_items":
 		[
+			[
+				"ph",
+				"~/Web Development/New Project/Site Folder/website.com/_ignores/php-site.sublime-project"
+			],
+			[
+				"d",
+				"~/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/_ignores/deck.sublime-project"
+			],
 			[
 				"np",
 				"~/Web Development/New Project/Site Folder/website.com/_ignores/php-site.sublime-project"
@@ -2234,10 +1565,6 @@
 			[
 				"snbe",
 				"~/SNC Projects/Studio N Creations/Site Folder/beta.snc.com/_ignores/snc-beta.sublime-workspace"
-			],
-			[
-				"d",
-				"~/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/_ignores/deck.sublime-project"
 			],
 			[
 				"en",
@@ -2338,7 +1665,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 256.0,
 	"status_bar_visible": true,
 	"template_settings":

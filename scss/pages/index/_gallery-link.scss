@@ -1,6 +1,8 @@
 @import "../../settings/_settings.scss";
 
 $max-1501: "only screen and (max-width : 1501px)";
+$max-481: "only screen and (max-width : 481px)";
+
 
 .gallery-link {
 	position: relative;
@@ -40,6 +42,18 @@ $max-1501: "only screen and (max-width : 1501px)";
 		}
 		.angled-div {
 			width: 15%;
+		}
+	}
+
+	@media #{$max-481} {
+		.verbiage {
+			h2 {
+				font-size: rem(22);
+			}
+
+			h3 {
+				font-size: rem(30);
+			}
 		}
 	}
 }
@@ -104,6 +118,17 @@ $max-1501: "only screen and (max-width : 1501px)";
 			border-left: 100px solid transparent;
 		}
 	}
+
+	@media #{$max-481} {
+		.verbiage {
+			right: 5%;
+		}
+
+		aside {
+			left: rem(12);
+			bottom: rem(4);
+		}
+	}
 }
 
 .gallery-link#lyrical-abstraction {
@@ -164,6 +189,14 @@ $max-1501: "only screen and (max-width : 1501px)";
 			right: -100px;
 			border-bottom: 300px solid #4a4a4a;
 			border-right: 100px solid transparent;
+		}
+	}
+
+	@media #{$max-481} {
+		.verbiage {
+			left: 5%;
+			bottom: 2%;
+			top: initial;
 		}
 	}
 }
