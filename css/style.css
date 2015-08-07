@@ -262,7 +262,9 @@ html, body { background-color: #F6F6F6; }
   #index header #contact-info { text-align: left; left: 0; display: block; top: 0; position: relative; }
   #index header #contact-info .row h4, #index header #contact-info h4 { font-size: 1rem; margin-bottom: 0.3125rem; } }
 @media only screen and (max-width: 481px) { #index header { height: 32.5em; background-position: -200px -70px; }
-  #index header .verbiage { top: 40%; height: 60%; } }
+  #index header .verbiage { top: 40%; height: 60%; }
+  #index header .verbiage h1 { font-size: 2.1875rem; }
+  #index header .verbiage h1 span { font-size: 1.125rem; } }
 @media only screen and (max-width: 401px) { #index header { background-position: -270px -70px; }
   #index header .verbiage { top: 35%; height: 65%; } }
 
@@ -297,6 +299,7 @@ html, body { background-color: #F6F6F6; }
 .gallery-link#linear-abstraction .angled-div { right: 0; top: 0; margin-left: 9.375em; }
 .gallery-link#linear-abstraction .angled-div:after { left: -150px; top: 0; border-top: 460px solid #4a4a4a; border-bottom: 0 solid transparent; border-left: 150px solid transparent; border-right: 0 solid transparent; }
 @media screen and (max-width: 62.5em) { .gallery-link#linear-abstraction .verbiage { padding-top: 3.75em; } }
+@media only screen and (max-width: 880px) { .gallery-link#linear-abstraction { background: url("/img/index/gallery-link/linear-abstraction/lost-in-transit@mobile.jpg") no-repeat; background-position: left top; } }
 @media screen and (max-width: 43.8125em) { .gallery-link#linear-abstraction { height: 18.75em; }
   .gallery-link#linear-abstraction .verbiage { padding: 0; top: 2.5em; right: 2.5em; }
   .gallery-link#linear-abstraction .angled-div { margin-left: 6.25em; }
@@ -325,7 +328,7 @@ section.bio article.verbiage p { font-size: 1.375rem; }
 @media only screen and (max-width: 880px) { section.bio { height: 40.625em; }
   section.bio article.verbiage { padding: 1.25rem 1.5rem 0 1.5rem; }
   section.bio article.verbiage h2 { font-size: 2.125rem; } }
-@media screen and (max-width: 46.875em) { section.bio { height: auto; padding-top: 18.75em; }
+@media screen and (max-width: 46.875em) { section.bio { background: url("/img/index/bio/all-points-west@mobile.jpg") no-repeat; background-position: top; height: auto; padding-top: 18.75em; }
   section.bio aside { position: relative !important; top: 0; left: 0; padding-left: 3%; }
   section.bio aside a { color: #fff; }
   section.bio article.verbiage { position: inherit; height: auto; width: 100%; text-align: center; }
@@ -341,7 +344,8 @@ section.quoted { width: 100%; height: 30em; background: url("/img/index/quoted/b
 section.quoted h2 { font-size: 2rem; font-weight: 400; margin-bottom: 2.625rem; padding: 0 1.5625rem; }
 section.quoted h3 { margin-bottom: 2.5rem; font-weight: 700; }
 section.quoted aside { bottom: 2.5em; right: 3.125em; }
-@media screen and (max-width: 46.875em) { section.quoted h2 { font-size: 1.5625rem; } }
+@media screen and (max-width: 46.875em) { section.quoted { background: url("/img/index/quoted/back-to-center@mobile.jpg") no-repeat; }
+  section.quoted h2 { font-size: 1.5625rem; } }
 @media screen and (max-width: 43.8125em) { section.quoted { height: 19.375em; padding-top: 4.6875rem; }
   section.quoted aside { right: 3%; bottom: 2%; }
   section.quoted aside h4 a { font-size: 1rem; } }

@@ -56,14 +56,14 @@ section.bio {
 	}
 
 	@include media($medium) {
+		background: url('/img/index/bio/all-points-west@mobile.jpg') no-repeat;
+		background-position: top;
 		height: auto;
 		padding-top: em(300);
 
 		aside {
 			position: relative !important;
 			top: 0;
-			// display: block;
-			// left: 3%;
 			left: 0;
 			padding-left: 3%;
 

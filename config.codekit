@@ -694,6 +694,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/index\/bio\/all-points-west@mobile.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29382,
+		"inputAbbreviatedPath": "\/img\/index\/bio\/all-points-west@mobile.jpg",
+		"outputAbbreviatedPath": "\/img\/index\/bio\/all-points-west@mobile.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/index\/gallery-link\/linear-abstraction\/_ignores\/original.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -709,9 +720,20 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 133628,
+		"initialSize": 80570,
 		"inputAbbreviatedPath": "\/img\/index\/gallery-link\/linear-abstraction\/lost-in-transit.jpg",
 		"outputAbbreviatedPath": "\/img\/index\/gallery-link\/linear-abstraction\/lost-in-transit.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/index\/gallery-link\/linear-abstraction\/lost-in-transit@mobile.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57493,
+		"inputAbbreviatedPath": "\/img\/index\/gallery-link\/linear-abstraction\/lost-in-transit@mobile.jpg",
+		"outputAbbreviatedPath": "\/img\/index\/gallery-link\/linear-abstraction\/lost-in-transit@mobile.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -731,9 +753,20 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 97884,
+		"initialSize": 69975,
 		"inputAbbreviatedPath": "\/img\/index\/gallery-link\/lyrical-abstraction\/netherworld.jpg",
 		"outputAbbreviatedPath": "\/img\/index\/gallery-link\/lyrical-abstraction\/netherworld.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/index\/gallery-link\/lyrical-abstraction\/netherworld@mobile.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49731,
+		"inputAbbreviatedPath": "\/img\/index\/gallery-link\/lyrical-abstraction\/netherworld@mobile.jpg",
+		"outputAbbreviatedPath": "\/img\/index\/gallery-link\/lyrical-abstraction\/netherworld@mobile.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -830,9 +863,20 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 83779,
+		"initialSize": 66811,
 		"inputAbbreviatedPath": "\/img\/index\/quoted\/back-to-center.jpg",
 		"outputAbbreviatedPath": "\/img\/index\/quoted\/back-to-center.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/index\/quoted\/back-to-center@mobile.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29569,
+		"inputAbbreviatedPath": "\/img\/index\/quoted\/back-to-center@mobile.jpg",
+		"outputAbbreviatedPath": "\/img\/index\/quoted\/back-to-center@mobile.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

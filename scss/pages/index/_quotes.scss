@@ -39,6 +39,7 @@ section.quoted {
 	}
 
 	@include media($medium) {
+		background: url('/img/index/quoted/back-to-center@mobile.jpg') no-repeat;
 		h2 {
 			font-size: rem(25);
 		}

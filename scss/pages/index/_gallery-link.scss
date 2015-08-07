@@ -1,6 +1,7 @@
 @import "../../settings/_settings.scss";
 
 $max-1501: "only screen and (max-width : 1501px)";
+$max-880: "only screen and (max-width : 880px)";
 $max-481: "only screen and (max-width : 481px)";
 
 
@@ -99,6 +100,11 @@ $max-481: "only screen and (max-width : 481px)";
 		.verbiage {
 			padding-top: em(60);
 		}
+	}
+
+	@media #{$max-880} {
+		background: url('/img/index/gallery-link/linear-abstraction/lost-in-transit@mobile.jpg') no-repeat;
+		background-position: left top;
 	}
 
 	@include media($small-plus) {
