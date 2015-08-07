@@ -224,7 +224,7 @@ html, body { background-color: #F6F6F6; }
 #index header .verbiage h1 span { font-size: 2.5rem; }
 #index header .verbiage h2 { font-size: 2.8125rem; margin-bottom: 3.75rem; }
 #index header nav ul.vertical-list { list-style-type: none; padding: 0; }
-#index header nav ul.vertical-list li { display: block; }
+#index header nav ul.vertical-list li { display: block; margin-bottom: 0.625rem; }
 #index header nav ul.vertical-list li a { font-size: 1.625rem; }
 #index header #contact-info { position: absolute; bottom: 1em; display: block; }
 #index header #contact-info .row h4 { display: inline-block; }

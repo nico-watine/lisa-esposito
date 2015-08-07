@@ -61,6 +61,8 @@ $max-401: "only screen and (max-width : 401px)";
 				padding: 0;
 				li {
 					display: block;
+					margin-bottom: rem(10);
+					
 					a {
 						font-size: rem(26);
 					}
