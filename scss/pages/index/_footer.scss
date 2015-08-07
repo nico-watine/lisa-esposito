@@ -1,12 +1,16 @@
 @import "../../settings/_settings.scss";
 
 $max-880: "only screen and (max-width : 880px)";
+$max-601: "only screen and (max-width : 601px)";
+$max-481: "only screen and (max-width : 481px)";
+
 
 body#index {
 	footer {
 		position: relative;
 		width: 100%;
 		height: em(230);
+		padding-top: em(80);
 
 		a {
 			text-decoration: none;
@@ -18,9 +22,6 @@ body#index {
 
 		.contact-info,
 		.footer-nav {
-			position: absolute;
-			height: 100%;
-			width: 50%;
 
 			h5 {
 				margin-bottom: rem(20);
@@ -31,13 +32,17 @@ body#index {
 
 		.contact-info {
 			left: 0;
-			padding: em(80) 0 0 em(40);
+			float: left;
+			padding: 0 0 0 em(40);
+			width: 30%;
 		}
 
 		.footer-nav {
+			float: right;
 			right: 0;
 			text-align: right;
-			padding: em(80) em(40) 0 0;
+			padding: 0 em(40) 0 0;
+			width: 70%;
 
 			ul {
 				display: block;
@@ -74,18 +79,59 @@ body#index {
 
 		@media #{$max-880} {
 			height: em(200);
+			padding-top: em(50);
 
 			.contact-info {
-				padding: em(50) 0 0 em(24);
+				padding: 0 0 0 em(24);
+
+				h5 {
+					font-size: rem(16);
+				}
 			}
 
 			.footer-nav {
-				padding: em(50) em(24) 0 0;
+				padding: 0 em(24) 0 0;
+
+				h5 {
+					font-size: rem(16);
+				}
+
+				ul {
+					li {
+						a {
+							font-size: rem(16);
+						}
+					}
+				}
+			}
+		}
+
+		@media #{$max-601} {
+			padding-top: em(35);
+
+			.contact-info,
+			.footer-nav {
+				width: 100%;
+				padding: 0;
+				text-align: center;
+
+				h5 {
+					margin-bottom: rem(14);
+				}
 			}
 
-			h5,
-			.footer-nav ul li {
-				font-size: rem(16);
+			.footer-nav {
+				ul {
+					margin-bottom: rem(14);
+				}
+			}
+		}
+
+		@media #{$max-481} {
+			.contact-info h5,
+			.footer-nav h5,
+			.footer-nav ul li a {
+				font-size: rem(14);
 			}
 		}
 	}

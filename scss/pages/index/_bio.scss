@@ -3,6 +3,9 @@
 $max-1501: "only screen and (max-width : 1501px)";
 $max-1101: "only screen and (max-width : 1100px)";
 $max-880: "only screen and (max-width : 880px)";
+$max-601: "only screen and (max-width : 601px)";
+$max-481: "only screen and (max-width : 481px)";
+
 
 section.bio {
 	position: relative;
@@ -57,10 +60,15 @@ section.bio {
 		padding-top: em(300);
 
 		aside {
-			top: em(20);
+			position: relative !important;
+			top: 0;
+			// display: block;
+			// left: 3%;
+			left: 0;
+			padding-left: 3%;
 
 			a {
-				color: #333 !important;
+				color: #fff;
 			}
 		}
 
@@ -72,6 +80,32 @@ section.bio {
 			
 			p {
 				font-size: rem(20);
+			}
+		}
+	}
+
+	@media #{$max-601} {
+		padding-top: em(200);
+
+		article.verbiage {
+			h2 {
+				font-size: rem(30);
+			}
+
+			p {
+				font-size: rem(18);
+			}
+		}
+	}
+
+	@media #{$max-481} {
+		article.verbiage {
+			h2 {
+				font-size: rem(26);
+			}
+			
+			p {
+				font-size: rem(16);
 			}
 		}
 	}

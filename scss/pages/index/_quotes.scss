@@ -1,6 +1,9 @@
 @import "../../settings/_settings.scss";
 
 $max-1441: "only screen and (max-width : 1441px)";
+$max-601: "only screen and (max-width : 601px)";
+$max-481: "only screen and (max-width : 481px)";
+$max-401: "only screen and (max-width : 401px)";
 
 section.quoted {
 	width: 100%;
@@ -40,4 +43,38 @@ section.quoted {
 			font-size: rem(25);
 		}
 	}
+
+	@include media($small-plus) {
+		height: em(310);
+		padding-top: rem(75);
+
+		aside {
+			right: 3%;
+			bottom: 2%;
+
+			h4 {
+				a {
+					font-size: rem(16);
+				}
+			}
+		}
+	}
+
+	@media #{$max-601} {
+		h2 {
+			font-size: rem(22);
+		}
+	}
+
+	@media #{$max-481} {
+		h2 {
+			font-size: rem(18);
+			margin-bottom: rem(32);
+		}
+	}
+
+	@media #{$max-401} {
+		padding-top: rem(50);
+	}
+
 }
