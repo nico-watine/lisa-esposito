@@ -4,3 +4,8 @@ html,
 body {
 	background-color: $base-white;
 }
+
+img#wpstats {
+	visibility: hidden !important;
+	display: none !important;
+}

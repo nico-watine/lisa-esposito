@@ -206,6 +206,8 @@ span.inline { display: inline-block; }
 
 html, body { background-color: #F6F6F6; }
 
+img#wpstats { visibility: hidden !important; display: none !important; }
+
 #index aside { position: absolute; }
 #index aside a { color: #fff; }
 
