@@ -268,7 +268,8 @@ img#wpstats { visibility: hidden !important; display: none !important; }
   #index header .verbiage h1 { font-size: 2.1875rem; }
   #index header .verbiage h1 span { font-size: 1.125rem; } }
 @media only screen and (max-width: 401px) { #index header { background-position: -270px -70px; }
-  #index header .verbiage { top: 35%; height: 65%; } }
+  #index header .verbiage { top: 35%; height: 65%; }
+  #index header .verbiage h2 { font-size: 1.25rem; } }
 
 .angled-div#landing { width: 30%; height: 41.875em; background: #F6F6F6; top: 0; left: 0; margin-right: 9.375em; }
 

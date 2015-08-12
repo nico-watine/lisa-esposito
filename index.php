@@ -27,7 +27,7 @@
 <header>
 	<div class="verbiage">
 		<h1>Lisa Esposito<span>, PhD</span></h1>	
-		<h2>Abstract Expressionist Painter</h2>
+		<h2>Abstract Expressionist Paintings</h2>
 		<nav>
 			<ul class="vertical-list">
 				<li><a href="http://lisaesposito.com/galleries.html">Galleries</a></li>

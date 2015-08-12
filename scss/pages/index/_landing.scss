@@ -279,6 +279,10 @@ $max-401: "only screen and (max-width : 401px)";
 			.verbiage {
 				top: 35%;
 				height: 65%;
+
+				h2 {
+					font-size: rem(20);
+				}
 			}
 		}
 	}
