@@ -38,6 +38,61 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/apple-touch-icon-120x120-precomposed.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3366,
+		"inputAbbreviatedPath": "\/apple-touch-icon-120x120-precomposed.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-120x120-precomposed.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/apple-touch-icon-152x152-precomposed.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5114,
+		"inputAbbreviatedPath": "\/apple-touch-icon-152x152-precomposed.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-152x152-precomposed.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/apple-touch-icon-180x180-precomposed.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6290,
+		"inputAbbreviatedPath": "\/apple-touch-icon-180x180-precomposed.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-180x180-precomposed.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/apple-touch-icon-76x76-precomposed.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1334,
+		"inputAbbreviatedPath": "\/apple-touch-icon-76x76-precomposed.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-76x76-precomposed.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/apple-touch-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6290,
+		"inputAbbreviatedPath": "\/apple-touch-icon.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/bower_components\/REM-unit-polyfill\/bower.json": {
 		"fileType": 524288,
 		"ignore": 1,
@@ -672,14 +727,16 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/front-page.php": {
-		"fileType": 8192,
+	"\/favicon.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/front-page.php",
-		"outputAbbreviatedPath": "No Output Path",
+		"initialSize": 1715,
+		"inputAbbreviatedPath": "\/favicon.png",
+		"outputAbbreviatedPath": "\/favicon.png",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/img\/index\/bio\/_ignores\/original.jpg": {
 		"fileType": 16384,
@@ -1426,6 +1483,37 @@
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 0
+		},
+	"\/tile-wide.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37606,
+		"inputAbbreviatedPath": "\/tile-wide.png",
+		"outputAbbreviatedPath": "\/tile-wide.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/touch-icon-192x192.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7234,
+		"inputAbbreviatedPath": "\/touch-icon-192x192.png",
+		"outputAbbreviatedPath": "\/touch-icon-192x192.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/themes\/theme-name\/front-page.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/theme-name\/front-page.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		}
 	},
 "hooks": [
@@ -1445,7 +1533,7 @@
 	"bowerAbbreviatedPath": "assets",
 	"displayValue": "Lisa Esposito (STATIC)",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "brackets_gray"
+	"iconImageName": "\/touch-icon-192x192.png"
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 1,

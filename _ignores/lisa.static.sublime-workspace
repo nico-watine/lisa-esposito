@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"min",
+				"min-device-width"
+			],
+			[
 				"me",
 				"_menu.scss"
 			],
@@ -135,14 +139,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa.static/.htaccess",
-			"settings":
-			{
-				"buffer_size": 26283,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -151,10 +147,18 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 107.0,
-		"last_filter": "",
+		"height": 392.0,
+		"last_filter": "sysas",
 		"selected_items":
 		[
+			[
+				"sysas",
+				"Set Syntax: Sass"
+			],
+			[
+				"synht",
+				"Set Syntax: HTML (Tcl)"
+			],
 			[
 				"fetch",
 				"Fetch: Package"
@@ -216,7 +220,7 @@
 				"Package Control: Disable Package"
 			]
 		],
-		"width": 575.0
+		"width": 521.0
 	},
 	"console":
 	{
@@ -241,6 +245,37 @@
 	],
 	"file_history":
 	[
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/assets/neat/_grid-settings.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/style.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/components/_resets.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/assets/bower_components/slick-carousel/slick/slick-theme.css",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/pages/index/_garden.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/pages/index/_conservatory.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/pages/index/_hip.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/pages/index/_interior.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/pages/index/_location.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/pages/index/_splash.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/blocks/_body.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/index.php",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/js/src/scripts.js",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/_ignores/google-tracking-id.html",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/pages/index/_index.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/components/_typography.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/js/scripts-min.js",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/.htaccess",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/assets/neat/settings/_grid.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/components/_fonts.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/settings/_settings.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/components/_extras.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/pages/index/_about.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/pages/index/_pre-shared.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/pages/index/_post-shared.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/components/slider/_slick.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/components/_utility-classes.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/components/extras/_sticky-footer.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/components/slider/_slick-theme.scss",
+		"/Users/nico/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/css/ie.css",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/.htaccess",
 		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/_ignores/lisa.sublime-workspace",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/pages/_location.scss",
 		"/Users/nico/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
@@ -337,42 +372,11 @@
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/quota-management-api.js",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/modernizr.js",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/location/_gmap.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/404.html",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/jquery/src/ajax/script.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/jquery/src/effects/animatedSelector.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower.json",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/services/what-we-do.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/thanks.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/css/app.css",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/js/foundation.js",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/js/foundation.min.js",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/contact.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/about-us.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/portfolio.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/services/how-we-do-it.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/app.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/index.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/js/app.js",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/bower_components/jquery/src/css/addGetHookIf.js",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/humans.txt",
-		"/Users/nico/Documents/Custom Folder Icons/tinypng.js",
-		"/Users/nico/Web Development/tinypng.js",
-		"/Users/nico/SNC Projects/Houston Oculofacial/Docs/New Pages/Contact/contact(new).html",
-		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/index.html",
-		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/_site/blog/cool-stuff/downtown-panorama-video.html",
-		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/scss/.sass-cache/7adec670baaff6ed5c22e01fc5b4a517d115742d/_panels.scssc",
-		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/bower_components/modernizr/feature-detects/pointerlock-api.js",
-		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/scss/_posts-list.scss",
-		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/js/foundation/foundation.orbit.js",
-		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/_includes/footer/footer-transparent.html",
-		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/_layouts/categories/personal.html",
-		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/_includes/posts/video-bg/large-up.html",
-		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/_posts/2014-09-09-downtown-panorama-video.md",
-		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/bower_components/jquery/src/var/toString.js"
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/404.html"
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -387,6 +391,21 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"head",
+			" 0 0",
+			"h2",
+			"h3",
+			"margin",
+			"fullscreen-bg__video",
+			"conservatory/",
+			"gardens",
+			"1921",
+			"#697B99",
+			"gardens",
+			" class=\"text-shadow\"",
+			" text-shadow",
+			"text-shadow",
+			"height",
 			"map",
 			"eee",
 			"crawfish",
@@ -499,22 +518,7 @@
 			"section",
 			"apluspermit",
 			"services",
-			"#",
-			".apluspermit-hover",
-			"=\"#\"><",
-			"img/",
-			"nav-squares/",
-			"p",
-			"dark",
-			"button",
-			"h4",
-			"p",
-			"How",
-			"h3",
-			"p",
-			"h4",
-			"p",
-			"h"
+			"#"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -552,105 +556,14 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa.static/.htaccess",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 26283,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								574,
-								574
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 28.0
 	},
 	"input":
 	{
@@ -687,7 +600,7 @@
 	"project": "lisa.static.sublime-project",
 	"replace":
 	{
-		"height": 48.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -697,12 +610,204 @@
 		"selected_items":
 		[
 			[
-				".h",
+				"typo",
+				"scss/components/_typography.scss"
+			],
+			[
+				"bod",
+				"scss/blocks/_body.scss"
+			],
+			[
+				"gri",
+				"assets/neat/_grid-settings.scss"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"hip",
+				"scss/pages/index/_hip.scss"
+			],
+			[
+				"sett",
+				"scss/settings/_settings.scss"
+			],
+			[
+				"fonts",
+				"scss/components/_fonts.scss"
+			],
+			[
+				"t",
+				"scss/components/_typography.scss"
+			],
+			[
+				"sti",
+				"scss/components/extras/_sticky-footer.scss"
+			],
+			[
+				"spl",
+				"scss/pages/index/_splash.scss"
+			],
+			[
+				"sty",
+				"scss/style.scss"
+			],
+			[
+				"set",
+				"scss/settings/_settings.scss"
+			],
+			[
+				"res",
+				"scss/components/_resets.scss"
+			],
+			[
+				"ut",
+				"scss/components/_utility-classes.scss"
+			],
+			[
+				"typ",
+				"scss/components/_typography.scss"
+			],
+			[
+				"styls",
+				"scss/style.scss"
+			],
+			[
+				"st",
+				"assets/bower_components/slick-carousel/slick/slick-theme.css"
+			],
+			[
+				"sc",
+				"js/src/scripts.js"
+			],
+			[
+				"int",
+				"scss/pages/index/_interior.scss"
+			],
+			[
+				"cons",
+				"scss/pages/index/_conservatory.scss"
+			],
+			[
+				"gar",
+				"scss/pages/index/_garden.scss"
+			],
+			[
+				"git",
+				"_ignores/google-tracking-id.html"
+			],
+			[
+				"loca",
+				"scss/pages/index/_location.scss"
+			],
+			[
+				"inter",
+				"scss/pages/index/_interior.scss"
+			],
+			[
+				"gard",
+				"scss/pages/index/_garden.scss"
+			],
+			[
+				"sp",
+				"scss/pages/index/_splash.scss"
+			],
+			[
+				"scj",
+				"js/src/scripts.js"
+			],
+			[
+				".ht",
 				".htaccess"
 			],
 			[
 				"loc",
-				"location.php"
+				"scss/pages/index/_location.scss"
+			],
+			[
+				"grid",
+				"assets/neat/settings/_grid.scss"
+			],
+			[
+				"ins",
+				"scss/pages/index/_index.scss"
+			],
+			[
+				"stys",
+				"scss/style.scss"
+			],
+			[
+				"co",
+				"scss/pages/index/_conservatory.scss"
+			],
+			[
+				"inte",
+				"scss/pages/index/_interior.scss"
+			],
+			[
+				"pres",
+				"scss/pages/index/_pre-shared.scss"
+			],
+			[
+				"pos",
+				"scss/pages/index/_post-shared.scss"
+			],
+			[
+				"stscs",
+				"scss/style.scss"
+			],
+			[
+				"inpo",
+				"scss/pages/index/_post-shared.scss"
+			],
+			[
+				"inpre",
+				"scss/pages/index/_pre-shared.scss"
+			],
+			[
+				"slit",
+				"assets/bower_components/slick-carousel/slick/slick-theme.css"
+			],
+			[
+				"slicsc",
+				"scss/components/slider/_slick.scss"
+			],
+			[
+				"abous",
+				"scss/pages/index/_about.scss"
+			],
+			[
+				"abou",
+				"scss/pages/index/_about.scss"
+			],
+			[
+				"extra",
+				"scss/components/_extras.scss"
+			],
+			[
+				"extr",
+				"scss/components/_extras.scss"
+			],
+			[
+				"rese",
+				"scss/components/_resets.scss"
+			],
+			[
+				"spla",
+				"scss/pages/index/_splash.scss"
+			],
+			[
+				"pre",
+				"scss/pages/index/_pre-shared.scss"
+			],
+			[
+				"insc",
+				"scss/pages/index/_index.scss"
+			],
+			[
+				".h",
+				".htaccess"
 			],
 			[
 				"menj",
@@ -711,14 +816,6 @@
 			[
 				"locs",
 				"scss/pages/_location.scss"
-			],
-			[
-				"loca",
-				"location.html"
-			],
-			[
-				"in",
-				"index.html"
 			],
 			[
 				"men",
@@ -775,10 +872,6 @@
 			[
 				"los",
 				"scss/good/_location.scss"
-			],
-			[
-				"insc",
-				"scss/_index.scss"
 			],
 			[
 				"maps",
@@ -853,10 +946,6 @@
 				"menu-m.html"
 			],
 			[
-				"bod",
-				"scss/_body.scss"
-			],
-			[
 				"slick",
 				"scss/_slick-theme.scss"
 			],
@@ -913,10 +1002,6 @@
 				"scss/_body.scss"
 			],
 			[
-				"set",
-				"scss/_settings.scss"
-			],
-			[
 				"apps",
 				"scss/app.scss"
 			],
@@ -959,14 +1044,6 @@
 			[
 				"40n",
 				"403(new).html"
-			],
-			[
-				"co",
-				"bower_components/modernizr/feature-detects/css-objectfit.js"
-			],
-			[
-				"sett",
-				"scss/_settings.scss"
 			],
 			[
 				"evs",
@@ -1017,10 +1094,6 @@
 				"contact.html"
 			],
 			[
-				"abou",
-				"about-us.html"
-			],
-			[
 				"por",
 				"portfolio.html"
 			],
@@ -1047,166 +1120,6 @@
 			[
 				"panor",
 				"_site/blog/cool-stuff/downtown-panorama-video.html"
-			],
-			[
-				"conf",
-				"_config.yml"
-			],
-			[
-				"footrs",
-				"scss/_footer.scss"
-			],
-			[
-				"foos",
-				"scss/_footer.scss"
-			],
-			[
-				"layoutpo",
-				"_layouts/posts/default.html"
-			],
-			[
-				"def",
-				"_layouts/index/default.html"
-			],
-			[
-				"red",
-				"_includes/head/redirect.html"
-			],
-			[
-				"posb",
-				"_includes/posts/post-banner.html"
-			],
-			[
-				"head/r",
-				"_includes/head/redirect.html"
-			],
-			[
-				"1s",
-				"_posts/2014-09-04-1st-post-ever.md"
-			],
-			[
-				"codi",
-				"_layouts/categories/coding.html"
-			],
-			[
-				"layout",
-				"_layouts/index/default.html"
-			],
-			[
-				"nav",
-				"_includes/nav/nav-standard.html"
-			],
-			[
-				"indef",
-				"_layouts/index/default.html"
-			],
-			[
-				"psts/po",
-				"_includes/posts/post-banner.html"
-			],
-			[
-				"post/d",
-				"_layouts/posts/default.html"
-			],
-			[
-				"post/m",
-				"_layouts/posts/mobile.html"
-			],
-			[
-				"1st(m",
-				"_posts/2014-09-04-1st-post-ever(m).md"
-			],
-			[
-				"1st(",
-				"_site/blog/coding/1st-post-ever(m).html"
-			],
-			[
-				"redir",
-				"_includes/head/redirect.html"
-			],
-			[
-				"laymob",
-				"_layouts/posts/mobile.html"
-			],
-			[
-				"1stm",
-				"_posts/2014-09-04-1st-post-ever(m).md"
-			],
-			[
-				"post/de",
-				"_layouts/posts/default.html"
-			],
-			[
-				"head-m",
-				"_includes/head/head-m.html"
-			],
-			[
-				"deafultm",
-				"_layouts/posts/default-mobile.html"
-			],
-			[
-				"1st",
-				"_posts/2014-09-04-1st-post-ever(m).md"
-			],
-			[
-				"headmh",
-				"_includes/head/head(m).html"
-			],
-			[
-				"1",
-				"_posts/2014-09-04-1st-post-ever.md"
-			],
-			[
-				"layout/pos",
-				"_layouts/posts/default.html"
-			],
-			[
-				"layind",
-				"_layouts/index/default.html"
-			],
-			[
-				"layout/in",
-				"_layouts/index/default.html"
-			],
-			[
-				"footer/",
-				"_includes/footer/footer.html"
-			],
-			[
-				"skroll",
-				"js/skrollr.ie.min.js"
-			],
-			[
-				"pos/d",
-				"_layouts/posts/default.html"
-			],
-			[
-				"un",
-				"_posts/2014-09-07-under-construction.md"
-			],
-			[
-				"codiin",
-				"blog/coding/index.html"
-			],
-			[
-				"do",
-				"_posts/2014-09-09-downtown-panorama-video.md"
-			],
-			[
-				"down",
-				"_posts/2014-09-09-downtown-panorama-video.md"
-			],
-			[
-				"who",
-				"_posts/2014-10-1-who-is-this-guy.md"
-			],
-			[
-				"whomd",
-				"_posts/2014-10-1-who-is-this-guy.md"
-			],
-			[
-				"posds",
-				"scss/_post-default.scss"
 			]
 		],
 		"width": 0.0
@@ -1214,12 +1127,32 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "",
+		"last_filter": "liw",
 		"selected_items":
 		[
 			[
-				"",
+				"liw",
+				"~/SNC Projects/Lisa Esposito/Site Folder/lisa.wp/_ignores/lisa.wp.sublime-project"
+			],
+			[
+				"li",
+				"~/SNC Projects/Lisa Esposito/Site Folder/lisa.wp/_ignores/lisa.wp.sublime-project"
+			],
+			[
+				"ne",
+				"~/Web Development/New Project/Site Folder/new-project.com/_ignores/newproject.sublime-project"
+			],
+			[
+				"sn",
+				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
+			],
+			[
+				"d",
 				"~/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/_ignores/deck.sublime-project"
+			],
+			[
+				"list",
+				"~/SNC Projects/Lisa Esposito/Site Folder/lisa.static/_ignores/lisa.static.sublime-project"
 			],
 			[
 				"s",
@@ -1231,10 +1164,6 @@
 			],
 			[
 				"snb",
-				"~/SNC Projects/Studio N Creations/Site Folder/beta.snc.com/_ignores/snc-beta.sublime-project"
-			],
-			[
-				"sn",
 				"~/SNC Projects/Studio N Creations/Site Folder/beta.snc.com/_ignores/snc-beta.sublime-project"
 			],
 			[
@@ -1264,6 +1193,10 @@
 			[
 				"n",
 				"~/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/_ignores/nico.sublime-project"
+			],
+			[
+				"",
+				"~/SNC Projects/GreencareTX/Site Folder/gctx2/_ignores/gctx2.sublime-project"
 			],
 			[
 				"gc",
