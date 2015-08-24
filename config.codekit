@@ -738,6 +738,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/assets\/backgrounds\/bg-corner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43873,
+		"inputAbbreviatedPath": "\/img\/assets\/backgrounds\/bg-corner.png",
+		"outputAbbreviatedPath": "\/img\/assets\/backgrounds\/bg-corner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/assets\/logo\/logo-small.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2127,
+		"inputAbbreviatedPath": "\/img\/assets\/logo\/logo-small.png",
+		"outputAbbreviatedPath": "\/img\/assets\/logo\/logo-small.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/assets\/logo\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2596,
+		"inputAbbreviatedPath": "\/img\/assets\/logo\/logo.png",
+		"outputAbbreviatedPath": "\/img\/assets\/logo\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/index\/bio\/_ignores\/original.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -932,28 +965,6 @@
 		"initialSize": 43327,
 		"inputAbbreviatedPath": "\/img\/index\/quoted\/back-to-center@mobile.jpg",
 		"outputAbbreviatedPath": "\/img\/index\/quoted\/back-to-center@mobile.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/logo\/logo-small.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2127,
-		"inputAbbreviatedPath": "\/img\/logo\/logo-small.png",
-		"outputAbbreviatedPath": "\/img\/logo\/logo-small.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/logo\/logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2596,
-		"inputAbbreviatedPath": "\/img\/logo\/logo.png",
-		"outputAbbreviatedPath": "\/img\/logo\/logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
