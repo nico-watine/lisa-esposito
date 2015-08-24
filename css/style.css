@@ -133,6 +133,11 @@ html { -moz-box-sizing: border-box; box-sizing: border-box; }
   src: url("/fonts/nexa-light/nexa-light.eot?#iefix") format("embedded-opentype"), url("/fonts/nexa-light/nexa-light.woff") format("woff"), url("/fonts/nexa-light/nexa-light.ttf") format("truetype"), url("/fonts/nexa-light/nexa-light.svg#8daeb39b16ba4fbde275db0ba71a5206") format("svg");
   /* Legacy iOS */
   font-style: normal; font-weight: 200; }
+@font-face { font-family: 'Nexa Regular'; src: url("/fonts/nexa-regular/nexa-regular.eot");
+  /* IE9 Compat Modes */
+  src: url("/fonts/nexa-regular/nexa-regular.eot?#iefix") format("embedded-opentype"), url("/fonts/nexa-regular/nexa-regular.woff") format("woff"), url("/fonts/nexa-regular/nexa-regular.ttf") format("truetype"), url("/fonts/nexa-regular/nexa-regular.svg#4e334cde95716905ea5c4a74d072e8b7") format("svg");
+  /* Legacy iOS */
+  font-style: normal; font-weight: 400; }
 html { font-size: 1em; }
 
 html, input, button, textarea { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; -moz-osx-font-smoothing: grayscale; }

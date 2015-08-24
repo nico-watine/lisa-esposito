@@ -738,6 +738,15 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/fonts\/nexa-regular\/font.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/fonts\/nexa-regular\/font.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/img\/assets\/backgrounds\/bg-corner.png": {
 		"fileType": 32768,
 		"ignore": 0,
