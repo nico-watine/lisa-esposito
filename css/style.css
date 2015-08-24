@@ -138,20 +138,25 @@ html { -moz-box-sizing: border-box; box-sizing: border-box; }
   src: url("/fonts/nexa-regular/nexa-regular.eot?#iefix") format("embedded-opentype"), url("/fonts/nexa-regular/nexa-regular.woff") format("woff"), url("/fonts/nexa-regular/nexa-regular.ttf") format("truetype"), url("/fonts/nexa-regular/nexa-regular.svg#4e334cde95716905ea5c4a74d072e8b7") format("svg");
   /* Legacy iOS */
   font-style: normal; font-weight: 400; }
+@font-face { font-family: 'Nexa Bold'; src: url("/fonts/nexa-bold/nexa-bold.eot");
+  /* IE9 Compat Modes */
+  src: url("/fonts/nexa-bold/nexa-bold.eot?#iefix") format("embedded-opentype"), url("/fonts/nexa-bold/nexa-bold.woff") format("woff"), url("/fonts/nexa-bold/nexa-bold.ttf") format("truetype"), url("/fonts/nexa-bold/nexa-bold.svg#47bebd947bc9776ca33e78f4df905448") format("svg");
+  /* Legacy iOS */
+  font-style: normal; font-weight: 700; }
 html { font-size: 1em; }
 
 html, input, button, textarea { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; -moz-osx-font-smoothing: grayscale; }
 
-body { color: #333; font-weight: 400; font-family: "Nexa Light", sans-serif; line-height: 1.2; }
+body { color: #333; font-weight: 200; font-family: "Nexa Light", sans-serif; line-height: 1.2; }
 
 p { margin-bottom: 1.4em; }
 
 a, a:visited { color: #222; text-decoration: none; }
 a:hover, a:focus, a:visited:hover, a:visited:focus { text-decoration: underline; }
 
-h1, h2 { font-weight: 700; margin: 0 0 0.5rem; }
+h1, h2 { font-weight: 400; font-family: "Nexa Regular", sans-serif; margin: 0 0 0.5rem; }
 
-h3, h4, h5, h6 { margin: 0 0 0.5rem; font-weight: 400; }
+h3, h4, h5, h6 { margin: 0 0 0.5rem; font-weight: 200; }
 
 h5, h6 { letter-spacing: 1.2; text-transform: uppercase; }
 
@@ -173,6 +178,8 @@ h6 { font-size: 0.75em; }
   h4 { font-size: 1em; }
   h5 { font-size: 0.75em; }
   h6 { font-size: 0.75em; } }
+.bold { font-family: "Nexa Regular", sans-serif; font-weight: 400; }
+
 html, body { margin: 0; padding: 0; height: 100%; }
 
 audio, canvas, img, video { vertical-align: middle; }
@@ -292,7 +299,7 @@ img#wpstats { visibility: hidden !important; display: none !important; }
 .gallery-link a { color: #fff; }
 .gallery-link a.verbiage-link { text-decoration: underline; }
 .gallery-link a.verbiage-link:hover { text-decoration: none; }
-.gallery-link h2 { font-size: 2rem; font-weight: 400; }
+.gallery-link h2 { font-size: 2rem; font-weight: 200; }
 .gallery-link h3.gallery-title { font-size: 2.5rem; }
 .gallery-link .angled-div { background: #4A4A4A; height: 100%; width: 20%; }
 @media screen and (max-width: 62.5em) { .gallery-link h2 { font-size: 1.75rem; }
@@ -349,8 +356,8 @@ section.bio article.verbiage p { font-size: 1.375rem; }
 
 section.quoted { width: 100%; height: 30em; background: url("/img/index/quoted/back-to-center.jpg") no-repeat; background-size: 100%; position: relative; background-position: center; border-top: 0.5em solid #F6F6F6; text-align: center; color: #fff; padding-top: 8.125em; }
 @media only screen and (max-width: 1441px) { section.quoted { background-size: inherit; } }
-section.quoted h2 { font-size: 2rem; font-weight: 400; margin-bottom: 2.625rem; padding: 0 1.5625rem; }
-section.quoted h3 { margin-bottom: 2.5rem; font-weight: 700; }
+section.quoted h2 { font-size: 2rem; font-weight: 200; margin-bottom: 2.625rem; padding: 0 1.5625rem; }
+section.quoted h3 { margin-bottom: 2.5rem; font-weight: 400; }
 section.quoted aside { bottom: 2.5em; right: 3.125em; }
 @media screen and (max-width: 46.875em) { section.quoted { background: url("/img/index/quoted/back-to-center@mobile.jpg") no-repeat; }
   section.quoted h2 { font-size: 1.5625rem; } }

@@ -41,6 +41,7 @@ a:visited {
 h1, 
 h2 {
 	font-weight: $header-font-weight;
+	font-family: $header-font-family;
 	margin: 0 0 rem(8);
 }
 
@@ -111,3 +112,7 @@ h6 {
 	}
 }
 
+.bold {
+	font-family: $header-font-family;
+	font-weight: $header-font-weight;
+}

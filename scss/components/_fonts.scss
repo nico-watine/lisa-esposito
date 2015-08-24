@@ -23,3 +23,16 @@
   font-style:   normal;
   font-weight:  400;
 }
+
+@font-face {
+  font-family: 'Nexa Bold';
+  src: url('/fonts/nexa-bold/nexa-bold.eot'); /* IE9 Compat Modes */
+  src: url('/fonts/nexa-bold/nexa-bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/fonts/nexa-bold/nexa-bold.woff') format('woff'), /* Modern Browsers */
+       url('/fonts/nexa-bold/nexa-bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('/fonts/nexa-bold/nexa-bold.svg#47bebd947bc9776ca33e78f4df905448') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  700;
+}
+
