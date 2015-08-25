@@ -1,5 +1,9 @@
 @import "../../settings/_settings.scss";
 
+$min-1440: "only screen and (min-width : 1440px)";
+$max-1020: "only screen and (max-width : 1020px)";
+
+
 #upcoming-events {
 	main {
 		padding: 0 em(28);
@@ -23,6 +27,15 @@
 	@include shift(1);
 	position: relative;
 
+	@media #{$min-1440} {
+		.event {
+			left: em(580);
+		}
+		.angled-div {
+			left: em(440);
+		}
+	}
+
 	.feature-date {
 		position: absolute;
 		height: 100%;
@@ -30,7 +43,7 @@
 		border-radius: em(5);
 
 		p.header {
-			font-size: rem(58);
+			font-size: rem(52);
 			position: relative;
 			top: rem(24);
 			left: 2%;
@@ -46,7 +59,7 @@
 	.angled-div {
 		right: 620px;
 		top: 0;
-		margin-left: em(150);
+		margin-left: em(140);
 	}
 
 	.angled-div:after {
@@ -119,5 +132,6 @@
 		}
 	}
 }
+
 
 @import "_event-entries.scss";
