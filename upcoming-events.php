@@ -49,7 +49,7 @@
 			<p id="painting-title"><a href="http://www.lisaesposito.com/galleries/linear-abstraction.html#!/Under-Cover-of-Night/p/49998408/category=5009182">Under Cover of Night</a></p>
 		</aside>
 		<div class="angled-div"></div>
-		<div class="event">
+		<article class="event">
 			<h3 class="header">2015 Greater Haverhill Arts <br>Association Art Festival</h3>
 			<div class="row" id="details">
 				<div class="verbiage" id="when">
@@ -63,7 +63,7 @@
 			<div class="row" id="extras">
 				<p><a href="http://www.haverhillartassociation.org/events/2015-ghaa-art-festival-september-12-2015">www.haverhillartassociation.org</a></p>
 			</div>
-		</div>
+		</article>
 	</section>
 
 	<section class="event-entry" id="andover-aitp-2015">
@@ -72,7 +72,7 @@
 			<p id="painting-title"><a href="http://www.lisaesposito.com/galleries/linear-abstraction.html#!/Travel-Markings/p/49341245/category=5009182">Travel Markings</a></p>
 		</aside>
 		<div class="angled-div"></div>
-		<div class="event">
+		<article class="event">
 			<h3 class="header">2015 Andovers Artists Guild <br>‘Art in the Park’</h3>
 			<div class="row" id="details">
 				<div class="verbiage" id="when">
@@ -86,7 +86,7 @@
 			<div class="row" id="extras">
 				<p><a href="http://www.andoversartistsguild.com/page/2015ArtinThePark">www.andoverartistsguild.com</a></p>
 			</div>
-		</div>
+		</article>
 	</section>
 </main>
 
