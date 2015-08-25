@@ -144,7 +144,7 @@ html, input, button, textarea { -webkit-font-smoothing: antialiased; text-render
 
 body { color: #333; font-weight: 200; font-family: "Nexa Light", sans-serif; line-height: 1.2; }
 
-p { margin-bottom: 1.4em; }
+p { margin: 0 0 1.4rem; }
 
 a, a:visited { color: #222; text-decoration: none; }
 a:hover, a:focus, a:visited:hover, a:visited:focus { text-decoration: underline; }
@@ -213,9 +213,27 @@ span.inline { display: inline-block; }
 
 .angled-div:after { position: absolute; z-index: 5; content: ''; line-height: 0; font-size: 0; width: 0; height: 0; }
 
-html, body { background-color: #F6F6F6; }
+body { background: #F6F6F6 url("/img/assets/backgrounds/body@default.png") no-repeat; background-position: right top; }
+@media only screen and (max-width: 720px) { body { background: #F6F6F6 url("/img/assets/backgrounds/body@720.jpg") no-repeat; background-position: right top; } }
 
 img#wpstats { visibility: hidden !important; display: none !important; }
+
+header { padding: 2.8125em 1.625em 0; }
+header h1.title { font-size: 2.25rem; margin-bottom: 0; }
+header h1.title span { font-size: 1.375rem; }
+header h2.tag { font-size: 1.5rem; margin-bottom: 1.875rem; }
+@media only screen and (max-width: 560px) { header h1.title { font-size: 1.875rem; }
+  header h1.title span { font-size: 1rem; }
+  header h2.tag { font-size: 1.125rem; } }
+
+nav { margin-bottom: 2.5em; }
+nav ul.main-nav { margin: 0; padding: 0; list-style-type: none; float: left; }
+nav ul.main-nav li { display: inline-block; padding-right: 1.625rem; margin-bottom: 0.75rem; }
+nav ul.main-nav li.active { font-family: "Nexa Regular", sans-serif; }
+nav ul.main-nav li.active a:hover { text-decoration: none; }
+@media only screen and (max-width: 760px) { nav { margin-bottom: 1.375em; } }
+
+body#index { background: #F6F6F6; }
 
 #index aside { position: absolute; }
 #index aside a { color: #fff; }
@@ -387,3 +405,73 @@ body#index footer .footer-nav h5 { text-transform: none; }
   body#index footer .contact-info h5, body#index footer .footer-nav h5 { margin-bottom: 0.875rem; }
   body#index footer .footer-nav ul { margin-bottom: 0.875rem; } }
 @media only screen and (max-width: 481px) { body#index footer .contact-info h5, body#index footer .footer-nav h5, body#index footer .footer-nav ul li a { font-size: 0.875rem; } }
+
+#upcoming-events main { padding: 0 1.75em; }
+#upcoming-events main h2 { text-align: center; font-size: 3.9375em; margin-bottom: 2.5rem; }
+
+.event-entry { background: #fff; margin-bottom: 3.75em; box-shadow: 0 0.6875em 0.4375em 0 rgba(0, 0, 0, 0.19), 0 0.8125em 1.5625em 0 rgba(0, 0, 0, 0.3); border-radius: 0.3125em; border-right: 0.3125em solid #fff; height: 300px; float: left; display: block; margin-right: 1.75788%; width: 87.28027%; margin-left: 6.35987%; position: relative; }
+.event-entry:last-child { margin-right: 0; }
+@media only screen and (min-width: 1440px) { .event-entry .event { left: 36.25em; }
+  .event-entry .angled-div { left: 27.5em; } }
+.event-entry .feature-date { position: absolute; height: 100%; width: 100%; border-radius: 0.3125em; }
+.event-entry .feature-date p.header { font-size: 3.25rem; position: relative; top: 1.5rem; left: 2%; }
+.event-entry .feature-date p#painting-title { font-family: "Nexa Regular", sans-serif; position: absolute; left: 2%; }
+.event-entry .feature-date p#painting-title a { font-size: 1rem; }
+.event-entry .angled-div { right: 620px; top: 0; margin-left: 8.75em; }
+.event-entry .angled-div:after { left: -120px; top: 0; border-top: 0 solid transparent; border-bottom: 300px solid #fff; border-left: 120px solid transparent; border-right: 0 solid transparent; }
+.event-entry .event { background: #fff; padding: 1.5em 0; max-width: 38.75em; width: 100%; position: absolute; right: 0; height: 100%; text-align: center; }
+.event-entry .event h3 { margin-bottom: 1.625rem; font-size: 2.375rem; }
+.event-entry .verbiage { margin-bottom: 1.875em; width: 49%; }
+.event-entry .verbiage#when { float: left; }
+.event-entry .verbiage#when p#date { font-size: 1.875rem; margin-bottom: 0.625rem; }
+.event-entry .verbiage#when p#time { font-size: 1.375rem; margin-bottom: 0; }
+.event-entry .verbiage#where { float: right; }
+.event-entry .verbiage#where p#address { font-size: 1.375rem; margin-bottom: 0; }
+.event-entry .row#extras p { font-size: 1.375rem; margin-bottom: 0; }
+.event-entry .row#extras p a { text-decoration: underline; }
+.event-entry .row#extras p a:hover { text-decoration: none; }
+
+@media only screen and (max-width: 1020px) { .event-entry { max-width: 42.5em; width: 100%; float: none; margin: 0 auto 3.75em !important; border: 0; }
+  .event-entry .feature-date { height: 12.5em; width: 100%; text-align: center; }
+  .event-entry .feature-date p.header { position: initial; margin-top: 1.5rem; margin-bottom: 0.75rem; left: initial; }
+  .event-entry .feature-date p#painting-title { position: initial; left: initial; }
+  .event-entry .angled-div { left: 0; margin-left: 0; top: 140px; margin-top: 3.125em; }
+  .event-entry .angled-div:after { top: -50px; left: 0; border-top: 50px solid transparent; border-bottom: 0 solid transparent; border-left: 680px solid #fff; border-right: 0 solid transparent; }
+  .event-entry .event { max-width: 42.5em; left: 0; top: 11.875em; height: auto; } }
+@media only screen and (max-width: 740px) { #upcoming-events main h2 { font-size: 3.125rem; }
+  .event-entry { max-width: 31.25em; }
+  .event-entry .angled-div { left: 0; margin-left: 0; top: 140px; margin-top: 3.125em; }
+  .event-entry .angled-div:after { top: -50px; left: 0; border-top: 50px solid transparent; border-bottom: 0 solid transparent; border-left: 500px solid #fff; border-right: 0 solid transparent; }
+  .event-entry .event { max-width: 31.25em; }
+  .event-entry .event h3 { font-size: 1.9375em; }
+  .event-entry .event .verbiage { width: 100%; margin: 0 0 1.5em; } }
+@media only screen and (max-width: 560px) { #upcoming-events main h2 { margin-bottom: 1.625rem; }
+  .event-entry { max-width: 25.625em; }
+  .event-entry .angled-div { left: 0; margin-left: 0; top: 140px; margin-top: 3.125em; }
+  .event-entry .angled-div:after { top: -50px; left: 0; border-top: 50px solid transparent; border-bottom: 0 solid transparent; border-left: 410px solid #fff; border-right: 0 solid transparent; }
+  .event-entry .event { max-width: 25.625em; }
+  .event-entry .event h3 { font-size: 1.5rem; }
+  .event-entry .event .verbiage#when p#date { font-size: 1.3125rem; }
+  .event-entry .event .verbiage#when p#time { font-size: 1rem; }
+  .event-entry .event .verbiage#where p#address { font-size: 1rem; }
+  .event-entry .event .row#extras p { font-size: 1rem; } }
+@media only screen and (max-width: 470px) { #upcoming-events main h2 { font-size: 2.375rem; }
+  .event-entry { max-width: 19.375em; }
+  .event-entry .angled-div { left: 0; margin-left: 0; top: 140px; margin-top: 3.125em; }
+  .event-entry .angled-div:after { top: -50px; left: 0; border-top: 50px solid transparent; border-bottom: 0 solid transparent; border-left: 260px solid #fff; border-right: 0 solid transparent; }
+  .event-entry .event { max-width: 19.375em; } }
+.event-entry#ghaa-2015 { height: 18.75em; }
+.event-entry#ghaa-2015 .feature-date { background: url("/img/upcoming-events/default/under-cover-of-night.jpg") no-repeat; background-position: left top; background-size: auto; }
+.event-entry#ghaa-2015 .feature-date p, .event-entry#ghaa-2015 .feature-date p a { color: #fff; }
+@media only screen and (max-width: 1020px) { .event-entry#ghaa-2015 { height: 30.625em; } }
+@media only screen and (max-width: 740px) { .event-entry#ghaa-2015 { height: 36.25em; } }
+@media only screen and (max-width: 560px) { .event-entry#ghaa-2015 { height: 31.25em; } }
+@media only screen and (max-width: 470px) { .event-entry#ghaa-2015 { height: 35em; } }
+
+.event-entry#andover-aitp-2015 { height: 18.75em; }
+.event-entry#andover-aitp-2015 .feature-date { background: url("/img/upcoming-events/default/travel-markings.jpg") no-repeat; background-position: left top; background-size: auto; }
+.event-entry#andover-aitp-2015 .feature-date p, .event-entry#andover-aitp-2015 .feature-date p a { color: #fff; }
+@media only screen and (max-width: 1020px) { .event-entry#andover-aitp-2015 { height: 30.625em; } }
+@media only screen and (max-width: 740px) { .event-entry#andover-aitp-2015 { height: 36.25em; } }
+@media only screen and (max-width: 560px) { .event-entry#andover-aitp-2015 { height: 31.25em; } }
+@media only screen and (max-width: 560px) { .event-entry#andover-aitp-2015 { height: 35em; } }

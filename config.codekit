@@ -738,13 +738,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/assets\/backgrounds\/bg-corner.png": {
+	"\/img\/assets\/backgrounds\/body@720.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10682,
+		"inputAbbreviatedPath": "\/img\/assets\/backgrounds\/body@720.jpg",
+		"outputAbbreviatedPath": "\/img\/assets\/backgrounds\/body@720.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/assets\/backgrounds\/body@default.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 43873,
-		"inputAbbreviatedPath": "\/img\/assets\/backgrounds\/bg-corner.png",
-		"outputAbbreviatedPath": "\/img\/assets\/backgrounds\/bg-corner.png",
+		"inputAbbreviatedPath": "\/img\/assets\/backgrounds\/body@default.png",
+		"outputAbbreviatedPath": "\/img\/assets\/backgrounds\/body@default.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -965,6 +976,28 @@
 		"initialSize": 43327,
 		"inputAbbreviatedPath": "\/img\/index\/quoted\/back-to-center@mobile.jpg",
 		"outputAbbreviatedPath": "\/img\/index\/quoted\/back-to-center@mobile.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/upcoming-events\/default\/travel-markings.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31305,
+		"inputAbbreviatedPath": "\/img\/upcoming-events\/default\/travel-markings.jpg",
+		"outputAbbreviatedPath": "\/img\/upcoming-events\/default\/Travel Markings.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/upcoming-events\/default\/under-cover-of-night.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36213,
+		"inputAbbreviatedPath": "\/img\/upcoming-events\/default\/under-cover-of-night.jpg",
+		"outputAbbreviatedPath": "\/img\/upcoming-events\/default\/under-cover-of-night.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1431,6 +1464,38 @@
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
+	"\/scss\/pages\/upcoming-events\/_event-entries.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/pages\/upcoming-events\/_event-entries.scss",
+		"outputAbbreviatedPath": "\/css\/_event-entries.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/pages\/upcoming-events\/_upcoming-events.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/pages\/upcoming-events\/_upcoming-events.scss",
+		"outputAbbreviatedPath": "\/css\/_upcoming-events.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
 	"\/scss\/settings\/_development-styles.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -1516,6 +1581,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
+		},
+	"\/upcoming-events.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/upcoming-events.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/wp-content\/themes\/theme-name\/front-page.php": {
 		"fileType": 8192,

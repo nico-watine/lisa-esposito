@@ -22,7 +22,8 @@ body {
 }
 
 p {
-	margin-bottom: $baseline;
+	margin: 0 0 $baseline;
+	// margin-bottom: $baseline;
 }
 
 a,

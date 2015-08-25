@@ -1,1 +1,34 @@
 @import "../settings/_settings.scss";
+
+$max-760: "only screen and (max-width : 760px)";
+
+nav {
+	margin-bottom: em(40);
+	
+	ul.main-nav {
+		margin: 0;
+		padding: 0;
+		list-style-type: none;
+		float: left;
+
+		li {
+			display: inline-block;
+			padding-right: rem(26);
+			margin-bottom: rem(12);
+		}
+
+		li.active {
+			font-family: $header-font-family;
+
+			a {
+				&:hover {
+					text-decoration: none;
+				}
+			}
+		}
+	}
+
+	@media #{$max-760} {
+		margin-bottom: em(22);
+	}
+}

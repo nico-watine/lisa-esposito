@@ -1,8 +1,15 @@
 @import "../settings/_settings.scss";
 
-html,
+$max-720: "only screen and (max-width : 720px)";
+
 body {
-	background-color: $base-white;
+	background: $base-white url('/img/assets/backgrounds/body@default.png') no-repeat;
+	background-position: right top;
+
+	@media #{$max-720} {
+		background: $base-white url('/img/assets/backgrounds/body@720.jpg') no-repeat;
+		background-position: right top;		
+	}
 }
 
 img#wpstats {
