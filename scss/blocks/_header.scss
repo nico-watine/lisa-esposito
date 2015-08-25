@@ -1,7 +1,10 @@
 @import "../settings/_settings.scss";
 
+$max-560: "only screen and (max-width : 560px)";
+
+
 header {
-	padding-top: em(45);
+	padding: em(45) em(26) 0;
 
 	h1.title {
 		font-size: rem(36);
@@ -15,6 +18,20 @@ header {
 	h2.tag {
 		font-size: rem(24);
 		margin-bottom: rem(30);
+	}
+
+	@media #{$max-560} {
+		h1.title {
+			font-size: rem(30);
+
+			span {
+				font-size: rem(16);
+			}
+		}
+
+		h2.tag {
+			font-size: rem(18);
+		}
 	}
 }
 

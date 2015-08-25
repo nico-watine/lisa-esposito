@@ -1,5 +1,7 @@
 @import "../settings/_settings.scss";
 
+$max-760: "only screen and (max-width : 760px)";
+
 nav {
 	margin-bottom: em(40);
 	
@@ -12,6 +14,7 @@ nav {
 		li {
 			display: inline-block;
 			padding-right: rem(26);
+			margin-bottom: rem(12);
 		}
 
 		li.active {
@@ -23,5 +26,9 @@ nav {
 				}
 			}
 		}
+	}
+
+	@media #{$max-760} {
+		margin-bottom: em(22);
 	}
 }

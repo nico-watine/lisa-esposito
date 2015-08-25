@@ -217,16 +217,20 @@ body { background: #F6F6F6 url("/img/assets/backgrounds/right-top.png") no-repea
 
 img#wpstats { visibility: hidden !important; display: none !important; }
 
-header { padding-top: 2.8125em; }
+header { padding: 2.8125em 1.625em 0; }
 header h1.title { font-size: 2.25rem; margin-bottom: 0; }
 header h1.title span { font-size: 1.375rem; }
 header h2.tag { font-size: 1.5rem; margin-bottom: 1.875rem; }
+@media only screen and (max-width: 560px) { header h1.title { font-size: 1.875rem; }
+  header h1.title span { font-size: 1rem; }
+  header h2.tag { font-size: 1.125rem; } }
 
 nav { margin-bottom: 2.5em; }
 nav ul.main-nav { margin: 0; padding: 0; list-style-type: none; float: left; }
-nav ul.main-nav li { display: inline-block; padding-right: 1.625rem; }
+nav ul.main-nav li { display: inline-block; padding-right: 1.625rem; margin-bottom: 0.75rem; }
 nav ul.main-nav li.active { font-family: "Nexa Regular", sans-serif; }
 nav ul.main-nav li.active a:hover { text-decoration: none; }
+@media only screen and (max-width: 760px) { nav { margin-bottom: 1.375em; } }
 
 body#index { background: #F6F6F6; }
 
