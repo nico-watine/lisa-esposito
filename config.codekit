@@ -738,13 +738,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/assets\/backgrounds\/right-top.png": {
+	"\/img\/assets\/backgrounds\/body@720.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10682,
+		"inputAbbreviatedPath": "\/img\/assets\/backgrounds\/body@720.jpg",
+		"outputAbbreviatedPath": "\/img\/assets\/backgrounds\/body@720.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/assets\/backgrounds\/body@default.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 43873,
-		"inputAbbreviatedPath": "\/img\/assets\/backgrounds\/right-top.png",
-		"outputAbbreviatedPath": "\/img\/assets\/backgrounds\/right-top.png",
+		"inputAbbreviatedPath": "\/img\/assets\/backgrounds\/body@default.png",
+		"outputAbbreviatedPath": "\/img\/assets\/backgrounds\/body@default.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

@@ -213,7 +213,8 @@ span.inline { display: inline-block; }
 
 .angled-div:after { position: absolute; z-index: 5; content: ''; line-height: 0; font-size: 0; width: 0; height: 0; }
 
-body { background: #F6F6F6 url("/img/assets/backgrounds/right-top.png") no-repeat; background-position: right top; }
+body { background: #F6F6F6 url("/img/assets/backgrounds/body@default.png") no-repeat; background-position: right top; }
+@media only screen and (max-width: 720px) { body { background: #F6F6F6 url("/img/assets/backgrounds/body@720.jpg") no-repeat; background-position: right top; } }
 
 img#wpstats { visibility: hidden !important; display: none !important; }
 
