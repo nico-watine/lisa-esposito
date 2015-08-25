@@ -433,13 +433,15 @@ body#index footer .footer-nav h5 { text-transform: none; }
   .event-entry .angled-div { left: 0; margin-left: 0; top: 140px; margin-top: 3.125em; }
   .event-entry .angled-div:after { top: -50px; left: 0; border-top: 50px solid transparent; border-bottom: 0 solid transparent; border-left: 680px solid #fff; border-right: 0 solid transparent; }
   .event-entry .event { max-width: 42.5em; left: 0; top: 11.875em; height: auto; } }
-@media only screen and (max-width: 740px) { .event-entry { max-width: 31.25em; }
+@media only screen and (max-width: 740px) { #upcoming-events main h2 { font-size: 3.125rem; }
+  .event-entry { max-width: 31.25em; }
   .event-entry .angled-div { left: 0; margin-left: 0; top: 140px; margin-top: 3.125em; }
   .event-entry .angled-div:after { top: -50px; left: 0; border-top: 50px solid transparent; border-bottom: 0 solid transparent; border-left: 500px solid #fff; border-right: 0 solid transparent; }
   .event-entry .event { max-width: 31.25em; }
   .event-entry .event h3 { font-size: 1.9375em; }
   .event-entry .event .verbiage { width: 100%; margin: 0 0 1.5em; } }
-@media only screen and (max-width: 560px) { .event-entry { max-width: 25.625em; }
+@media only screen and (max-width: 560px) { #upcoming-events main h2 { margin-bottom: 1.625rem; }
+  .event-entry { max-width: 25.625em; }
   .event-entry .angled-div { left: 0; margin-left: 0; top: 140px; margin-top: 3.125em; }
   .event-entry .angled-div:after { top: -50px; left: 0; border-top: 50px solid transparent; border-bottom: 0 solid transparent; border-left: 410px solid #fff; border-right: 0 solid transparent; }
   .event-entry .event { max-width: 25.625em; }
@@ -448,7 +450,8 @@ body#index footer .footer-nav h5 { text-transform: none; }
   .event-entry .event .verbiage#when p#time { font-size: 1rem; }
   .event-entry .event .verbiage#where p#address { font-size: 1rem; }
   .event-entry .event .row#extras p { font-size: 1rem; } }
-@media only screen and (max-width: 470px) { .event-entry { max-width: 19.375em; }
+@media only screen and (max-width: 470px) { #upcoming-events main h2 { font-size: 2.375rem; }
+  .event-entry { max-width: 19.375em; }
   .event-entry .angled-div { left: 0; margin-left: 0; top: 140px; margin-top: 3.125em; }
   .event-entry .angled-div:after { top: -50px; left: 0; border-top: 50px solid transparent; border-bottom: 0 solid transparent; border-left: 260px solid #fff; border-right: 0 solid transparent; }
   .event-entry .event { max-width: 19.375em; } }
@@ -458,7 +461,7 @@ body#index footer .footer-nav h5 { text-transform: none; }
 @media only screen and (max-width: 1020px) { .event-entry#ghaa-2015 { height: 30.625em; } }
 @media only screen and (max-width: 740px) { .event-entry#ghaa-2015 { height: 36.25em; } }
 @media only screen and (max-width: 560px) { .event-entry#ghaa-2015 { height: 31.25em; } }
-@media only screen and (max-width: 470px) { .event-entry#ghaa-2015 { height: 33.125em; } }
+@media only screen and (max-width: 470px) { .event-entry#ghaa-2015 { height: 35em; } }
 
 .event-entry#andover-aitp-2015 { height: 18.75em; }
 .event-entry#andover-aitp-2015 .feature-date { background: url("/img/upcoming-events/default/travel-markings.jpg") no-repeat; background-position: left top; background-size: auto; }
@@ -466,4 +469,4 @@ body#index footer .footer-nav h5 { text-transform: none; }
 @media only screen and (max-width: 1020px) { .event-entry#andover-aitp-2015 { height: 30.625em; } }
 @media only screen and (max-width: 740px) { .event-entry#andover-aitp-2015 { height: 36.25em; } }
 @media only screen and (max-width: 560px) { .event-entry#andover-aitp-2015 { height: 31.25em; } }
-@media only screen and (max-width: 560px) { .event-entry#andover-aitp-2015 { height: 33.125em; } }
+@media only screen and (max-width: 560px) { .event-entry#andover-aitp-2015 { height: 35em; } }

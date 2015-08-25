@@ -189,6 +189,13 @@ $max-470: "only screen and (max-width : 470px)";
 }
 
 @media #{$max-740} {
+	#upcoming-events {
+		main {
+			h2 {
+				font-size: rem(50);
+			}
+		}
+	}
 	.event-entry {
 		max-width: em(500);
 
@@ -224,6 +231,13 @@ $max-470: "only screen and (max-width : 470px)";
 }
 
 @media #{$max-560} {
+	#upcoming-events {
+		main {
+			h2 {
+				margin-bottom: rem(26);
+			}
+		}
+	}
 	.event-entry {
 		max-width: em(410);
 
@@ -275,6 +289,13 @@ $max-470: "only screen and (max-width : 470px)";
 }
 
 @media #{$max-470} {
+	#upcoming-events {
+		main {
+			h2 {
+				font-size: rem(38);
+			}
+		}
+	}
 	.event-entry {
 		max-width: em(310);
 
