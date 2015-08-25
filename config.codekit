@@ -738,13 +738,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/assets\/backgrounds\/bg-corner.png": {
+	"\/img\/assets\/backgrounds\/right-top.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 43873,
-		"inputAbbreviatedPath": "\/img\/assets\/backgrounds\/bg-corner.png",
-		"outputAbbreviatedPath": "\/img\/assets\/backgrounds\/bg-corner.png",
+		"inputAbbreviatedPath": "\/img\/assets\/backgrounds\/right-top.png",
+		"outputAbbreviatedPath": "\/img\/assets\/backgrounds\/right-top.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

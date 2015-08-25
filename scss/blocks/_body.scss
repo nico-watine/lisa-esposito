@@ -1,8 +1,9 @@
 @import "../settings/_settings.scss";
 
-html,
+
 body {
-	background-color: $base-white;
+	background: $base-white url('/img/assets/backgrounds/right-top.png') no-repeat;
+	background-position: right top;
 }
 
 img#wpstats {

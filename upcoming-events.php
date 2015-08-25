@@ -23,7 +23,22 @@
 </head>
 <body>
 
-
+<header class="outer-container">
+	<div class="row">
+		<h1 class="title">Lisa Esposito, <span>PhD</span></h1>
+		<h2 class="tag">Abstract Expressionist Paintings</h2>
+	</div>
+	<nav class="row">
+		<ul class="main-nav">
+			<li><a href="/">Home</a></li>
+			<li><a href="http://www.lisaesposito.com/galleries.html">Galleries</a></li>
+			<li class="active"><a href="#">Upcoming Events</a></li>
+			<li><a href="http://www.lisaesposito.com/artist-statement.html">Artist Statement</a></li>
+			<li><a href="http://www.lisaesposito.com/bio.html">CV/Bio</a></li>
+			<li><a href="http://www.lisaesposito.com/contact.html">Contact</a></li>
+		</ul>
+	</nav>
+</header>
 
 
 
