@@ -21,7 +21,7 @@
 	<![endif]-->
 
 </head>
-<body>
+<body id="upcoming-events">
 
 <header class="outer-container">
 	<div class="row">
@@ -40,6 +40,12 @@
 	</nav>
 </header>
 
+<main>
+	<h2 class="page-title">Upcoming Events</h2>
+	<section class="event-entry">
+		
+	</section>
+</main>
 
 
 

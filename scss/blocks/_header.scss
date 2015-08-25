@@ -2,18 +2,19 @@
 
 header {
 	padding-top: em(45);
-}
 
-h1.title {
-	font-size: rem(36);
-	margin-bottom: 0;
+	h1.title {
+		font-size: rem(36);
+		margin-bottom: 0;
 
-	span {
-		font-size: rem(22);
+		span {
+			font-size: rem(22);
+		}
+	}
+
+	h2.tag {
+		font-size: rem(24);
+		margin-bottom: rem(30);
 	}
 }
 
-h2.tag {
-	font-size: rem(24);
-	margin-bottom: rem(30);
-}

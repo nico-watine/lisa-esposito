@@ -1,0 +1,23 @@
+@import "../../settings/_settings.scss";
+
+#upcoming-events {
+	main {
+		padding: 0 em(28);
+
+		h2 {
+			text-align: center;
+			font-size: rem(54);
+			margin-bottom: rem(40);
+		}
+	}
+}
+
+.event-entry {
+	background: #fff;
+	box-shadow: $shadow-z-3;
+	border-radius: em(5);
+	max-width: em(880);
+	width: 100%;
+	margin: 0 auto;
+	height: 200px;
+}
