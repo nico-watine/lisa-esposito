@@ -13,20 +13,20 @@
 			color: #fff;
 		}
 	}
+}
 
-	.angled-div {
-		right: 620px;
-		top: 0;
-		margin-left: em(150);
-	}
+.event-entry#andover-aitp-2015 {
+	height: em(300);
 
-	.angled-div:after {
-		left: -120px;
-		top: 0;
-	    border-top: 0 solid transparent;
-	    border-bottom: 300px solid #fff;
-	    border-left: 120px solid transparent;
-	    border-right: 0 solid transparent;
+	.feature-date {
+		background: url('/img/upcoming-events/default/travel-markings.jpg') no-repeat;
+		background-position: left top;
+		background-size: auto;
+
+		p,
+		p a {
+			color: #000;
+		}
 	}
 }
 

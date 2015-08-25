@@ -14,6 +14,7 @@
 
 .event-entry {
 	background: #fff;
+	margin-bottom: em(60);
 	box-shadow: $shadow-z-3;
 	border-radius: em(5);
 	border-right: em(5) solid #fff;
@@ -38,9 +39,23 @@
 		p#painting-title {
 			font-family: $header-font-family;
 			position: absolute;
-			bottom: 0;
 			left: 2%;
 		}
+	}
+
+	.angled-div {
+		right: 620px;
+		top: 0;
+		margin-left: em(150);
+	}
+
+	.angled-div:after {
+		left: -120px;
+		top: 0;
+	    border-top: 0 solid transparent;
+	    border-bottom: 300px solid #fff;
+	    border-left: 120px solid transparent;
+	    border-right: 0 solid transparent;
 	}
 
 	.event {

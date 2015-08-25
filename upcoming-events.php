@@ -42,6 +42,7 @@
 
 <main>
 	<h2 class="page-title">Upcoming Events</h2>
+
 	<section class="event-entry" id="ghaa-2015">
 		<aside class="feature-date">
 			<p class="header">Sep 12</p>
@@ -52,6 +53,29 @@
 			<h3 class="header">2015 Greater Haverhill Arts <br>Association Art Festival</h3>
 			<div class="row" id="details">
 				<div class="verbiage" id="when">
+					<p id="date">September 12, 2015</p>
+					<p id="time">Saturday 10am - 4pm</p>
+				</div>
+				<div class="verbiage" id="where">
+					<p id="address">Bradford Common <br>Rte. 125 South Main Street  <br>Bradford, MA 01835</p>
+				</div>
+			</div>
+			<div class="row" id="extras">
+				<p><a href="http://www.haverhillartassociation.org/events/2015-ghaa-art-festival-september-12-2015">www.haverhillartassociation.org</a></p>
+			</div>
+		</div>
+	</section>
+
+	<section class="event-entry" id="andover-aitp-2015">
+		<aside class="feature-date">
+			<p class="header">Sep 12</p>
+			<p id="painting-title"><a href="http://www.lisaesposito.com/galleries/linear-abstraction.html#!/Travel-Markings/p/49341245/category=5009182">Travel Markings</a></p>
+		</aside>
+		<div class="angled-div"></div>
+		<div class="event">
+			<h3 class="header">2015 Andovers Artists Guild <br>‘Art in the Park’</h3>
+			<div class="row" id="details">
+				<div class="verbiage" id="when">
 					<p id="date">September 19, 2015</p>
 					<p id="time">Saturday 10am - 4pm</p>
 				</div>
@@ -60,7 +84,7 @@
 				</div>
 			</div>
 			<div class="row" id="extras">
-				<p><a href="http://www.haverhillartassociation.org/events/2015-ghaa-art-festival-september-12-2015">www.haverhillartassociation.org</a></p>
+				<p><a href="http://www.andoversartistsguild.com/page/2015ArtinThePark">www.andoverartistsguild.com</a></p>
 			</div>
 		</div>
 	</section>
