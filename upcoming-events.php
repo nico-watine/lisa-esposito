@@ -43,7 +43,24 @@
 <main>
 	<h2 class="page-title">Upcoming Events</h2>
 	<section class="event-entry">
-		
+		<aside class="feature-date">
+			
+		</aside>
+		<div class="event" id="2015-ghaa">
+			<h3 class="header">2015 Greater Haverhill Arts <br>Association Art Festival</h3>
+			<div class="row" id="details">
+				<div class="verbiage" id="when">
+					<p id="date">September 19, 2015</p>
+					<p id="time">Saturday 10am - 4pm</p>
+				</div>
+				<div class="verbiage" id="where">
+					<p id="address">The Park <br>Chestnut &amp; Bartlet Street <br>Andover, MA 01810</p>
+				</div>
+			</div>
+			<div class="row" id="extras">
+				<p><a href="http://www.haverhillartassociation.org/events/2015-ghaa-art-festival-september-12-2015">www.haverhillartassociation.org</a></p>
+			</div>
+		</div>
 	</section>
 </main>
 

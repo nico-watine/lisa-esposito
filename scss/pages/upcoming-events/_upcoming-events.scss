@@ -16,8 +16,68 @@
 	background: #fff;
 	box-shadow: $shadow-z-3;
 	border-radius: em(5);
-	max-width: em(880);
-	width: 100%;
-	margin: 0 auto;
-	height: 200px;
+	height: 300px;
+	@include span-columns(14 of 16);
+	@include shift(1);
+	position: relative;
+
+	.event {
+		padding-top: em(24);
+		max-width: em(690);
+		width: 100%;
+		position: absolute;
+		right: 0;
+		height: 100%;
+		text-align: center;
+
+		h3 {
+			margin-bottom: rem(26);
+		}
+	}
+
+	.row#details {
+		margin-bottom: em(30);
+	}
+
+	.verbiage {
+		width: 49%;
+	}
+
+	.verbiage#when {
+		float: left;
+
+		p#date {
+			font-size: rem(30);
+			margin-bottom: rem(10);
+		}
+
+		p#time {
+			font-size: rem(22);
+			margin-bottom: 0;
+		}
+	}
+
+	.verbiage#where {
+		float: right;
+
+		p#address {
+			font-size: rem(22);
+			margin-bottom: 0;
+		}
+	}
+
+	.row#extras {
+		p {
+			font-size: rem(22);
+			margin-bottom: 0;
+
+			a {
+				text-decoration: underline;
+
+				&:hover {
+					text-decoration: none;
+				}
+			}
+		}
+	}
 }
