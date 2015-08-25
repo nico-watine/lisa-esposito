@@ -969,6 +969,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/upcoming-events\/default\/travel-markings.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28919,
+		"inputAbbreviatedPath": "\/img\/upcoming-events\/default\/travel-markings.jpg",
+		"outputAbbreviatedPath": "\/img\/upcoming-events\/default\/travel-markings.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/upcoming-events\/default\/under-cover-of-night.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36213,
+		"inputAbbreviatedPath": "\/img\/upcoming-events\/default\/under-cover-of-night.jpg",
+		"outputAbbreviatedPath": "\/img\/upcoming-events\/default\/under-cover-of-night.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1424,6 +1446,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scss\/pages\/index\/_quotes.scss",
 		"outputAbbreviatedPath": "\/css\/_quotes.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/pages\/upcoming-events\/_event-entries.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/pages\/upcoming-events\/_event-entries.scss",
+		"outputAbbreviatedPath": "\/css\/_event-entries.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,

@@ -1,0 +1,32 @@
+@import "../../settings/_settings.scss";
+
+.event-entry#ghaa-2015 {
+	height: em(300);
+
+	.feature-date {
+		background: url('/img/upcoming-events/default/under-cover-of-night.jpg') no-repeat;
+		background-position: left top;
+		background-size: auto;
+
+		p,
+		p a {
+			color: #fff;
+		}
+	}
+
+	.angled-div {
+		right: 620px;
+		top: 0;
+		margin-left: em(150);
+	}
+
+	.angled-div:after {
+		left: -120px;
+		top: 0;
+	    border-top: 0 solid transparent;
+	    border-bottom: 300px solid #fff;
+	    border-left: 120px solid transparent;
+	    border-right: 0 solid transparent;
+	}
+}
+

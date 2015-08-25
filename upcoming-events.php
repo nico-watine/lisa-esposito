@@ -42,11 +42,13 @@
 
 <main>
 	<h2 class="page-title">Upcoming Events</h2>
-	<section class="event-entry">
+	<section class="event-entry" id="ghaa-2015">
 		<aside class="feature-date">
-			
+			<p class="header">Sep 12</p>
+			<p id="painting-title"><a href="http://www.lisaesposito.com/galleries/linear-abstraction.html#!/Under-Cover-of-Night/p/49998408/category=5009182">Under Cover of Night</a></p>
 		</aside>
-		<div class="event" id="2015-ghaa">
+		<div class="angled-div"></div>
+		<div class="event">
 			<h3 class="header">2015 Greater Haverhill Arts <br>Association Art Festival</h3>
 			<div class="row" id="details">
 				<div class="verbiage" id="when">
