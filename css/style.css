@@ -415,9 +415,8 @@ body#index footer .footer-nav h5 { text-transform: none; }
 .event-entry .angled-div { right: 620px; top: 0; margin-left: 8.75em; }
 .event-entry .angled-div:after { left: -120px; top: 0; border-top: 0 solid transparent; border-bottom: 300px solid #fff; border-left: 120px solid transparent; border-right: 0 solid transparent; }
 .event-entry .event { background: #fff; padding: 1.5em 0; max-width: 38.75em; width: 100%; position: absolute; right: 0; height: 100%; text-align: center; }
-.event-entry .event h3 { margin-bottom: 1.625rem; font-size: 1.9375em; }
-.event-entry .row#details { margin-bottom: 1.875em; }
-.event-entry .verbiage { width: 49%; }
+.event-entry .event h3 { margin-bottom: 1.625rem; font-size: 2.375rem; }
+.event-entry .verbiage { margin-bottom: 1.875em; width: 49%; }
 .event-entry .verbiage#when { float: left; }
 .event-entry .verbiage#when p#date { font-size: 1.875rem; margin-bottom: 0.625rem; }
 .event-entry .verbiage#when p#time { font-size: 1.375rem; margin-bottom: 0; }
@@ -434,19 +433,37 @@ body#index footer .footer-nav h5 { text-transform: none; }
   .event-entry .angled-div { left: 0; margin-left: 0; top: 140px; margin-top: 3.125em; }
   .event-entry .angled-div:after { top: -50px; left: 0; border-top: 50px solid transparent; border-bottom: 0 solid transparent; border-left: 680px solid #fff; border-right: 0 solid transparent; }
   .event-entry .event { max-width: 42.5em; left: 0; top: 11.875em; height: auto; } }
-@media only screen and (max-width: 740px) { .event-entry { max-width: 42.5em; width: 100%; float: none; margin: 0 auto 3.75em !important; border: 0; }
-  .event-entry .feature-date { height: 12.5em; width: 100%; text-align: center; }
-  .event-entry .feature-date p.header { position: initial; margin-top: 1.5rem; margin-bottom: 0.75rem; left: initial; }
-  .event-entry .feature-date p#painting-title { position: initial; left: initial; }
+@media only screen and (max-width: 740px) { .event-entry { max-width: 31.25em; }
   .event-entry .angled-div { left: 0; margin-left: 0; top: 140px; margin-top: 3.125em; }
-  .event-entry .angled-div:after { top: -50px; left: 0; border-top: 50px solid transparent; border-bottom: 0 solid transparent; border-left: 680px solid #fff; border-right: 0 solid transparent; }
-  .event-entry .event { max-width: 42.5em; left: 0; top: 11.875em; height: auto; } }
+  .event-entry .angled-div:after { top: -50px; left: 0; border-top: 50px solid transparent; border-bottom: 0 solid transparent; border-left: 500px solid #fff; border-right: 0 solid transparent; }
+  .event-entry .event { max-width: 31.25em; }
+  .event-entry .event h3 { font-size: 1.9375em; }
+  .event-entry .event .verbiage { width: 100%; margin: 0 0 1.5em; } }
+@media only screen and (max-width: 560px) { .event-entry { max-width: 25.625em; }
+  .event-entry .angled-div { left: 0; margin-left: 0; top: 140px; margin-top: 3.125em; }
+  .event-entry .angled-div:after { top: -50px; left: 0; border-top: 50px solid transparent; border-bottom: 0 solid transparent; border-left: 410px solid #fff; border-right: 0 solid transparent; }
+  .event-entry .event { max-width: 25.625em; }
+  .event-entry .event h3 { font-size: 1.5rem; }
+  .event-entry .event .verbiage#when p#date { font-size: 1.3125rem; }
+  .event-entry .event .verbiage#when p#time { font-size: 1rem; }
+  .event-entry .event .verbiage#where p#address { font-size: 1rem; }
+  .event-entry .event .row#extras p { font-size: 1rem; } }
+@media only screen and (max-width: 470px) { .event-entry { max-width: 19.375em; }
+  .event-entry .angled-div { left: 0; margin-left: 0; top: 140px; margin-top: 3.125em; }
+  .event-entry .angled-div:after { top: -50px; left: 0; border-top: 50px solid transparent; border-bottom: 0 solid transparent; border-left: 260px solid #fff; border-right: 0 solid transparent; }
+  .event-entry .event { max-width: 19.375em; } }
 .event-entry#ghaa-2015 { height: 18.75em; }
 .event-entry#ghaa-2015 .feature-date { background: url("/img/upcoming-events/default/under-cover-of-night.jpg") no-repeat; background-position: left top; background-size: auto; }
 .event-entry#ghaa-2015 .feature-date p, .event-entry#ghaa-2015 .feature-date p a { color: #fff; }
 @media only screen and (max-width: 1020px) { .event-entry#ghaa-2015 { height: 30.625em; } }
+@media only screen and (max-width: 740px) { .event-entry#ghaa-2015 { height: 36.25em; } }
+@media only screen and (max-width: 560px) { .event-entry#ghaa-2015 { height: 31.25em; } }
+@media only screen and (max-width: 470px) { .event-entry#ghaa-2015 { height: 33.125em; } }
 
 .event-entry#andover-aitp-2015 { height: 18.75em; }
 .event-entry#andover-aitp-2015 .feature-date { background: url("/img/upcoming-events/default/travel-markings.jpg") no-repeat; background-position: left top; background-size: auto; }
 .event-entry#andover-aitp-2015 .feature-date p, .event-entry#andover-aitp-2015 .feature-date p a { color: #fff; }
 @media only screen and (max-width: 1020px) { .event-entry#andover-aitp-2015 { height: 30.625em; } }
+@media only screen and (max-width: 740px) { .event-entry#andover-aitp-2015 { height: 36.25em; } }
+@media only screen and (max-width: 560px) { .event-entry#andover-aitp-2015 { height: 31.25em; } }
+@media only screen and (max-width: 560px) { .event-entry#andover-aitp-2015 { height: 33.125em; } }

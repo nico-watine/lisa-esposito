@@ -1,6 +1,9 @@
 @import "../../settings/_settings.scss";
 
 $max-1020: "only screen and (max-width : 1020px)";
+$max-740: "only screen and (max-width : 740px)";
+$max-560: "only screen and (max-width : 560px)";
+$max-470: "only screen and (max-width : 470px)";
 
 .event-entry#ghaa-2015 {
 	height: em(300);
@@ -18,6 +21,18 @@ $max-1020: "only screen and (max-width : 1020px)";
 
 	@media #{$max-1020} {
 		height: em(490);
+	}
+
+	@media #{$max-740} {
+		height: em(580)
+	}
+
+	@media #{$max-560} {
+		height: em(500)
+	}
+
+	@media #{$max-470} {
+		height: em(530)
 	}
 }
 
@@ -37,6 +52,18 @@ $max-1020: "only screen and (max-width : 1020px)";
 
 	@media #{$max-1020} {
 		height: em(490);
+	}
+
+	@media #{$max-740} {
+		height: em(580)
+	}
+
+	@media #{$max-560} {
+		height: em(500)
+	}
+
+	@media #{$max-560} {
+		height: em(530)
 	}
 }
 
