@@ -112,7 +112,12 @@ h6 {
 	}
 }
 
-.bold {
+.body {
+	font-family: $body-font-family;
+	font-weight: $body-font-weight;
+}
+
+.header {
 	font-family: $header-font-family;
 	font-weight: $header-font-weight;
 }
