@@ -414,27 +414,27 @@ body#index footer .footer-nav h5 { text-transform: none; }
 @media only screen and (min-width: 1440px) { .event-entry .event { left: 36.25em; }
   .event-entry .angled-div { left: 27.5em; } }
 .event-entry .feature-date { position: absolute; height: 100%; width: 100%; border-radius: 0.3125em; }
-.event-entry .feature-date p.header { font-size: 3.25rem; position: relative; top: 1.5rem; left: 2%; }
-.event-entry .feature-date p#painting-title { font-family: "Nexa Regular", sans-serif; position: absolute; left: 2%; }
-.event-entry .feature-date p#painting-title a { font-size: 1rem; }
+.event-entry .feature-date .header { font-size: 3.25rem; position: relative; top: 1.5rem; left: 2%; }
+.event-entry .feature-date #painting-title { font-family: "Nexa Regular", sans-serif; position: absolute; left: 2%; }
+.event-entry .feature-date #painting-title a { font-size: 1rem; }
 .event-entry .angled-div { right: 620px; top: 0; margin-left: 8.75em; }
 .event-entry .angled-div:after { left: -120px; top: 0; border-top: 0 solid transparent; border-bottom: 300px solid #fff; border-left: 120px solid transparent; border-right: 0 solid transparent; }
 .event-entry .event { background: #fff; padding: 1.5em 0; max-width: 38.75em; width: 100%; position: absolute; right: 0; height: 100%; text-align: center; }
 .event-entry .event h3 { margin-bottom: 1.625rem; font-size: 2.375rem; }
 .event-entry .verbiage { margin-bottom: 1.875em; width: 49%; }
 .event-entry .verbiage#when { float: left; }
-.event-entry .verbiage#when p#date { font-size: 1.875rem; margin-bottom: 0.625rem; }
-.event-entry .verbiage#when p#time { font-size: 1.375rem; margin-bottom: 0; }
+.event-entry .verbiage#when #date { font-size: 1.875rem; margin-bottom: 0.625rem; }
+.event-entry .verbiage#when #time { font-size: 1.375rem; margin-bottom: 0; }
 .event-entry .verbiage#where { float: right; }
-.event-entry .verbiage#where p#address { font-size: 1.375rem; margin-bottom: 0; }
+.event-entry .verbiage#where #address { font-size: 1.375rem; margin-bottom: 0; }
 .event-entry .row#extras p { font-size: 1.375rem; margin-bottom: 0; }
 .event-entry .row#extras p a { text-decoration: underline; }
 .event-entry .row#extras p a:hover { text-decoration: none; }
 
 @media only screen and (max-width: 1020px) { .event-entry { max-width: 42.5em; width: 100%; float: none; margin: 0 auto 3.75em !important; border: 0; }
   .event-entry .feature-date { height: 12.5em; width: 100%; text-align: center; }
-  .event-entry .feature-date p.header { position: initial; margin-top: 1.5rem; margin-bottom: 0.75rem; left: initial; }
-  .event-entry .feature-date p#painting-title { position: initial; left: initial; }
+  .event-entry .feature-date .header { position: initial; margin-top: 1.5rem; margin-bottom: 0.75rem; left: initial; }
+  .event-entry .feature-date #painting-title { position: initial; left: initial; }
   .event-entry .angled-div { left: 0; margin-left: 0; top: 140px; margin-top: 3.125em; }
   .event-entry .angled-div:after { top: -50px; left: 0; border-top: 50px solid transparent; border-bottom: 0 solid transparent; border-left: 680px solid #fff; border-right: 0 solid transparent; }
   .event-entry .event { max-width: 42.5em; left: 0; top: 11.875em; height: auto; } }
@@ -451,9 +451,9 @@ body#index footer .footer-nav h5 { text-transform: none; }
   .event-entry .angled-div:after { top: -50px; left: 0; border-top: 50px solid transparent; border-bottom: 0 solid transparent; border-left: 410px solid #fff; border-right: 0 solid transparent; }
   .event-entry .event { max-width: 25.625em; }
   .event-entry .event h3 { font-size: 1.5rem; }
-  .event-entry .event .verbiage#when p#date { font-size: 1.3125rem; }
-  .event-entry .event .verbiage#when p#time { font-size: 1rem; }
-  .event-entry .event .verbiage#where p#address { font-size: 1rem; }
+  .event-entry .event .verbiage#when #date { font-size: 1.3125rem; }
+  .event-entry .event .verbiage#when #time { font-size: 1rem; }
+  .event-entry .event .verbiage#where #address { font-size: 1rem; }
   .event-entry .event .row#extras p { font-size: 1rem; } }
 @media only screen and (max-width: 470px) { #upcoming-events main h2 { font-size: 2.375rem; }
   .event-entry { max-width: 19.375em; }

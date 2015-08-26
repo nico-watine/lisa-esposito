@@ -44,14 +44,14 @@ $max-470: "only screen and (max-width : 470px)";
 		width: 100%;
 		border-radius: em(5);
 
-		p.header {
+		.header {
 			font-size: rem(52);
 			position: relative;
 			top: rem(24);
 			left: 2%;
 		}
 
-		p#painting-title {
+		#painting-title {
 			font-family: $header-font-family;
 			position: absolute;
 			left: 2%;
@@ -101,12 +101,12 @@ $max-470: "only screen and (max-width : 470px)";
 	.verbiage#when {
 		float: left;
 
-		p#date {
+		#date {
 			font-size: rem(30);
 			margin-bottom: rem(10);
 		}
 
-		p#time {
+		#time {
 			font-size: rem(22);
 			margin-bottom: 0;
 		}
@@ -115,7 +115,7 @@ $max-470: "only screen and (max-width : 470px)";
 	.verbiage#where {
 		float: right;
 
-		p#address {
+		#address {
 			font-size: rem(22);
 			margin-bottom: 0;
 		}
@@ -150,14 +150,14 @@ $max-470: "only screen and (max-width : 470px)";
 			width: 100%;
 			text-align: center;
 
-			p.header {
+			.header {
 				position: initial;
 				margin-top: rem(24);
 				margin-bottom: rem(12);
 				left: initial
 			}
 
-			p#painting-title {
+			#painting-title {
 				position: initial;
 				left: initial;
 			}
@@ -265,16 +265,16 @@ $max-470: "only screen and (max-width : 470px)";
 			}
 			
 			.verbiage#when {
-				p#date {
+				#date {
 					font-size: rem(21);
 				}
-				p#time {
+				#time {
 					font-size: rem(16);
 				}
 			}
 
 			.verbiage#where {
-				p#address {
+				#address {
 					font-size: rem(16);
 				}
 			}
