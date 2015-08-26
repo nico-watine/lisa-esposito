@@ -400,7 +400,7 @@ body#index footer .footer-nav h5 { text-transform: none; }
   body#index footer .footer-nav { padding: 0 1.5em 0 0; }
   body#index footer .footer-nav h5 { font-size: 1rem; }
   body#index footer .footer-nav ul li a { font-size: 1rem; } }
-@media only screen and (max-width: 601px) { body#index footer { padding-top: 2.1875em; }
+@media only screen and (max-width: 675px) { body#index footer { padding-top: 2.1875em; }
   body#index footer .contact-info, body#index footer .footer-nav { width: 100%; padding: 0; text-align: center; }
   body#index footer .contact-info h5, body#index footer .footer-nav h5 { margin-bottom: 0.875rem; }
   body#index footer .footer-nav ul { margin-bottom: 0.875rem; } }
