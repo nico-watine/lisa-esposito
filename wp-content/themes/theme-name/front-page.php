@@ -31,10 +31,10 @@
 		<h2>Abstract Expressionist Paintings</h2>
 		<nav>
 			<ul class="vertical-list">
-				<li><a href="http://lisaesposito.com/galleries.html">Galleries</a></li>
-				<!--TO BE ADDED LATER ON--> <!-- <li><a href="/upcoming-events/">Upcoming Events</a></li> --> 
-				<li><a href="http://lisaesposito.com/artist-statement.html">Artist Statement</a></li>
-				<li><a href="http://lisaesposito.com/bio.html">CV / Bio</a></li>
+				<li><a href="http://www.lisaesposito.com/galleries.html">Galleries</a></li>
+				<li><a href="http://www.lisaesposito.com/upcoming-events.html">Upcoming Events</a></li> 
+				<li><a href="http://www.lisaesposito.com/artist-statement.html">Artist Statement</a></li>
+				<li><a href="http://www.lisaesposito.com/bio.html">CV / Bio</a></li>
 			</ul>
 		</nav>
 		<div id="contact-info">
@@ -96,10 +96,10 @@
 	</div>
 	<div class="footer-nav">
 		<ul>
-			<li><a href="http://lisaesposito.com/galleries.html">Galleries</a></li>
-			<!--TO BE ADDED LATER ON--> <!-- <li><a href="/upcoming-events/">Upcoming Events</a></li> --> 
-			<li><a href="http://lisaesposito.com/artist-statement.html">Artist Statement</a></li>
-			<li id="last"><a href="http://lisaesposito.com/bio.html">CV / Bio</a></li>
+			<li><a href="http://www.lisaesposito.com/galleries.html">Galleries</a></li>
+			<li><a href="http://www.lisaesposito.com/upcoming-events.html">Upcoming Events</a></li> 
+			<li><a href="http://www.lisaesposito.com/artist-statement.html">Artist Statement</a></li>
+			<li id="last"><a href="http://www.lisaesposito.com/bio.html">CV / Bio</a></li>
 		</ul>
 		<h5>&copy; Lisa Esposito, PhD | 2015</h5>
 	</div>

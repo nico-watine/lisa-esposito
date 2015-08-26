@@ -6,6 +6,17 @@ $max-560: "only screen and (max-width : 560px)";
 header {
 	padding: em(45) em(26) 0;
 
+	a#logo {
+		&:hover {
+			text-decoration: none;
+		}
+	}
+
+	h1.title,
+	h2.tag {
+		display: inline-block;
+	}
+
 	h1.title {
 		font-size: rem(36);
 		margin-bottom: 0;

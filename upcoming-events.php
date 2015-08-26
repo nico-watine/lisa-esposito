@@ -25,8 +25,10 @@
 
 <header class="outer-container">
 	<div class="row">
-		<h1 class="title">Lisa Esposito, <span>PhD</span></h1>
-		<h2 class="tag">Abstract Expressionist Paintings</h2>
+		<a href="http://www.lisaesposito.com" id="logo">
+			<h1 class="title">Lisa Esposito, <span>PhD</span></h1><br>
+			<h2 class="tag">Abstract Expressionist Paintings</h2>
+		</a>
 	</div>
 	<nav class="row">
 		<ul class="main-nav">

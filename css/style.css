@@ -219,6 +219,8 @@ body { background: #F6F6F6 url("/img/assets/backgrounds/body@default.png") no-re
 img#wpstats { visibility: hidden !important; display: none !important; }
 
 header { padding: 2.8125em 1.625em 0; }
+header a#logo:hover { text-decoration: none; }
+header h1.title, header h2.tag { display: inline-block; }
 header h1.title { font-size: 2.25rem; margin-bottom: 0; }
 header h1.title span { font-size: 1.375rem; }
 header h2.tag { font-size: 1.5rem; margin-bottom: 1.875rem; }
