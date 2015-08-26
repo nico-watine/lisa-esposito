@@ -31,7 +31,7 @@
 		<nav>
 			<ul class="vertical-list">
 				<li><a href="http://lisaesposito.com/galleries.html">Galleries</a></li>
-				<!--TO BE ADDED LATER ON--> <!-- <li><a href="/upcoming-events/">Upcoming Events</a></li> --> 
+				<li><a href="/upcoming-events">Upcoming Events</a></li> 
 				<li><a href="http://lisaesposito.com/artist-statement.html">Artist Statement</a></li>
 				<li><a href="http://lisaesposito.com/bio.html">CV / Bio</a></li>
 			</ul>

@@ -33,7 +33,7 @@ $max-401: "only screen and (max-width : 401px)";
 			position: absolute;
 			height: 100%;
 			left: 0;
-			padding: em(150) 0 0 em(40);
+			padding: em(80) 0 0 em(40);
 			z-index: 10;
 
 			h1,
@@ -80,7 +80,7 @@ $max-401: "only screen and (max-width : 401px)";
 				}
 			}
 			position: absolute;
-			bottom: em(16);
+			bottom: em(60);
 			display: block;
 		}
 
@@ -90,7 +90,7 @@ $max-401: "only screen and (max-width : 401px)";
 			background-position: right top;
 
 			.verbiage {
-				padding-top: em(50);
+				padding-top: em(10);
 
 				h1 {
 					font-size: rem(60);
@@ -99,8 +99,10 @@ $max-401: "only screen and (max-width : 401px)";
 						font-size: rem(32);
 					}
 				}
+
 				h2 {
 					font-size: rem(40);
+					margin-bottom: rem(30);
 				}
 			}
 
@@ -176,7 +178,11 @@ $max-401: "only screen and (max-width : 401px)";
 				}
 
 				h2 {
-					margin-bottom: rem(20);
+					margin-bottom: 0;
+				}
+
+				#contact-info {
+					top: em(140);
 				}
 			}
 
@@ -203,7 +209,6 @@ $max-401: "only screen and (max-width : 401px)";
 		}
 
 		@media #{$max-601} {
-			height: em(575);
 
 			aside {
 				top: em(10);
@@ -241,11 +246,7 @@ $max-401: "only screen and (max-width : 401px)";
 			}
 
 			#contact-info {
-			    text-align: left;
-			    left: 0;
 			    display: block;
-			    top: 0;
-			    position: relative;
 
 			    .row h4,
 			    h4 {
@@ -282,6 +283,13 @@ $max-401: "only screen and (max-width : 401px)";
 
 				h2 {
 					font-size: rem(20);
+				}
+
+				#contact-info {
+					left: 0;
+					text-align: left;
+					position: relative;
+					top: 0;
 				}
 			}
 		}
