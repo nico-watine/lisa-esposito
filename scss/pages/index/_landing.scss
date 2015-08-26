@@ -209,6 +209,7 @@ $max-401: "only screen and (max-width : 401px)";
 		}
 
 		@media #{$max-601} {
+			height: em(575);
 
 			aside {
 				top: em(10);

@@ -280,7 +280,8 @@ body#index { background: #F6F6F6; }
   #index header nav ul.vertical-list li a { font-size: 1.5rem; }
   #index header #contact-info { text-align: right; right: 7%; }
   #index header #contact-info .row h4#phone { margin-right: 0; } }
-@media only screen and (max-width: 601px) { #index header aside { top: 0.625em; right: 0.625em; }
+@media only screen and (max-width: 601px) { #index header { height: 35.9375em; }
+  #index header aside { top: 0.625em; right: 0.625em; }
   #index header .verbiage { height: 44%; top: 46%; }
   #index header .verbiage h1 { font-size: 2.5rem; margin-bottom: 0.625rem ""; }
   #index header .verbiage h2 { font-size: 1.5625rem; }
