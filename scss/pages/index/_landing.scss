@@ -186,11 +186,22 @@ $max-401: "only screen and (max-width : 401px)";
 				}
 			}
 
+			aside {
+				top: em(10);
+				right: em(10);
+			}
+
 			nav {
+				display: block;
+
 				ul.vertical-list {
+					margin-bottom: rem(36);
+
 					li {
+						margin-bottom: rem(6);
+
 						a {
-							font-size: rem(24);
+							font-size: rem(18);
 						}
 					}
 				}
@@ -210,38 +221,17 @@ $max-401: "only screen and (max-width : 401px)";
 
 		@media #{$max-601} {
 
-			aside {
-				top: em(10);
-				right: em(10);
-			}
-
 			.verbiage {
 				height: 44%;
 				top: 46%;
 
 				h1 {
 					font-size: rem(40);
-					margin-bottom: rem(10)''
+					margin-bottom: rem(10);
 				}
 
 				h2 {
 					font-size: rem(25);
-				}
-			}
-
-			nav {
-				display: block;
-
-				ul.vertical-list {
-					margin-bottom: rem(36);
-
-					li {
-						margin-bottom: rem(6);
-
-						a {
-							font-size: rem(18);
-						}
-					}
 				}
 			}
 
