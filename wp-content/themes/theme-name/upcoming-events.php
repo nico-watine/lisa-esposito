@@ -71,7 +71,7 @@
 
 	<section class="event-entry" id="andover-aitp-2015">
 		<aside class="feature-date">
-			<p class="header">Sep 12</p>
+			<p class="header">Sep 19</p>
 			<p id="painting-title"><a href="http://www.lisaesposito.com/galleries/linear-abstraction.html#!/Travel-Markings/p/49341245/category=5009182">Travel Markings</a></p>
 		</aside>
 		<div class="angled-div"></div>
