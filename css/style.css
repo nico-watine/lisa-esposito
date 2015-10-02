@@ -235,6 +235,32 @@ nav ul.main-nav li.active { font-family: "Nexa Regular", sans-serif; }
 nav ul.main-nav li.active a:hover { text-decoration: none; }
 @media only screen and (max-width: 760px) { nav { margin-bottom: 1.375em; } }
 
+footer.static { position: relative; width: 100%; height: 14.375em; padding-top: 5em; }
+footer.static a { text-decoration: none; }
+footer.static a:hover { text-decoration: underline; }
+footer.static .contact-info h5, footer.static .footer-nav h5 { margin-bottom: 1.25rem; text-transform: none; font-size: 1.125rem; }
+footer.static .contact-info { left: 0; float: left; padding: 0 0 0 2.1875em; width: auto; }
+footer.static .footer-nav { float: right; right: 0; text-align: right; padding: 0 2.1875em 0 0; width: auto; }
+footer.static .footer-nav ul { display: block; margin: 0; padding: 0; list-style-type: none; margin-bottom: 1.25rem; font-size: 1.125rem; }
+footer.static .footer-nav ul li { display: inline-block; margin-right: 2.1875rem; }
+footer.static .footer-nav ul li#last { margin-right: 0; }
+footer.static .footer-nav h5 { text-transform: none; }
+@media screen and (max-width: 62.5em) { footer.static .contact-info { padding: 0 0 0 1.25em; }
+  footer.static .footer-nav { padding: 0 1.25em 0 0; }
+  footer.static .footer-nav ul li { margin-right: 1rem; } }
+@media only screen and (max-width: 890px) { footer.static { height: 12.5em; padding-top: 3.125em; }
+  footer.static .contact-info { padding: 0 0 0 1.5em; }
+  footer.static .contact-info h5 { font-size: 0.875rem; }
+  footer.static .footer-nav { padding: 0 1.5em 0 0; }
+  footer.static .footer-nav h5 { font-size: 0.875rem; }
+  footer.static .footer-nav ul li a { font-size: 0.875rem; } }
+@media only screen and (max-width: 740px) { footer.static { padding-top: 2.1875em; }
+  footer.static .contact-info, footer.static .footer-nav { width: 100%; padding: 0; text-align: center; }
+  footer.static .contact-info h5, footer.static .footer-nav h5 { margin-bottom: 0.875rem; }
+  footer.static .footer-nav ul { padding: 0 0.875rem; margin-bottom: 0.875rem; } }
+@media only screen and (max-width: 540px) { footer.static .footer-nav ul { margin-bottom: 0; }
+  footer.static .footer-nav ul li { margin-bottom: 0.875rem; } }
+
 body#index { background: #F6F6F6; }
 
 #index aside { position: absolute; }
@@ -385,28 +411,9 @@ section.quoted aside { bottom: 2.5em; right: 3.125em; }
 @media only screen and (max-width: 481px) { section.quoted h2 { font-size: 1.125rem; margin-bottom: 2rem; } }
 @media only screen and (max-width: 401px) { section.quoted { padding-top: 3.125rem; } }
 
-body#index footer { position: relative; width: 100%; height: 14.375em; padding-top: 5em; }
-body#index footer a { text-decoration: none; }
-body#index footer a:hover { text-decoration: underline; }
-body#index footer .contact-info h5, body#index footer .footer-nav h5 { margin-bottom: 1.25rem; text-transform: none; font-size: 1.125rem; }
-body#index footer .contact-info { left: 0; float: left; padding: 0 0 0 2.5em; width: auto; }
-body#index footer .footer-nav { float: right; right: 0; text-align: right; padding: 0 2.5em 0 0; width: auto; }
-body#index footer .footer-nav ul { display: block; margin: 0; padding: 0; list-style-type: none; margin-bottom: 1.25rem; font-size: 1.125rem; }
-body#index footer .footer-nav ul li { display: inline-block; margin-right: 2.1875rem; }
-body#index footer .footer-nav ul li#last { margin-right: 0; }
-body#index footer .footer-nav h5 { text-transform: none; }
-@media screen and (max-width: 62.5em) { body#index footer .footer-nav ul li { margin-right: 1.25rem; } }
-@media only screen and (max-width: 880px) { body#index footer { height: 12.5em; padding-top: 3.125em; }
-  body#index footer .contact-info { padding: 0 0 0 1.5em; }
-  body#index footer .contact-info h5 { font-size: 1rem; }
-  body#index footer .footer-nav { padding: 0 1.5em 0 0; }
-  body#index footer .footer-nav h5 { font-size: 1rem; }
-  body#index footer .footer-nav ul li a { font-size: 1rem; } }
-@media only screen and (max-width: 675px) { body#index footer { padding-top: 2.1875em; }
-  body#index footer .contact-info, body#index footer .footer-nav { width: 100%; padding: 0; text-align: center; }
-  body#index footer .contact-info h5, body#index footer .footer-nav h5 { margin-bottom: 0.875rem; }
-  body#index footer .footer-nav ul { margin-bottom: 0.875rem; } }
-@media only screen and (max-width: 481px) { body#index footer .contact-info h5, body#index footer .footer-nav h5, body#index footer .footer-nav ul li a { font-size: 0.875rem; } }
+#upcoming-events footer { top: 4.375em; }
+#upcoming-events footer .footer-nav { margin-bottom: 3.125em; }
+@media screen and (max-width: 62.5em) { #upcoming-events footer { top: 0; } }
 
 #upcoming-events main { padding: 0 1.75em; }
 #upcoming-events main h2 { text-align: center; font-size: 3.9375em; margin-bottom: 2.5rem; }

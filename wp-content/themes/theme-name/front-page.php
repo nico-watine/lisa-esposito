@@ -19,6 +19,7 @@
 	<!--[if lt IE 9]>
 		<link rel="stylesheet" href="<?php autoVer('/css/ie.css'); ?>"/>
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<script src="<?php autoVer('/js/ie-min.js'); ?>"></script>
 	<![endif]-->
 
 </head>
@@ -89,7 +90,7 @@
 
 </main>
 
-<footer>
+<footer class="static">
 	<div class="contact-info">
 		<h5><a href="tel://832-651-3136">832-520-4743</a></h5>
 		<h5><a href="mailto:info@lisaesposito.com" target="_top">Info@LisaEsposito.com</a></h5>
@@ -99,16 +100,12 @@
 			<li><a href="http://www.lisaesposito.com/galleries.html">Galleries</a></li>
 			<li><a href="http://www.lisaesposito.com/upcoming-events.html">Upcoming Events</a></li> 
 			<li><a href="http://www.lisaesposito.com/artist-statement.html">Artist Statement</a></li>
-			<li id="last"><a href="http://www.lisaesposito.com/bio.html">CV / Bio</a></li>
+			<li><a href="http://www.lisaesposito.com/bio.html">CV / Bio</a></li>
+			<li id="last"><a href="http://www.lisaesposito.com/purchase-work.html">Purchase Info</a></li>
 		</ul>
 		<h5>&copy; Lisa Esposito, PhD | 2015</h5>
 	</div>
 </footer>
-
-
-<!--[if lt IE 9]>
-	<script src="<?php autoVer('/js/ie-min.js'); ?>"></script>
-<![endif]-->
 
 </body>
 </html>

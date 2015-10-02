@@ -1,1 +1,146 @@
 @import "../settings/_settings.scss";
+
+$max-890: "only screen and (max-width : 890px)";
+$max-740: "only screen and (max-width : 740px)";
+$max-540: "only screen and (max-width : 540px)";
+
+
+
+footer.static {
+	position: relative;
+	width: 100%;
+	height: em(230);
+	padding-top: em(80);
+
+	a {
+		text-decoration: none;
+
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+
+	.contact-info,
+	.footer-nav {
+
+		h5 {
+			margin-bottom: rem(20);
+			text-transform: none;
+			font-size: rem(18);
+		}
+	}
+
+	.contact-info {
+		left: 0;
+		float: left;
+		padding: 0 0 0 em(35);
+		width: auto;
+	}
+
+	.footer-nav {
+		float: right;
+		right: 0;
+		text-align: right;
+		padding: 0 em(35) 0 0;
+		width: auto;
+
+		ul {
+			display: block;
+			margin: 0;
+			padding: 0;
+			list-style-type: none;
+			margin-bottom: rem(20);
+			font-size: rem(18);
+
+			li {
+				display: inline-block;
+				margin-right: rem(35);
+			}
+
+			li#last {
+				margin-right: 0;
+			}
+		}
+
+		h5 {
+			text-transform: none;
+		}
+	}
+
+	@include media($large) {
+		.contact-info {
+			padding: 0 0 0 em(20);
+		}
+
+		.footer-nav {
+			padding: 0 em(20) 0 0;
+
+			ul {
+				li {
+					margin-right: rem(16);
+				}
+			}
+		}
+	}
+
+	@media #{$max-890} {
+		height: em(200);
+		padding-top: em(50);
+
+		.contact-info {
+			padding: 0 0 0 em(24);
+
+			h5 {
+				font-size: rem(14);
+			}
+		}
+
+		.footer-nav {
+			padding: 0 em(24) 0 0;
+
+			h5 {
+				font-size: rem(14);
+			}
+
+			ul {
+				li {
+					a {
+						font-size: rem(14);
+					}
+				}
+			}
+		}
+	}
+
+	@media #{$max-740} {
+		padding-top: em(35);
+
+		.contact-info,
+		.footer-nav {
+			width: 100%;
+			padding: 0;
+			text-align: center;
+
+			h5 {
+				margin-bottom: rem(14);
+			}
+		}
+
+		.footer-nav {
+			ul {
+				padding: 0 rem(14);
+				margin-bottom: rem(14);
+			}
+		}
+	}
+
+	@media #{$max-540} {
+		.footer-nav ul  {
+			margin-bottom: 0;
+
+			li {
+				margin-bottom: rem(14);
+			}
+		}
+	}
+}
