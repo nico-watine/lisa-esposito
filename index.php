@@ -90,19 +90,24 @@
 </main>
 
 <footer class="static">
-	<div class="contact-info">
-		<h5><a href="tel://832-651-3136">832-520-4743</a></h5>
-		<h5><a href="mailto:info@lisaesposito.com" target="_top">Info@LisaEsposito.com</a></h5>
+	<div class="row">
+		<div class="contact-info">
+			<h5><a href="tel://832-651-3136">832-520-4743</a></h5>
+			<h5><a href="mailto:info@lisaesposito.com" target="_top">Info@LisaEsposito.com</a></h5>
+		</div>
+		<div class="footer-nav">
+			<ul>
+				<li><a href="http://www.lisaesposito.com/galleries.html">Galleries</a></li>
+				<li><a href="http://www.lisaesposito.com/upcoming-events.html">Upcoming Events</a></li> 
+				<li><a href="http://www.lisaesposito.com/artist-statement.html">Artist Statement</a></li>
+				<li><a href="http://www.lisaesposito.com/bio.html">CV / Bio</a></li>
+				<li id="last"><a href="http://www.lisaesposito.com/purchase-work.html">Purchase Info</a></li>
+			</ul>
+			<h5>&copy; Lisa Esposito, PhD | 2015</h5>
+		</div>
 	</div>
-	<div class="footer-nav">
-		<ul>
-			<li><a href="http://www.lisaesposito.com/galleries.html">Galleries</a></li>
-			<li><a href="http://www.lisaesposito.com/upcoming-events.html">Upcoming Events</a></li> 
-			<li><a href="http://www.lisaesposito.com/artist-statement.html">Artist Statement</a></li>
-			<li><a href="http://www.lisaesposito.com/bio.html">CV / Bio</a></li>
-			<li id="last"><a href="http://www.lisaesposito.com/purchase-work.html">Purchase Info</a></li>
-		</ul>
-		<h5>&copy; Lisa Esposito, PhD | 2015</h5>
+	<div id="snc-link">
+		<a href="http://studioncreations.com/" target="_blak">A <span>Studio N</span> Creation</a>
 	</div>
 </footer>
 

@@ -67,6 +67,28 @@ footer.static {
 		}
 	}
 
+	#snc-link {
+		text-align: center;
+		padding: em(24) 0 em(30);
+		margin-bottom: em(38);
+
+		a {
+			text-transform: uppercase;
+			font-size: rem(12);
+			text-decoration: none;
+			color: #888;
+
+			span {
+				text-decoration: underline;
+			}
+
+			&:hover {
+				text-decoration: underline;
+				color: #444;
+			}
+		}
+	}
+
 	@include media($large) {
 		.contact-info {
 			padding: 0 0 0 em(20);
