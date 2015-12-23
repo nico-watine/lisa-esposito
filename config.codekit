@@ -782,6 +782,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/assets\/og\/index\/og-image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 110216,
+		"inputAbbreviatedPath": "\/img\/assets\/og\/index\/og-image.jpg",
+		"outputAbbreviatedPath": "\/img\/assets\/og\/index\/og-image.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/index\/bio\/_ignores\/original.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
