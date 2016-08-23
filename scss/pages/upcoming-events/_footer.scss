@@ -3,16 +3,8 @@
 
 #upcoming-events {
 	footer {
-		top: em(70);
-
 		.footer-nav {
 			margin-bottom: em(50);
-		}
-	}
-
-	@include media($large) {
-		footer {
-			top: 0;
 		}
 	}
 }

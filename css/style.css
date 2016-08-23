@@ -415,9 +415,7 @@ section.quoted aside { bottom: 2.5em; right: 3.125em; }
 @media only screen and (max-width: 481px) { section.quoted h2 { font-size: 1.125rem; margin-bottom: 2rem; } }
 @media only screen and (max-width: 401px) { section.quoted { padding-top: 3.125rem; } }
 
-#upcoming-events footer { top: 4.375em; }
 #upcoming-events footer .footer-nav { margin-bottom: 3.125em; }
-@media screen and (max-width: 62.5em) { #upcoming-events footer { top: 0; } }
 
 #upcoming-events main { padding: 0 1.75em; }
 #upcoming-events main h2 { text-align: center; font-size: 3.9375em; margin-bottom: 2.5rem; }
