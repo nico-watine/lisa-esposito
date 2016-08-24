@@ -1,5 +1,7 @@
 @import "../../../settings/_settings.scss";
 
+$max-700: "only screen and (max-width : 43.750em)";
+
 article#new-works-portals-passageways {
 	@include span-columns(14 of 16);
 	@include shift(1);
@@ -9,7 +11,7 @@ article#new-works-portals-passageways {
 	background: white;
 
 	header {
-		padding: rem(30) rem(60);
+		padding: rem(30);
 		text-align: center;
 		border-radius: rem(5) rem(5) 0 0;
 
@@ -26,7 +28,7 @@ article#new-works-portals-passageways {
 
 		p {
 			font-size: rem(36);
-			margin-bottom: rem(8);
+			margin-bottom: 0;
 		}
 	}
 
@@ -64,3 +66,34 @@ article#new-works-portals-passageways {
 	}
 }
 
+@media #{$max-700} {
+	article#new-works-portals-passageways {
+		@include span-columns(8 of 8);
+		@include shift(0);
+
+		section.event-details {
+			padding: rem(40) rem(20) rem(20);
+
+			.row {
+				#venue-location,
+				#artist-reception {
+					@include span-columns(8 of 8);
+
+					h4 {
+						font-size: rem(24);
+					}
+
+					p {
+						font-size: rem(20);
+					}
+				}
+			}
+
+			.row#venue-contact-info {
+				p {
+					font-size: rem(22);
+				}
+			}
+		}
+	}		
+}

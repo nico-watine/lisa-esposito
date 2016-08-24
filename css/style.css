@@ -207,6 +207,8 @@ a.button:hover, button:hover { color: #000; background-color: #ccc; }
 
 span.inline { display: inline-block; }
 
+.inline-block { display: inline-block; }
+
 .margin-bottom { margin-bottom: 1.25rem; }
 
 .angled-div { position: absolute; z-index: 5; }
@@ -417,9 +419,9 @@ section.quoted aside { bottom: 2.5em; right: 3.125em; }
 
 article#new-works-portals-passageways { float: left; display: block; margin-right: 1.75788%; width: 87.28027%; margin-left: 6.35987%; margin-bottom: 3.75rem; border-radius: 0.3125rem; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); background: white; }
 article#new-works-portals-passageways:last-child { margin-right: 0; }
-article#new-works-portals-passageways header { padding: 1.875rem 3.75rem; text-align: center; border-radius: 0.3125rem 0.3125rem 0 0; background: #fff url("/img/upcoming-events/2016/new-works-portals-passageways/heaven-of-the-ordinary.jpg") center center/cover no-repeat; color: #fff; text-shadow: 0 0.125rem 0.1875rem #000; }
+article#new-works-portals-passageways header { padding: 1.875rem; text-align: center; border-radius: 0.3125rem 0.3125rem 0 0; background: #fff url("/img/upcoming-events/2016/new-works-portals-passageways/heaven-of-the-ordinary.jpg") center center/cover no-repeat; color: #fff; text-shadow: 0 0.125rem 0.1875rem #000; }
 article#new-works-portals-passageways header h3 { font-size: 2.8125rem; }
-article#new-works-portals-passageways header p { font-size: 2.25rem; margin-bottom: 0.5rem; }
+article#new-works-portals-passageways header p { font-size: 2.25rem; margin-bottom: 0; }
 article#new-works-portals-passageways section.event-details { padding: 2.25rem; text-align: center; }
 article#new-works-portals-passageways section.event-details .row { margin-bottom: 1.25rem; }
 article#new-works-portals-passageways section.event-details .row #venue-location, article#new-works-portals-passageways section.event-details .row #artist-reception { float: left; display: block; margin-right: 2.01406%; width: 48.99297%; }
@@ -429,6 +431,14 @@ article#new-works-portals-passageways section.event-details .row #venue-location
 article#new-works-portals-passageways section.event-details .row#venue-contact-info { margin-bottom: 0; }
 article#new-works-portals-passageways section.event-details .row#venue-contact-info p { font-size: 1.75rem; margin-bottom: 0; }
 
+@media only screen and (max-width: 43.75em) { article#new-works-portals-passageways { float: left; display: block; margin-right: 3.57866%; width: 100%; margin-left: 0%; }
+  article#new-works-portals-passageways:last-child { margin-right: 0; }
+  article#new-works-portals-passageways section.event-details { padding: 2.5rem 1.25rem 1.25rem; }
+  article#new-works-portals-passageways section.event-details .row #venue-location, article#new-works-portals-passageways section.event-details .row #artist-reception { float: left; display: block; margin-right: 3.57866%; width: 100%; }
+  article#new-works-portals-passageways section.event-details .row #venue-location:last-child, article#new-works-portals-passageways section.event-details .row #artist-reception:last-child { margin-right: 0; }
+  article#new-works-portals-passageways section.event-details .row #venue-location h4, article#new-works-portals-passageways section.event-details .row #artist-reception h4 { font-size: 1.5rem; }
+  article#new-works-portals-passageways section.event-details .row #venue-location p, article#new-works-portals-passageways section.event-details .row #artist-reception p { font-size: 1.25rem; }
+  article#new-works-portals-passageways section.event-details .row#venue-contact-info p { font-size: 1.375rem; } }
 #upcoming-events footer .footer-nav { margin-bottom: 3.125em; }
 
 #upcoming-events main { padding: 0 1.75em; }
