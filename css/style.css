@@ -421,10 +421,13 @@ article#new-works-portals-passageways header { padding: 1.875rem 3.75rem; text-a
 article#new-works-portals-passageways header h3 { font-size: 2.8125rem; }
 article#new-works-portals-passageways header p { font-size: 2.25rem; margin-bottom: 0.5rem; }
 article#new-works-portals-passageways section.event-details { padding: 2.25rem; text-align: center; }
-article#new-works-portals-passageways section.event-details .row #venue-location, article#new-works-portals-passageways section.event-details .row #artist-reception { float: left; display: block; margin-right: 2.01406%; width: 48.99297%; height: 200px; }
+article#new-works-portals-passageways section.event-details .row { margin-bottom: 1.25rem; }
+article#new-works-portals-passageways section.event-details .row #venue-location, article#new-works-portals-passageways section.event-details .row #artist-reception { float: left; display: block; margin-right: 2.01406%; width: 48.99297%; }
 article#new-works-portals-passageways section.event-details .row #venue-location:last-child, article#new-works-portals-passageways section.event-details .row #artist-reception:last-child { margin-right: 0; }
 article#new-works-portals-passageways section.event-details .row #venue-location h4, article#new-works-portals-passageways section.event-details .row #artist-reception h4 { font-size: 1.75rem; margin: 0; }
 article#new-works-portals-passageways section.event-details .row #venue-location p, article#new-works-portals-passageways section.event-details .row #artist-reception p { font-size: 1.625rem; }
+article#new-works-portals-passageways section.event-details .row#venue-contact-info { margin-bottom: 0; }
+article#new-works-portals-passageways section.event-details .row#venue-contact-info p { font-size: 1.75rem; margin-bottom: 0; }
 
 #upcoming-events footer .footer-nav { margin-bottom: 3.125em; }
 

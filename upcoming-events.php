@@ -59,16 +59,16 @@
 				<div class="row">
 					<div id="venue-location">
 						<h4>Firehouse Center for the Arts</h4>
-						<p>Market Square <br>Newburyport, MA 01950</p>
+						<p>Market Square<br>Newburyport, MA 01950</p>
 					</div>
-					<div id="artist-reception" style="background: blue;">
-						
+					<div id="artist-reception">
+						<h4>Artist Reception</h4>
+						<p>Saturday, September 24<br>4 - 6 PM</p>
 					</div>
 				</div>
-				<div class="row">
-					<div id="venue-contact-info">
-						
-					</div>
+				<div class="row" id="venue-contact-info">
+					<p>978-462-7336</p>
+					<p>www.firehouse.org</p>
 				</div>
 			</section>
 		</article>

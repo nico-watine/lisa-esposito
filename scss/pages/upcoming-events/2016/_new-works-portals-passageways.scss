@@ -35,10 +35,11 @@ article#new-works-portals-passageways {
 		text-align: center;
 
 		.row {
+			margin-bottom: rem(20);
+
 			#venue-location,
 			#artist-reception {
 				@include span-columns(7 of 14);
-				height: 200px;
 
 				h4 {
 					@extend .heading;
@@ -49,6 +50,15 @@ article#new-works-portals-passageways {
 				p {
 					font-size: rem(26);
 				}
+			}
+		}
+
+		.row#venue-contact-info {
+			margin-bottom: 0;
+			
+			p {
+				font-size: rem(28);
+				margin-bottom: 0;
 			}
 		}
 	}
