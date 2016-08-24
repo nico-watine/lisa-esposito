@@ -47,7 +47,7 @@
 <main>
 	<h2 class="page-title">Upcoming Events</h2>
 
-	<h2 class="page-title">2016</h2>
+	<h2 class="page-title year-marker">2016</h2>
 	
 	<div class="outer-container">
 		<article id="new-works-portals-passageways">
@@ -74,7 +74,7 @@
 		</article>
 	</div>
 
-	<h2 class="page-title">2015</h2>
+	<h2 class="page-title year-marker">2015</h2>
 
 	<section class="event-entry" id="andover-aitp-2015">
 		<aside class="feature-date">
