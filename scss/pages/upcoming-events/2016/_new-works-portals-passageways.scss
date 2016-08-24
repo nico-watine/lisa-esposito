@@ -1,6 +1,8 @@
 @import "../../../settings/_settings.scss";
 
 $max-700: "only screen and (max-width : 43.750em)";
+$max-500: "only screen and (max-width : 31.250em)";
+
 
 article#new-works-portals-passageways {
 	@include span-columns(14 of 16);
@@ -71,6 +73,18 @@ article#new-works-portals-passageways {
 		@include span-columns(8 of 8);
 		@include shift(0);
 
+		header {
+			padding: rem(30) rem(18);
+
+			h3 {
+				font-size: rem(40);
+			}
+
+			p {
+				font-size: rem(30);
+			}
+		}
+
 		section.event-details {
 			padding: rem(40) rem(20) rem(20);
 
@@ -96,4 +110,31 @@ article#new-works-portals-passageways {
 			}
 		}
 	}		
+}
+
+@media #{$max-500} {
+	article#new-works-portals-passageways {
+		header {
+			h3 {
+				font-size: rem(32);
+			}
+
+			p {
+				font-size: rem(28);
+
+				font-family: $header-font-family;
+				font-weight: $header-font-weight;
+			}
+		}
+
+		.row#venue-contact-info {
+			p {
+				a {
+					span {
+						display: inline-block;
+					}
+				}
+			}
+		}
+	}
 }

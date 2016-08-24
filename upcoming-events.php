@@ -68,7 +68,7 @@
 				</div>
 				<div class="row" id="venue-contact-info">
 					<p>978-462-7336</p>
-					<p>www.firehouse.org</p>
+					<p><a href="http://www.firehouse.org/visit-the-gallery" target="_blank">www.firehouse.org/<span>visit-the-gallery</span></a></p>
 				</div>
 			</section>
 		</article>
