@@ -1,0 +1,153 @@
+@import "../../../settings/_settings.scss";
+
+$max-700: "only screen and (max-width : 43.750em)";
+$max-500: "only screen and (max-width : 31.250em)";
+
+
+article#new-works-portals-passageways {
+	@include span-columns(14 of 16);
+	@include shift(1);
+	margin-bottom: rem(60);
+	border-radius: rem(5);
+	box-shadow: $z-3;
+	background: white;
+
+	header {
+		padding: rem(30);
+		text-align: center;
+		border-radius: rem(5) rem(5) 0 0;
+
+		background: #fff url('/img/upcoming-events/2016/new-works-portals-passageways/heaven-of-the-ordinary.jpg') center center/cover no-repeat;
+
+		color: #fff;
+		text-shadow: 0 rem(2) rem(3) #000;
+
+		h3 {
+			font-size: rem(45);
+
+			@extend .heading;
+		}
+
+		p {
+			font-size: rem(36);
+			margin-bottom: 0;
+		}
+	}
+
+	section.event-details {
+		padding: rem(36);
+		text-align: center;
+
+		.row {
+			margin-bottom: rem(20);
+
+			#venue-location,
+			#artist-reception {
+				@include span-columns(7 of 14);
+
+				h4 {
+					@extend .heading;
+					font-size: rem(28);
+					margin: 0;
+				}
+
+				p {
+					font-size: rem(26);
+
+					span#link {
+						display: block;
+						font-size: rem(20);
+
+						a {
+							color: #2199e8;
+						}
+					}
+				}
+			}
+		}
+
+		.row#venue-contact-info {
+			margin-bottom: 0;
+			
+			p {
+				font-size: rem(28);
+				margin-bottom: 0;
+			}
+		}
+	}
+}
+
+@media #{$max-700} {
+	article#new-works-portals-passageways {
+		@include span-columns(8 of 8);
+		@include shift(0);
+
+		header {
+			padding: rem(30) rem(18);
+
+			h3 {
+				font-size: rem(40);
+			}
+
+			p {
+				font-size: rem(30);
+			}
+		}
+
+		section.event-details {
+			padding: rem(40) rem(20) rem(20);
+
+			.row {
+				#venue-location,
+				#artist-reception {
+					@include span-columns(8 of 8);
+
+					h4 {
+						font-size: rem(24);
+					}
+
+					p {
+						font-size: rem(20);
+
+						span#link {
+							font-size: rem(16);
+						}
+					}
+				}
+			}
+
+			.row#venue-contact-info {
+				p {
+					font-size: rem(22);
+				}
+			}
+		}
+	}		
+}
+
+@media #{$max-500} {
+	article#new-works-portals-passageways {
+		header {
+			h3 {
+				font-size: rem(32);
+			}
+
+			p {
+				font-size: rem(28);
+
+				font-family: $header-font-family;
+				font-weight: $header-font-weight;
+			}
+		}
+
+		.row#venue-contact-info {
+			p {
+				a {
+					span {
+						display: inline-block;
+					}
+				}
+			}
+		}
+	}
+}

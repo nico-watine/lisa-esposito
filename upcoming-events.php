@@ -47,28 +47,34 @@
 <main>
 	<h2 class="page-title">Upcoming Events</h2>
 
-	<section class="event-entry" id="ghaa-2015">
-		<aside class="feature-date">
-			<p class="header">Sep 12</p>
-			<p id="painting-title"><a href="http://www.lisaesposito.com/galleries/linear-abstraction.html#!/Under-Cover-of-Night/p/49998408/category=5009182">Under Cover of Night</a></p>
-		</aside>
-		<div class="angled-div"></div>
-		<article class="event">
-			<h3 class="header">2015 Greater Haverhill Arts <br>Association Art Festival</h3>
-			<div class="row" id="details">
-				<div class="verbiage" id="when">
-					<p id="date">September 12, 2015</p>
-					<p id="time">Saturday 10am - 4pm</p>
+	<h2 class="page-title year-marker">2016</h2>
+	
+	<div class="outer-container">
+		<article id="new-works-portals-passageways">
+			<header>
+				<h3>New Works - Portals &amp; Passageways</h3>
+				<p><time>14 Sep</time> - <time>9 Oct 2016</time></p>
+			</header>
+			<section class="event-details">
+				<div class="row">
+					<div id="venue-location">
+						<h4>Firehouse Center <span class="inline-block">for the Arts</span></h4>
+						<p>Market Square<br>Newburyport, MA 01950 <span id="link">[<a href="https://goo.gl/maps/GR1cd7jE8v82" target="_blank">MAP</a>]</span></p>
+					</div>
+					<div id="artist-reception">
+						<h4>Artist Reception</h4>
+						<p>Saturday, <span class="inline-block">September 24</span><br>4 - 6 PM</p>
+					</div>
 				</div>
-				<div class="verbiage" id="where">
-					<p id="address">Bradford Common <br>Rte. 125 South Main Street  <br>Bradford, MA 01835</p>
+				<div class="row" id="venue-contact-info">
+					<p>978-462-7336</p>
+					<p><a href="http://www.firehouse.org/visit-the-gallery" target="_blank">www.firehouse.org/<span>visit-the-gallery</span></a></p>
 				</div>
-			</div>
-			<div class="row" id="extras">
-				<p><a href="http://www.haverhillartassociation.org/events/2015-ghaa-art-festival-september-12-2015">www.haverhillartassociation.org</a></p>
-			</div>
+			</section>
 		</article>
-	</section>
+	</div>
+
+	<h2 class="page-title year-marker">2015</h2>
 
 	<section class="event-entry" id="andover-aitp-2015">
 		<aside class="feature-date">
@@ -89,6 +95,28 @@
 			</div>
 			<div class="row" id="extras">
 				<p><a href="http://www.andoversartistsguild.com/page/2015ArtinThePark">www.andoverartistsguild.com</a></p>
+			</div>
+		</article>
+	</section>
+	<section class="event-entry" id="ghaa-2015">
+		<aside class="feature-date">
+			<p class="header">Sep 12</p>
+			<p id="painting-title"><a href="http://www.lisaesposito.com/galleries/linear-abstraction.html#!/Under-Cover-of-Night/p/49998408/category=5009182">Under Cover of Night</a></p>
+		</aside>
+		<div class="angled-div"></div>
+		<article class="event">
+			<h3 class="header">2015 Greater Haverhill Arts <br>Association Art Festival</h3>
+			<div class="row" id="details">
+				<div class="verbiage" id="when">
+					<p id="date">September 12, 2015</p>
+					<p id="time">Saturday 10am - 4pm</p>
+				</div>
+				<div class="verbiage" id="where">
+					<p id="address">Bradford Common <br>Rte. 125 South Main Street  <br>Bradford, MA 01835</p>
+				</div>
+			</div>
+			<div class="row" id="extras">
+				<p><a href="http://www.haverhillartassociation.org/events/2015-ghaa-art-festival-september-12-2015">www.haverhillartassociation.org</a></p>
 			</div>
 		</article>
 	</section>

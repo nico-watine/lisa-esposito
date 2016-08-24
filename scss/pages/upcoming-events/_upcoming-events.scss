@@ -1,5 +1,6 @@
 @import "../../settings/_settings.scss";
 
+@import "2016/_new-works-portals-passageways.scss";
 @import "_footer.scss";
 
 $min-1440: "only screen and (min-width : 1440px)";
@@ -16,6 +17,10 @@ $max-470: "only screen and (max-width : 470px)";
 			text-align: center;
 			font-size: $h1-size;
 			margin-bottom: rem(40);
+		}
+
+		h2.year-marker {
+			font-size: rem(45);
 		}
 	}
 }
@@ -295,6 +300,10 @@ $max-470: "only screen and (max-width : 470px)";
 		main {
 			h2 {
 				font-size: rem(38);
+			}
+
+			h2.year-marker {
+				font-size: rem(30);
 			}
 		}
 	}
