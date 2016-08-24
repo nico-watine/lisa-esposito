@@ -53,6 +53,15 @@ article#new-works-portals-passageways {
 
 				p {
 					font-size: rem(26);
+
+					span#link {
+						display: block;
+						font-size: rem(20);
+
+						a {
+							color: #2199e8;
+						}
+					}
 				}
 			}
 		}
@@ -99,6 +108,10 @@ article#new-works-portals-passageways {
 
 					p {
 						font-size: rem(20);
+
+						span#link {
+							font-size: rem(16);
+						}
 					}
 				}
 			}

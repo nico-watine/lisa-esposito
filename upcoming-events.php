@@ -59,7 +59,7 @@
 				<div class="row">
 					<div id="venue-location">
 						<h4>Firehouse Center <span class="inline-block">for the Arts</span></h4>
-						<p>Market Square<br>Newburyport, MA 01950</p>
+						<p>Market Square<br>Newburyport, MA 01950 <span id="link">[<a href="https://goo.gl/maps/GR1cd7jE8v82" target="_blank">MAP</a>]</span></p>
 					</div>
 					<div id="artist-reception">
 						<h4>Artist Reception</h4>
