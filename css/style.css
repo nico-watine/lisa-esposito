@@ -175,7 +175,7 @@ h6 { font-size: 0.75em; }
   h6 { font-size: 0.75em; } }
 .body { font-family: "Nexa Light", sans-serif; font-weight: 200; }
 
-.header { font-family: "Nexa Regular", sans-serif; font-weight: 400; }
+.header, .heading, article#new-works-portals-passageways header h3, article#new-works-portals-passageways section.event-details .row #venue-location h4, article#new-works-portals-passageways section.event-details .row #artist-reception h4 { font-family: "Nexa Regular", sans-serif; font-weight: 400; }
 
 html, body { margin: 0; padding: 0; height: 100%; }
 
@@ -414,6 +414,17 @@ section.quoted aside { bottom: 2.5em; right: 3.125em; }
 @media only screen and (max-width: 601px) { section.quoted h2 { font-size: 1.375rem; } }
 @media only screen and (max-width: 481px) { section.quoted h2 { font-size: 1.125rem; margin-bottom: 2rem; } }
 @media only screen and (max-width: 401px) { section.quoted { padding-top: 3.125rem; } }
+
+article#new-works-portals-passageways { float: left; display: block; margin-right: 1.75788%; width: 87.28027%; margin-left: 6.35987%; margin-bottom: 3.75rem; border-radius: 0.3125rem; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); background: white; }
+article#new-works-portals-passageways:last-child { margin-right: 0; }
+article#new-works-portals-passageways header { padding: 1.875rem 3.75rem; text-align: center; border-radius: 0.3125rem 0.3125rem 0 0; background: #fff url("/img/upcoming-events/2016/new-works-portals-passageways/heaven-of-the-ordinary.jpg") center center/cover no-repeat; color: #fff; text-shadow: 0 0.125rem 0.1875rem #000; }
+article#new-works-portals-passageways header h3 { font-size: 2.8125rem; }
+article#new-works-portals-passageways header p { font-size: 2.25rem; margin-bottom: 0.5rem; }
+article#new-works-portals-passageways section.event-details { padding: 2.25rem; text-align: center; }
+article#new-works-portals-passageways section.event-details .row #venue-location, article#new-works-portals-passageways section.event-details .row #artist-reception { float: left; display: block; margin-right: 2.01406%; width: 48.99297%; height: 200px; }
+article#new-works-portals-passageways section.event-details .row #venue-location:last-child, article#new-works-portals-passageways section.event-details .row #artist-reception:last-child { margin-right: 0; }
+article#new-works-portals-passageways section.event-details .row #venue-location h4, article#new-works-portals-passageways section.event-details .row #artist-reception h4 { font-size: 1.75rem; margin: 0; }
+article#new-works-portals-passageways section.event-details .row #venue-location p, article#new-works-portals-passageways section.event-details .row #artist-reception p { font-size: 1.625rem; }
 
 #upcoming-events footer .footer-nav { margin-bottom: 3.125em; }
 
