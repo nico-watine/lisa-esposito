@@ -135,7 +135,7 @@
 			<li><a href="http://www.lisaesposito.com/bio.html">CV / Bio</a></li>
 			<li id="last"><a href="http://www.lisaesposito.com/purchase-work.html">Purchase Info</a></li>
 		</ul>
-		<h5>&copy; Lisa Esposito, PhD | 2015</h5>
+		<h5>&copy; Lisa Esposito, PhD | 2016</h5>
 	</div>
 </footer>
 
