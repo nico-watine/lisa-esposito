@@ -1,30 +1,19 @@
-@import "../../settings/_settings.scss";
+@import "../../../settings/_settings.scss";
 
-$max-2001: "only screen and (max-width : 2001px)";
-$max-1601: "only screen and (max-width : 1601px)";
-$max-1101: "only screen and (max-width : 1101px)";
+@import "_angles.scss";
+@import "_heaven-of-the-ordinary.scss";
+// @import "_escape-artist.scss";
+
+
+
 $max-881: "only screen and (max-width : 881px)";
 $max-601: "only screen and (max-width : 601px)";
 $max-481: "only screen and (max-width : 481px)";
 $max-401: "only screen and (max-width : 401px)";
 
+
 #index {
 	header {
-		background: url('/img/index/landing/header/escape-artist@max.jpg') no-repeat;
-		background-position: right top;
-		background-size: 75%;
-
-		@media #{$max-2001} {
-			background: url('/img/index/landing/header/escape-artist@2001.jpg') no-repeat;
-			background-position: right top;
-		}
-
-		@media #{$max-1601} {
-			background: url('/img/index/landing/header/escape-artist@1601.jpg') no-repeat;
-			background-position: right top;
-			background-size: inherit;
-		}
-
 		height: em(700);
 		border-bottom: em(30) solid $base-white;
 		position: relative;
@@ -86,8 +75,6 @@ $max-401: "only screen and (max-width : 401px)";
 
 		@include media($large) {
 			height: em(550);
-			background: url('/img/index/landing/header/escape-artist@large.jpg') no-repeat;
-			background-position: right top;
 
 			.verbiage {
 				padding-top: em(10);
@@ -155,9 +142,7 @@ $max-401: "only screen and (max-width : 401px)";
 			}
 		}
 
-		@include media($small-plus) {
-			background: url('/img/index/landing/header/escape-artist@mobile.jpg') no-repeat;
-			background-position: center top;
+		@include media($small-plus) { // 701px
 			border-bottom: 0;
 
 			nav,
@@ -248,7 +233,6 @@ $max-401: "only screen and (max-width : 401px)";
 
 		@media #{$max-481} {
 			height: em(520);
-			background-position: -200px -70px; 
 
 			.verbiage {
 				top: 40%;
@@ -265,7 +249,6 @@ $max-401: "only screen and (max-width : 401px)";
 		}
 
 		@media #{$max-401} {
-			background-position: -270px -70px; 
 
 			.verbiage {
 				top: 35%;
@@ -286,67 +269,3 @@ $max-401: "only screen and (max-width : 401px)";
 	}
 }
 
-.angled-div#landing {
-	width: 30%;
-	height: em(670);
-	background: $base-white;
-	top: 0;
-	left: 0;
-	margin-right: em(150);
-}
-
-.angled-div#landing:after {
-    border-top: 0 solid transparent;
-    border-bottom: 670px solid $base-white;
-    border-left: 0 solid transparent;
-    border-right: 150px solid transparent;
-	right: -150px;
-	top: 0;
-}
-
-@media #{$max-1101} {
-	.angled-div#landing {
-		width: 20%;
-	}
-}
-
-@include media($large) {
-	.angled-div#landing {
-		height: em(550);
-	}
-	.angled-div#landing:after {
-		border-bottom: 550px solid $base-white;
-	}
-}
-
-@include media($small-plus) {
-	.angled-div#landing {
-		top: 60%;
-		width: 100%;
-		height: 40%;
-	}
-	.angled-div#landing:after {
-		border: none;
-	}
-}
-
-@media #{$max-601} {
-	.angled-div#landing {
-		top: 55%;
-		height: 45%;
-	}
-}
-
-@media #{$max-481} {
-	.angled-div#landing {
-		top: 50%;
-		height: 50%;
-	}
-}
-
-@media #{$max-401} {
-	.angled-div#landing {
-		top: 45%;
-		height: 55%;
-	}
-}

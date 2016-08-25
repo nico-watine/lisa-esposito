@@ -1,0 +1,14 @@
+@import "../../../settings/_settings.scss";
+
+$max-700: "only screen and (max-width : 43.750em)";
+
+#index {
+	header {
+		background: $base-white url('/img/index/landing/header/heaven-of-the-ordinary/heaven-of-the-ordinary.jpg') right top/cover no-repeat;
+
+		@media #{$max-700} {
+			background: $base-white url('/img/index/landing/header/heaven-of-the-ordinary/700w/heaven-of-the-ordinary.jpg') right top/cover no-repeat;
+		}
+	}
+}
+
