@@ -55,6 +55,16 @@
 </header>
 
 <main>
+<section class="gallery-link" id="portals-passageways">
+		<div class="verbiage">
+			<h2>NEW WORKS</h2>
+			<a href="http://lisaesposito.com/galleries/lyrical-abstraction.html" class="verbiage-link">
+				<h3 class="gallery-title">Portals &amp; Passageways</h3>
+			</a>
+		</div>
+		<div class="angled-div"></div>
+</section>
+
 <section class="gallery-link" id="linear-abstraction">
 		<div class="verbiage">
 			<h2>GALLERY</h2>
