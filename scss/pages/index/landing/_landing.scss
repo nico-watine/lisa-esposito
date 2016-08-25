@@ -1,16 +1,16 @@
 @import "../../../settings/_settings.scss";
 
 @import "_angles.scss";
-@import "_escape-artist.scss";
-// @import "_heaven-of-the-ordinary.scss";
+@import "_heaven-of-the-ordinary.scss";
+// @import "_escape-artist.scss";
 
 
-$max-2001: "only screen and (max-width : 2001px)";
-$max-1601: "only screen and (max-width : 1601px)";
+
 $max-881: "only screen and (max-width : 881px)";
 $max-601: "only screen and (max-width : 601px)";
 $max-481: "only screen and (max-width : 481px)";
 $max-401: "only screen and (max-width : 401px)";
+
 
 #index {
 	header {
@@ -142,7 +142,7 @@ $max-401: "only screen and (max-width : 401px)";
 			}
 		}
 
-		@include media($small-plus) {
+		@include media($small-plus) { // 701px
 			border-bottom: 0;
 
 			nav,
@@ -233,7 +233,6 @@ $max-401: "only screen and (max-width : 401px)";
 
 		@media #{$max-481} {
 			height: em(520);
-			background-position: -200px -70px; 
 
 			.verbiage {
 				top: 40%;
@@ -250,7 +249,6 @@ $max-401: "only screen and (max-width : 401px)";
 		}
 
 		@media #{$max-401} {
-			background-position: -270px -70px; 
 
 			.verbiage {
 				top: 35%;
