@@ -58,7 +58,7 @@
 <section class="gallery-link" id="portals-passageways">
 		<div class="verbiage">
 			<h2>NEW WORKS</h2>
-			<a href="http://lisaesposito.com/galleries/lyrical-abstraction.html" class="verbiage-link">
+			<a href="http://www.lisaesposito.com/galleries/new-works-portals-and-passageways.html" class="verbiage-link">
 				<h3 class="gallery-title">Portals &amp; Passageways</h3>
 			</a>
 		</div>
@@ -68,7 +68,7 @@
 <section class="gallery-link" id="linear-abstraction">
 		<div class="verbiage">
 			<h2>GALLERY</h2>
-			<a href="http://lisaesposito.com/galleries/linear-abstraction.html" class="verbiage-link">
+			<a href="http://www.lisaesposito.com/galleries/linear-abstraction.html" class="verbiage-link">
 				<h3 class="gallery-title">Linear Abstraction</h3>
 			</a>
 		</div>
@@ -78,7 +78,7 @@
 <section class="gallery-link" id="lyrical-abstraction">
 		<div class="verbiage">
 			<h2>GALLERY</h2>
-			<a href="http://lisaesposito.com/galleries/lyrical-abstraction.html" class="verbiage-link">
+			<a href="http://www.lisaesposito.com/galleries/lyrical-abstraction.html" class="verbiage-link">
 				<h3 class="gallery-title">Lyrical Abstraction</h3>
 			</a>
 		</div>
