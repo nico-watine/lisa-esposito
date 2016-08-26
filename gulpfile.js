@@ -4,7 +4,7 @@ var uncss = require('gulp-uncss');
 gulp.task('default', function () {
     return gulp.src('css/style.css')
         .pipe(uncss({
-            html: ['index.html', 'posts/**/*.html', 'http://example.com']
+            html: ['http://nicos-mbp.local:5757/', 'http://nicos-mbp.local:5757/upcoming-events']
         }))
-        .pipe(gulp.dest('./out'));
+        .pipe(gulp.dest('./css/opt'));
 });
