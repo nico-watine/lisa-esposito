@@ -14,7 +14,7 @@
 	<link type="text/plain" rel="author" href="/humans.txt">
 	<meta name="format-detection" content="telephone=no">
 	
-	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>"/>
+	<link rel="stylesheet" href="<?php autoVer('/css/opt/style.css'); ?>"/>
 
 	<!--[if lt IE 9]>
 		<link rel="stylesheet" href="<?php autoVer('/css/ie.css'); ?>"/>
