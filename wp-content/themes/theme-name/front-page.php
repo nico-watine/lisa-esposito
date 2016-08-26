@@ -52,34 +52,40 @@
 		</div>
 	</div>
 	<div class="angled-div" id="landing"></div>
-	<!-- <aside><h4><a href="http://lisaesposito.com/galleries/linear-abstraction.html#!/Escape-Artist/p/52451262/category=5009182">'Escape Artist'</a></h4></aside> -->
 </header>
 
 <main>
+<section class="gallery-link" id="portals-passageways">
+		<div class="verbiage">
+			<h2>NEW WORKS</h2>
+			<a href="http://www.lisaesposito.com/galleries/new-works-portals-and-passageways.html" class="verbiage-link">
+				<h3 class="gallery-title">Portals &amp; Passageways</h3>
+			</a>
+		</div>
+		<div class="angled-div"></div>
+</section>
+
 <section class="gallery-link" id="linear-abstraction">
 		<div class="verbiage">
 			<h2>GALLERY</h2>
-			<a href="http://lisaesposito.com/galleries/linear-abstraction.html" class="verbiage-link">
+			<a href="http://www.lisaesposito.com/galleries/linear-abstraction.html" class="verbiage-link">
 				<h3 class="gallery-title">Linear Abstraction</h3>
 			</a>
 		</div>
 	<div class="angled-div"></div>
-	<!-- <aside><h4><a href="http://lisaesposito.com/galleries/linear-abstraction.html#!/Lost-in-Transit/p/51320080/category=5009182">'Lost In Transit'</a></h4></aside> -->
 </section>
 
 <section class="gallery-link" id="lyrical-abstraction">
 		<div class="verbiage">
 			<h2>GALLERY</h2>
-			<a href="http://lisaesposito.com/galleries/lyrical-abstraction.html" class="verbiage-link">
+			<a href="http://www.lisaesposito.com/galleries/lyrical-abstraction.html" class="verbiage-link">
 				<h3 class="gallery-title">Lyrical Abstraction</h3>
 			</a>
 		</div>
 		<div class="angled-div"></div>
-	<!-- <aside><h4><a href="http://lisaesposito.com/galleries/lyrical-abstraction.html#!/Netherworld-SOLD/p/25990544/category=5009183">'Netherworld'</a></h4></aside> -->
 </section>
 
 <section class="bio">
-	<!-- <aside><h4><a href="http://lisaesposito.com/galleries/linear-abstraction.html#!/All-Points-West/p/48313358/category=5009182">'All Points West'</a></h4></aside> -->
 	<article class="verbiage">
 		<h2>Meet Lisa Esposito</h2>
 		<p>I am a self-taught, abstract expressionist artist best known for spiritually evocative, non-representational paintings. In 2005, with no prior art training, I began painting in acrylic on large-scale canvases. Evolving as a painter, I gained gallery representation in 2006. An exhibited artist, I am inspired by the Abstract Expressionists of the early to mid-20th c. as well as Buddhism, Taoism, ancient Greek philosophy, and New England Transcendentalism. My artwork consists of vibrant, contrasting colors and abstract images drawn from 25 years of teaching Philosophy.</p>
@@ -89,7 +95,6 @@
 <section class="quoted">
 	<h2>“The first rule is to keep an untroubled spirit. <br>The second is to look things in the face and know them for what they are.” </h2>
 	<h3>Marcus Aurelius</h3>
-	<!-- <aside><h4><a href="http://lisaesposito.com/galleries/lyrical-abstraction.html#!/Back-to-Center/p/25203642/category=5009183">'Back to Center'</a></h4></aside> -->
 </section>
 
 </main>

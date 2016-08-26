@@ -1,0 +1,71 @@
+@import "../../../settings/_settings.scss";
+
+@import "_portals-passageways.scss";
+@import "_linear-abstraction.scss";
+@import "_lyrical-abstraction.scss";
+
+$max-1501: "only screen and (max-width : 1501px)";
+$max-880: "only screen and (max-width : 880px)";
+$max-481: "only screen and (max-width : 481px)";
+
+
+.gallery-link {
+	position: relative;
+	color: #fff;
+
+	a {
+		color: #fff;
+	}
+
+	a.verbiage-link {
+		text-decoration: underline;
+
+		&:hover {
+			text-decoration: none;
+		}
+	}
+
+	h2 {
+		font-size: rem(32);
+		font-weight: $body-font-weight;
+	}
+
+	h3.gallery-title {
+		font-size: rem(40);
+	}
+
+	.angled-div {
+		background: #4A4A4A;
+		height: 100%;
+		width: 20%;
+	}
+
+	@include media($large) {
+		h2 {
+			font-size: rem(28);
+		}
+		h3.gallery-title {
+			font-size: rem(35);
+		}
+		.angled-div {
+			width: 15%;
+		}
+	}
+
+	@media #{$max-481} {
+		.verbiage {
+			h2 {
+				font-size: rem(22);
+			}
+
+			h3 {
+				font-size: rem(30);
+			}
+		}
+	}
+}
+
+
+
+
+
