@@ -10,9 +10,7 @@ $max-481: "only screen and (max-width : 481px)";
 section.bio {
 	position: relative;
 	height: em(530);
-	background: url('/img/index/bio/all-points-west.jpg') no-repeat;
-	background-position: left center;
-	background-size: 50%;
+	background: $base-white url('/img/index/bio/echoes-of-time.jpg') left center/50% no-repeat;
 
 	article.verbiage {
 		width: 50%;
