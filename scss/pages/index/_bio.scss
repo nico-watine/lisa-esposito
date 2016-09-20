@@ -10,17 +10,12 @@ $max-430: "only screen and (max-width : 26.875em)";
 section.bio {
 	position: relative;
 	height: em(530);
-	background: black url('/img/index/bio/echoes-of-time.jpg') left center/50% no-repeat;
+	background: $base-white url('/img/index/bio/echoes-of-time.jpg') left center/50% no-repeat;
 
 	article.verbiage {
 		width: 50%;
 		float: right;
 		height: 100%;
-
-		// top: 0;
-		// position: absolute;
-		// height: 100%;
-		// right: 0;
 
 		background: $base-white;
 		padding: rem(30) rem(30) 0 rem(30);
@@ -42,8 +37,6 @@ section.bio {
 	}
 
 	@media #{$max-880} {
-		// height: em(650);
-
 		article.verbiage {
 			padding: rem(20) rem(24) 0 rem(24);
 
@@ -54,27 +47,11 @@ section.bio {
 	}
 
 	@include media($medium) { // 750px
-		background: black url('/img/index/bio/echoes-of-time_mobile.jpg') center top/100% auto no-repeat;
-		// background: url('/img/index/bio/all-points-west@mobile.jpg') no-repeat;
-		// background-position: top;
+		background: $base-white url('/img/index/bio/echoes-of-time_mobile.jpg') center top/100% auto no-repeat;
 		height: auto;
-		// padding-top: em(300);
 		padding-top: rem(280);
 
-		aside {
-			position: relative !important;
-			top: 0;
-			left: 0;
-			padding-left: 3%;
-
-			a {
-				color: #fff;
-			}
-		}
-
 		article.verbiage {
-			// position: inherit;
-			// height: auto;
 			float: none;
 			width: 100%;
 			text-align: center;
@@ -100,7 +77,7 @@ section.bio {
 	}
 
 	@media #{$max-430} {
-		background: black url('/img/index/bio/echoes-of-time_mobile.jpg') left top/auto 200px no-repeat;
+		background: $base-white url('/img/index/bio/echoes-of-time_mobile.jpg') left top/auto 200px no-repeat;
 
 		article.verbiage {
 			h2 {
