@@ -15,11 +15,11 @@
 
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="OG_Title" />
-	<meta property="og:description" content="OG_Description" />
-	<meta property="og:url" content="url" />
-	<meta property="og:site_name" content="Site_Name" />
-	<meta property="og:image" content="img_path" />
+	<meta property="og:title" content="Portals &amp; Passageways - Currently On Exhibit | 14 Sept - 9 Oct" />
+	<meta property="og:description" content="Artist Lisa Esposito is being featured at the Firehouse Center for the Arts. Artist Reception Sept 24. Click for more info!" />
+	<meta property="og:url" content="http://www.lisaesposito.com/upcoming-events.html" />
+	<meta property="og:site_name" content="Artist Lisa Esposito, PhD" />
+	<meta property="og:image" content="/img/upcoming-events/2016/new-works-portals-passageways/og-image-1.jpg" />
 	
 	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>"/>
 
