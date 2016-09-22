@@ -12,6 +12,14 @@
 	<meta name="description" content="Welcome to the online art gallery of Dr. Lisa Esposito! Abstract Expressionist Paintings - Located in the Greater Boston Area">
 	<link type="text/plain" rel="author" href="/humans.txt">
 	<meta name="format-detection" content="telephone=no">
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="OG_Title" />
+	<meta property="og:description" content="OG_Description" />
+	<meta property="og:url" content="url" />
+	<meta property="og:site_name" content="Site_Name" />
+	<meta property="og:image" content="img_path" />
 	
 	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>"/>
 
