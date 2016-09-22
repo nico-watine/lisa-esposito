@@ -2,15 +2,15 @@
 	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
 ?>
 <!DOCTYPE html>
-<html class="no-js" lang="en">
+<html prefix="og: http://ogp.me/ns#" class="no-js" lang="en-US">
 <head>
 	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	
 	<title>Portals &amp; Passageways - Lisa Esposito | Firehouse Center for the Arts</title>
 	<meta name="description" content="Gallery Portals &amp; Passageways by Lisa Esposito on exhibit at Firehouse Center for the Arts">
-	<link type="text/plain" rel="author" href="/humans.txt">
+	<link rel="canonical" href="http://www.lisaesposito.com/upcoming-events.html" />
+	<link rel="author" href="/humans.txt">
+	
 	<meta name="format-detection" content="telephone=no">
 
 	<meta property="og:locale" content="en_US" />
