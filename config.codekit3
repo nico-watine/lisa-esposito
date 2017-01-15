@@ -1800,16 +1800,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/css\/ie.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/css\/ie-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/css\/opt\/style.css": {
 		"aP": 0,
 		"bl": 0,
@@ -2340,19 +2330,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/blocks\/_ie.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/css\/_ie.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/scss\/blocks\/_main.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -2557,19 +2534,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/css\/_footer.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/scss\/pages\/index\/_ie.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/css\/_ie.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

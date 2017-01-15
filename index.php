@@ -21,7 +21,6 @@
 	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>"/>
 
 	<!--[if lt IE 9]>
-		<link rel="stylesheet" href="<?php autoVer('/css/ie.css'); ?>"/>
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 		<script src="<?php autoVer('/js/ie-min.js'); ?>"></script>
 	<![endif]-->
