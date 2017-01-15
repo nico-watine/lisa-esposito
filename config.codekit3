@@ -3107,7 +3107,7 @@
 		},
 	"babelPresetType": 193,
 	"babelRetainLines": 0,
-	"bowerAbbreviatedPath": "assets\/bower_components",
+	"bowerAbbreviatedPath": "bower_components",
 	"bowerAutoCreateInfoFile": 1,
 	"bowerInstallDevDependencies": 0,
 	"bowerSaveDependencies": 1,

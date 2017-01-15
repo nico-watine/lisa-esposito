@@ -13,5 +13,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "bourbon": "https://github.com/thoughtbot/bourbon.git#^4.2.7"
+  }
 }
