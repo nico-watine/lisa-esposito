@@ -1,3 +1,5 @@
 # lisaesposito.com repo
 
-This contains custom, static files for www.lisaesposito.com, which are applied within Wordpress, and not the actual Wordpress core itself.
+This contains custom, static files for www.lisaesposito.com, which are applied to themes within Wordpress.
+
+This repo does not contain the Wordpress core site as a whole.
