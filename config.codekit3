@@ -33,24 +33,6 @@
 		"oAP": "\/404.html",
 		"oF": 0
 		},
-	"\/_ignores\/browser-upgrade-snippet.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_ignores\/browser-upgrade-snippet.html",
-		"oF": 0
-		},
-	"\/_ignores\/google-tracking-id.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_ignores\/google-tracking-id.html",
-		"oF": 0
-		},
-	"\/_ignores\/htaccess.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_ignores\/htaccess.txt",
-		"oF": 0
-		},
 	"\/_ignores\/lisa-esposito.sublime-project": {
 		"ft": 8192,
 		"oA": 2,
@@ -63,17 +45,21 @@
 		"oAP": "\/_ignores\/lisa-esposito.sublime-workspace",
 		"oF": 0
 		},
-	"\/_ignores\/time-log\/08-23.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_ignores\/time-log\/08-23.txt",
-		"oF": 0
+	"\/_ignores\/screenshots\/index.png": {
+		"ft": 32768,
+		"iS": 3914346,
+		"oA": 0,
+		"oAP": "\/_ignores\/screenshots\/index.png",
+		"oF": 0,
+		"opt": 0
 		},
-	"\/_ignores\/type-scales.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_ignores\/type-scales.txt",
-		"oF": 0
+	"\/_ignores\/screenshots\/upcoming-events.png": {
+		"ft": 32768,
+		"iS": 990093,
+		"oA": 0,
+		"oAP": "\/_ignores\/screenshots\/upcoming-events.png",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/_ignores\/urls.txt": {
 		"ft": 8192,
