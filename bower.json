@@ -1,0 +1,17 @@
+{
+  "name": "LisaEsposito.com",
+  "description": "lisaesposito.com site",
+  "main": "index.js",
+  "authors": [
+    "Nico Watine"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/nico-watine/lisa-esposito",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
