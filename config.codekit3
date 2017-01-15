@@ -1790,12 +1790,6 @@
 		"oAP": "\/browserconfig.xml",
 		"oF": 0
 		},
-	"\/config.rb": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/config.rb",
-		"oF": 0
-		},
 	"\/css\/dev.css": {
 		"aP": 0,
 		"bl": 0,
