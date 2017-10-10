@@ -7,7 +7,7 @@
 		"uuidString": "2E5459D5-045A-4CE8-B123-5F68507CFB4D"
 		}
 	],
-"creatorBuild": "25479",
+"creatorBuild": "25900",
 "files": {
 	"\/.gitignore": {
 		"ft": 8192,
@@ -51,7 +51,10 @@
 		"oA": 0,
 		"oAP": "\/_ignores\/screenshots\/index.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/_ignores\/screenshots\/upcoming-events.png": {
 		"ft": 32768,
@@ -59,7 +62,10 @@
 		"oA": 0,
 		"oAP": "\/_ignores\/screenshots\/upcoming-events.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/_ignores\/urls.txt": {
 		"ft": 8192,
@@ -73,7 +79,10 @@
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-120x120-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/apple-touch-icon-152x152-precomposed.png": {
 		"ft": 32768,
@@ -81,7 +90,10 @@
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-152x152-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/apple-touch-icon-180x180-precomposed.png": {
 		"ft": 32768,
@@ -89,7 +101,10 @@
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-180x180-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/apple-touch-icon-76x76-precomposed.png": {
 		"ft": 32768,
@@ -97,7 +112,10 @@
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-76x76-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/apple-touch-icon.png": {
 		"ft": 32768,
@@ -105,7 +123,10 @@
 		"oA": 0,
 		"oAP": "\/apple-touch-icon.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/assets\/neat\/_grid-settings.scss": {
 		"aP": 1,
@@ -1472,6 +1493,7 @@
 		},
 	"\/bower_components\/bourbon\/eyeglass-exports.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/js\/eyeglass-exports-min.js",
@@ -1481,6 +1503,7 @@
 		},
 	"\/bower_components\/bourbon\/index.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/js\/index-min.js",
@@ -1710,6 +1733,7 @@
 		},
 	"\/bower_components\/REM-unit-polyfill\/js\/rem.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/bower_components\/REM-unit-polyfill\/js\/rem.js",
@@ -1719,6 +1743,7 @@
 		},
 	"\/bower_components\/REM-unit-polyfill\/js\/rem.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/bower_components\/REM-unit-polyfill\/js\/rem.min.js",
@@ -1824,7 +1849,10 @@
 		"oA": 0,
 		"oAP": "\/favicon.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/fonts\/nexa-light\/nexa-light.eot": {
 		"ft": 8192,
@@ -1884,6 +1912,7 @@
 		},
 	"\/gulpfile.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/Users\/nico\/SNC Projects\/Lisa Esposito\/Site Folder\/js\/gulpfile-min.js",
@@ -1903,7 +1932,9 @@
 		"oA": 0,
 		"oAP": "\/img\/assets\/backgrounds\/body@720.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/assets\/backgrounds\/body@default.png": {
 		"ft": 32768,
@@ -1911,7 +1942,10 @@
 		"oA": 0,
 		"oAP": "\/img\/assets\/backgrounds\/body@default.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/img\/assets\/backgrounds\/heaven-of-the-ordinary\/body_720.jpg": {
 		"ft": 16384,
@@ -1919,7 +1953,9 @@
 		"oA": 0,
 		"oAP": "\/img\/assets\/backgrounds\/heaven-of-the-ordinary\/body_720.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/assets\/backgrounds\/heaven-of-the-ordinary\/body_default.jpg": {
 		"ft": 16384,
@@ -1927,7 +1963,9 @@
 		"oA": 0,
 		"oAP": "\/img\/assets\/backgrounds\/heaven-of-the-ordinary\/body_default.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/assets\/logo\/logo-small.png": {
 		"ft": 32768,
@@ -1935,7 +1973,10 @@
 		"oA": 0,
 		"oAP": "\/img\/assets\/logo\/logo-small.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/img\/assets\/logo\/logo.png": {
 		"ft": 32768,
@@ -1943,7 +1984,10 @@
 		"oA": 0,
 		"oAP": "\/img\/assets\/logo\/logo.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/img\/assets\/og\/index\/og-image.jpg": {
 		"ft": 16384,
@@ -1951,7 +1995,9 @@
 		"oA": 0,
 		"oAP": "\/img\/assets\/og\/index\/og-image.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/bio\/_ignores\/original.jpg": {
 		"ft": 16384,
@@ -1959,7 +2005,9 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/bio\/_ignores\/original.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/bio\/all-points-west.jpg": {
 		"ft": 16384,
@@ -1967,7 +2015,9 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/bio\/all-points-west.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/bio\/all-points-west@mobile.jpg": {
 		"ft": 16384,
@@ -1975,7 +2025,9 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/bio\/all-points-west@mobile.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/bio\/echoes-of-time-2.jpg": {
 		"ft": 16384,
@@ -1983,7 +2035,9 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/bio\/echoes-of-time-2.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/bio\/echoes-of-time.jpg": {
 		"ft": 16384,
@@ -1991,7 +2045,9 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/bio\/echoes-of-time.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/bio\/echoes-of-time_mobile.jpg": {
 		"ft": 16384,
@@ -1999,7 +2055,9 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/bio\/echoes-of-time_mobile.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/gallery-link\/linear-abstraction\/_ignores\/original.jpg": {
 		"ft": 16384,
@@ -2007,7 +2065,9 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/gallery-link\/linear-abstraction\/_ignores\/original.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/gallery-link\/linear-abstraction\/lost-in-transit.jpg": {
 		"ft": 16384,
@@ -2015,7 +2075,9 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/gallery-link\/linear-abstraction\/lost-in-transit.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/gallery-link\/linear-abstraction\/lost-in-transit@mobile.jpg": {
 		"ft": 16384,
@@ -2023,7 +2085,9 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/gallery-link\/linear-abstraction\/lost-in-transit@mobile.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/gallery-link\/lyrical-abstraction\/_ignores\/netherworld.jpg": {
 		"ft": 16384,
@@ -2031,7 +2095,9 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/gallery-link\/lyrical-abstraction\/_ignores\/netherworld.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/gallery-link\/lyrical-abstraction\/netherworld.jpg": {
 		"ft": 16384,
@@ -2039,7 +2105,9 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/gallery-link\/lyrical-abstraction\/netherworld.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/gallery-link\/lyrical-abstraction\/netherworld@mobile.jpg": {
 		"ft": 16384,
@@ -2047,7 +2115,9 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/gallery-link\/lyrical-abstraction\/netherworld@mobile.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/gallery-link\/portals-passageways\/700w\/wandering-forth.jpg": {
 		"ft": 16384,
@@ -2055,7 +2125,9 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/gallery-link\/portals-passageways\/700w\/wandering-forth.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/gallery-link\/portals-passageways\/wandering-forth.jpg": {
 		"ft": 16384,
@@ -2063,7 +2135,9 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/gallery-link\/portals-passageways\/wandering-forth.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/landing\/header\/_ignores\/original.jpg": {
 		"ft": 16384,
@@ -2071,7 +2145,9 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/landing\/header\/_ignores\/original.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/landing\/header\/escape-artist@1601.jpg": {
 		"ft": 16384,
@@ -2079,7 +2155,9 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/landing\/header\/escape-artist@1601.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/landing\/header\/escape-artist@2001.jpg": {
 		"ft": 16384,
@@ -2087,7 +2165,9 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/landing\/header\/escape-artist@2001.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/landing\/header\/escape-artist@large.jpg": {
 		"ft": 16384,
@@ -2095,7 +2175,9 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/landing\/header\/escape-artist@large.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/landing\/header\/escape-artist@max.jpg": {
 		"ft": 16384,
@@ -2103,7 +2185,9 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/landing\/header\/escape-artist@max.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/landing\/header\/escape-artist@mobile.jpg": {
 		"ft": 16384,
@@ -2111,7 +2195,9 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/landing\/header\/escape-artist@mobile.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/landing\/header\/heaven-of-the-ordinary\/700w\/heaven-of-the-ordinary.jpg": {
 		"ft": 16384,
@@ -2119,7 +2205,9 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/landing\/header\/heaven-of-the-ordinary\/700w\/heaven-of-the-ordinary.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/landing\/header\/heaven-of-the-ordinary\/heaven-of-the-ordinary.jpg": {
 		"ft": 16384,
@@ -2127,7 +2215,9 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/landing\/header\/heaven-of-the-ordinary\/heaven-of-the-ordinary.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/quoted\/_ignores\/original.jpg": {
 		"ft": 16384,
@@ -2135,7 +2225,9 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/quoted\/_ignores\/original.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/quoted\/back-to-center.jpg": {
 		"ft": 16384,
@@ -2143,7 +2235,9 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/quoted\/back-to-center.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/quoted\/back-to-center@mobile.jpg": {
 		"ft": 16384,
@@ -2151,7 +2245,9 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/quoted\/back-to-center@mobile.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/upcoming-events\/2016\/new-works-portals-passageways\/heaven-of-the-ordinary.jpg": {
 		"ft": 16384,
@@ -2159,7 +2255,9 @@
 		"oA": 0,
 		"oAP": "\/img\/upcoming-events\/2016\/new-works-portals-passageways\/heaven-of-the-ordinary.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/upcoming-events\/2016\/new-works-portals-passageways\/og-image-1.jpg": {
 		"ft": 16384,
@@ -2167,7 +2265,9 @@
 		"oA": 0,
 		"oAP": "\/img\/upcoming-events\/2016\/new-works-portals-passageways\/og-image-1.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/upcoming-events\/default\/travel-markings.jpg": {
 		"ft": 16384,
@@ -2175,7 +2275,9 @@
 		"oA": 0,
 		"oAP": "\/img\/upcoming-events\/default\/Travel Markings.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/upcoming-events\/default\/under-cover-of-night.jpg": {
 		"ft": 16384,
@@ -2183,7 +2285,9 @@
 		"oA": 0,
 		"oAP": "\/img\/upcoming-events\/default\/under-cover-of-night.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/index.php": {
 		"ft": 8192,
@@ -2193,6 +2297,7 @@
 		},
 	"\/js\/ie-min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/Users\/nico\/SNC Projects\/Lisa Esposito\/Site Folder\/js\/ie-min-min.js",
@@ -2202,6 +2307,7 @@
 		},
 	"\/js\/scripts-min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/Users\/nico\/SNC Projects\/Lisa Esposito\/Site Folder\/js\/scripts-min-min.js",
@@ -2211,6 +2317,7 @@
 		},
 	"\/js\/src\/ie.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/Users\/nico\/SNC Projects\/Lisa Esposito\/Site Folder\/js\/ie-min.js",
@@ -2220,6 +2327,7 @@
 		},
 	"\/js\/src\/scripts.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/Users\/nico\/SNC Projects\/Lisa Esposito\/Site Folder\/js\/scripts-min.js",
@@ -2764,7 +2872,10 @@
 		"oA": 0,
 		"oAP": "\/tile-wide.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/touch-icon-192x192.png": {
 		"ft": 32768,
@@ -2772,7 +2883,10 @@
 		"oA": 0,
 		"oAP": "\/touch-icon-192x192.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/upcoming-events.php": {
 		"ft": 8192,
@@ -3205,6 +3319,10 @@
 			"active": 0,
 			"optionString": "{'setWithoutGet': true, 'getWithoutSet': false}"
 			},
+		"array-bracket-newline": {
+			"active": 0,
+			"optionString": "{'multiline': true, 'minItems': null}"
+			},
 		"array-bracket-spacing": {
 			"active": 0,
 			"optionString": "'never', {'singleValue': false, 'objectsInArrays': false, 'arraysInArrays': false}"
@@ -3212,6 +3330,10 @@
 		"array-callback-return": {
 			"active": 0,
 			"optionString": ""
+			},
+		"array-element-newline": {
+			"active": 0,
+			"optionString": "'always'"
 			},
 		"arrow-body-style": {
 			"active": 0,
@@ -3309,6 +3431,10 @@
 			"active": 0,
 			"optionString": "'always', {'null': 'always'}"
 			},
+		"for-direction": {
+			"active": 0,
+			"optionString": ""
+			},
 		"func-call-spacing": {
 			"active": 0,
 			"optionString": "'never'"
@@ -3328,6 +3454,10 @@
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
+			},
+		"getter-return": {
+			"active": 0,
+			"optionString": "{'allowImplicit': false}"
 			},
 		"global-require": {
 			"active": 0,
@@ -3449,9 +3579,17 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-await-in-loop": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-bitwise": {
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
+			},
+		"no-buffer-constructor": {
+			"active": 0,
+			"optionString": ""
 			},
 		"no-caller": {
 			"active": 0,
@@ -3467,6 +3605,10 @@
 			},
 		"no-class-assign": {
 			"active": 1,
+			"optionString": ""
+			},
+		"no-compare-neg-zero": {
+			"active": 0,
 			"optionString": ""
 			},
 		"no-cond-assign": {
@@ -3669,6 +3811,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-multi-assign": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-multi-spaces": {
 			"active": 0,
 			"optionString": "{'exceptions': {'Property': true, 'BinaryExpression': false, 'VariableDeclarator': false, 'ImportDeclaration': false}}"
@@ -3746,6 +3892,10 @@
 			"optionString": ""
 			},
 		"no-proto": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-prototype-builtins": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -3945,6 +4095,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
 		"object-curly-newline": {
 			"active": 0,
 			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
@@ -3981,6 +4135,10 @@
 			"active": 0,
 			"optionString": "{'blocks': 'always', 'switches': 'always', 'classes': 'always'}"
 			},
+		"padding-line-between-statements": {
+			"active": 0,
+			"optionString": "{blankLine: 'always', prev:'*', next:'return'}"
+			},
 		"prefer-arrow-callback": {
 			"active": 0,
 			"optionString": ""
@@ -3989,9 +4147,17 @@
 			"active": 0,
 			"optionString": "{'destructuring': 'any', 'ignoreReadBeforeAssign': false}"
 			},
+		"prefer-destructuring": {
+			"active": 0,
+			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
+			},
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
+			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -4041,6 +4207,10 @@
 			"active": 0,
 			"optionString": "{'before': false, 'after': true}"
 			},
+		"semi-style": {
+			"active": 0,
+			"optionString": "'last'"
+			},
 		"sort-imports": {
 			"active": 0,
 			"optionString": "{'ignoreCase': false, 'ignoreMemberSort': true, 'memberSyntaxSortOrder': ['none', 'all', 'multiple', 'single']}"
@@ -4081,11 +4251,19 @@
 			"active": 0,
 			"optionString": "'safe'"
 			},
+		"switch-colon-spacing": {
+			"active": 0,
+			"optionString": "{'after': true, 'before': false}"
+			},
 		"symbol-description": {
 			"active": 0,
 			"optionString": ""
 			},
 		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
 			"active": 0,
 			"optionString": "'never'"
 			},
@@ -4532,7 +4710,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 1,
@@ -4555,14 +4734,6 @@
 		"autoOutputPathStyle": 0,
 		"orderOutput": 0,
 		"outputStyle": 1
-		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
 		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
@@ -4625,7 +4796,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"optimizerType": 1,
+		"quality": 100
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,
@@ -4710,9 +4883,11 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
+	"susyVersion": 3,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
 		"ascii-only": {
