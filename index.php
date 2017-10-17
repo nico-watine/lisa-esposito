@@ -19,7 +19,7 @@
 	<meta property="og:image" content="http://www.lisaesposito.com/img/assets/og/index/og-image.jpg" />
 	<meta property="og:description" content="Welcome to the online art gallery of Dr. Lisa Esposito! Abstract Expressionist Paintings - Located in the Greater Boston Area" />
 
-	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>"/>
+	<link href="<?php autoVer('/css/style.css'); ?>" rel="stylesheet">
 
 	<!--[if lt IE 9]>
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
