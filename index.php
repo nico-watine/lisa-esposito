@@ -10,6 +10,7 @@
 	<title>Abstract Expressionist Paintings | Lisa Esposito, PhD - Greater Boston Area</title>
 	<meta name="description" content="Welcome to the online art gallery of Dr. Lisa Esposito! Abstract Expressionist Paintings - Located in the Greater Boston Area">
 	<link href="http://www.lisaesposito.com/" rel="canonical">
+	
 	<link href="/humans.txt" rel="author">
 	<meta name="format-detection" content="telephone=no">
 
