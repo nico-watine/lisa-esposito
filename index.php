@@ -5,8 +5,8 @@
 <html prefix="og: http://ogp.me/ns#" class="no-js" lang="en-US">
 <head>
 	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	
 	<title>Abstract Expressionist Paintings | Lisa Esposito, PhD - Greater Boston Area</title>
 	<meta name="description" content="Welcome to the online art gallery of Dr. Lisa Esposito! Abstract Expressionist Paintings - Located in the Greater Boston Area">
 	<link type="text/plain" rel="author" href="/humans.txt">
