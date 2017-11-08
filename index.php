@@ -5,20 +5,24 @@
 <html prefix="og: http://ogp.me/ns#" class="no-js" lang="en-US">
 <head>
 	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	
 	<title>Abstract Expressionist Paintings | Lisa Esposito, PhD - Greater Boston Area</title>
 	<meta name="description" content="Welcome to the online art gallery of Dr. Lisa Esposito! Abstract Expressionist Paintings - Located in the Greater Boston Area">
-	<link type="text/plain" rel="author" href="/humans.txt">
+	<link href="http://www.lisaesposito.com/" rel="canonical">
+	
+	<link href="/humans.txt" rel="author">
 	<meta name="format-detection" content="telephone=no">
 
-	<meta property="og:type" content="website" />
-	<meta property="og:url" content="http://www.lisaesposito.com" />
-	<meta property="og:title" content="Abstract Expressionist Paintings | Lisa Esposito, PhD" />
-	<meta property="og:image" content="http://www.lisaesposito.com/img/assets/og/index/og-image.jpg" />
-	<meta property="og:description" content="Welcome to the online art gallery of Dr. Lisa Esposito! Abstract Expressionist Paintings - Located in the Greater Boston Area" />
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Abstract Expressionist Paintings | Lisa Esposito, PhD">
+	<meta property="og:description" content="Welcome to the online art gallery of Dr. Lisa Esposito! Abstract Expressionist Paintings - Located in the Greater Boston Area">
+	<meta property="og:url" content="http://www.lisaesposito.com">
+	<meta property="og:site_name" content="Artist Lisa Esposito, PhD">
+	<meta property="og:image" content="http://www.lisaesposito.com/img/assets/og/index/og-image.jpg">
 
-	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>"/>
+	<link href="<?php autoVer('/css/style.css'); ?>" rel="stylesheet">
 
 	<!--[if lt IE 9]>
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
