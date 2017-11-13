@@ -5,23 +5,24 @@
 <html prefix="og: http://ogp.me/ns#" class="no-js" lang="en-US">
 <head>
 	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Portals &amp; Passageways - Lisa Esposito | Firehouse Center for the Arts</title>
 	<meta name="description" content="Gallery Portals &amp; Passageways by Lisa Esposito on exhibit at Firehouse Center for the Arts">
-	<link rel="canonical" href="http://www.lisaesposito.com/upcoming-events.html" />
-	<link rel="author" href="/humans.txt">
+	<link href="http://www.lisaesposito.com/upcoming-events.html" rel="canonical">
 	
+	<link href="/humans.txt" rel="author">
 	<meta name="format-detection" content="telephone=no">
 
-	<meta property="og:locale" content="en_US" />
-	<meta property="og:type" content="website" />
-	<meta property="og:title" content="Portals &amp; Passageways - Currently On Exhibit | 14 Sept - 9 Oct" />
-	<meta property="og:description" content="Artist Lisa Esposito is being featured at the Firehouse Center for the Arts. Artist Reception Sept 24. Click for more info!" />
-	<meta property="og:url" content="http://www.lisaesposito.com/upcoming-events.html" />
-	<meta property="og:site_name" content="Artist Lisa Esposito, PhD" />
-	<meta property="og:image" content="/img/upcoming-events/2016/new-works-portals-passageways/og-image-1.jpg" />
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Portals &amp; Passageways - Currently On Exhibit | 14 Sept - 9 Oct">
+	<meta property="og:description" content="Artist Lisa Esposito is being featured at the Firehouse Center for the Arts. Artist Reception Sept 24. Click for more info!">
+	<meta property="og:url" content="http://www.lisaesposito.com/upcoming-events.html">
+	<meta property="og:site_name" content="Artist Lisa Esposito, PhD">
+	<meta property="og:image" content="http://www.lisaesposito.com/img/upcoming-events/2016/new-works-portals-passageways/og-image-1.jpg">
 	
-	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>"/>
+	<link href="<?php autoVer('/css/style.css'); ?>" rel="stylesheet">
 
 	<!--[if lt IE 9]>
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
