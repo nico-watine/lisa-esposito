@@ -39,11 +39,11 @@
 		<h2>Abstract Expressionist Paintings</h2>
 		<nav>
 			<ul class="vertical-list">
-				<li><a href="http://www.lisaesposito.com/galleries.html">Galleries</a></li>
-				<!-- <li><a href="http://www.lisaesposito.com/upcoming-events.html">Upcoming Events</a></li> -->
+				<li><a href="/galleries.html">Galleries</a></li>
+				<!-- <li><a href="/upcoming-events.html">Upcoming Events</a></li> -->
 				<li><a href="/upcoming-events.php">Upcoming Events</a></li>
-				<li><a href="http://www.lisaesposito.com/artist-statement.html">Artist Statement</a></li>
-				<li><a href="http://www.lisaesposito.com/bio.html">CV / Bio</a></li>
+				<li><a href="/artist-statement.html">Artist Statement</a></li>
+				<li><a href="/bio.html">CV / Bio</a></li>
 			</ul>
 		</nav>
 		<div id="contact-info">
@@ -61,7 +61,7 @@
 <section class="gallery-link" id="portals-passageways">
 		<div class="verbiage">
 			<h2>NEW WORKS</h2>
-			<a href="http://www.lisaesposito.com/galleries/new-works-portals-and-passageways.html" class="verbiage-link">
+			<a href="/galleries/new-works-portals-and-passageways.html" class="verbiage-link">
 				<h3 class="gallery-title">Portals &amp; Passageways</h3>
 			</a>
 		</div>
@@ -71,7 +71,7 @@
 <section class="gallery-link" id="linear-abstraction">
 		<div class="verbiage">
 			<h2>GALLERY</h2>
-			<a href="http://www.lisaesposito.com/galleries/linear-abstraction.html" class="verbiage-link">
+			<a href="/galleries/linear-abstraction.html" class="verbiage-link">
 				<h3 class="gallery-title">Linear Abstraction</h3>
 			</a>
 		</div>
@@ -81,7 +81,7 @@
 <section class="gallery-link" id="lyrical-abstraction">
 		<div class="verbiage">
 			<h2>GALLERY</h2>
-			<a href="http://www.lisaesposito.com/galleries/lyrical-abstraction.html" class="verbiage-link">
+			<a href="/galleries/lyrical-abstraction.html" class="verbiage-link">
 				<h3 class="gallery-title">Lyrical Abstraction</h3>
 			</a>
 		</div>
@@ -110,11 +110,11 @@
 		</div>
 		<div class="footer-nav">
 			<ul>
-				<li><a href="http://www.lisaesposito.com/galleries.html">Galleries</a></li>
-				<li><a href="http://www.lisaesposito.com/upcoming-events.html">Upcoming Events</a></li> 
-				<li><a href="http://www.lisaesposito.com/artist-statement.html">Artist Statement</a></li>
-				<li><a href="http://www.lisaesposito.com/bio.html">CV / Bio</a></li>
-				<li id="last"><a href="http://www.lisaesposito.com/purchase-work.html">Purchase Info</a></li>
+				<li><a href="/galleries.html">Galleries</a></li>
+				<li><a href="/upcoming-events.html">Upcoming Events</a></li> 
+				<li><a href="/artist-statement.html">Artist Statement</a></li>
+				<li><a href="/bio.html">CV / Bio</a></li>
+				<li id="last"><a href="/purchase-work.html">Purchase Info</a></li>
 			</ul>
 			<h5>&copy; Lisa Esposito, PhD | 2016</h5>
 		</div>
