@@ -34,7 +34,7 @@
 
 <header class="outer-container">
 	<div class="row">
-		<a href="http://www.lisaesposito.com" id="logo">
+		<a href="/" id="logo">
 			<h1 class="title">Lisa Esposito, <span>PhD</span></h1><br>
 			<h2 class="tag">Abstract Expressionist Paintings</h2>
 		</a>
@@ -42,12 +42,12 @@
 	<nav class="row">
 		<ul class="main-nav">
 			<li><a href="/">Home</a></li>
-			<li><a href="http://www.lisaesposito.com/galleries.html">Galleries</a></li>
+			<li><a href="/galleries.html">Galleries</a></li>
 			<li class="active"><a href="#">Upcoming Events</a></li>
-			<li><a href="http://www.lisaesposito.com/artist-statement.html">Artist Statement</a></li>
-			<li><a href="http://www.lisaesposito.com/bio.html">CV/Bio</a></li>
-			<li><a href="http://www.lisaesposito.com/purchase-work.html">Purchase Info</a></li>
-			<li><a href="http://www.lisaesposito.com/contact.html">Contact</a></li>
+			<li><a href="/artist-statement.html">Artist Statement</a></li>
+			<li><a href="/bio.html">CV/Bio</a></li>
+			<li><a href="/purchase-work.html">Purchase Info</a></li>
+			<li><a href="/contact.html">Contact</a></li>
 		</ul>
 	</nav>
 </header>
@@ -87,7 +87,7 @@
 	<section class="event-entry" id="andover-aitp-2015">
 		<aside class="feature-date">
 			<p class="header">Sep 19</p>
-			<p id="painting-title"><a href="http://www.lisaesposito.com/galleries/linear-abstraction.html#!/Travel-Markings/p/49341245/category=5009182">Travel Markings</a></p>
+			<p id="painting-title"><a href="/galleries/linear-abstraction.html#!/Travel-Markings/p/49341245/category=5009182">Travel Markings</a></p>
 		</aside>
 		<div class="angled-div"></div>
 		<article class="event">
@@ -109,7 +109,7 @@
 	<section class="event-entry" id="ghaa-2015">
 		<aside class="feature-date">
 			<p class="header">Sep 12</p>
-			<p id="painting-title"><a href="http://www.lisaesposito.com/galleries/linear-abstraction.html#!/Under-Cover-of-Night/p/49998408/category=5009182">Under Cover of Night</a></p>
+			<p id="painting-title"><a href="/galleries/linear-abstraction.html#!/Under-Cover-of-Night/p/49998408/category=5009182">Under Cover of Night</a></p>
 		</aside>
 		<div class="angled-div"></div>
 		<article class="event">
@@ -137,11 +137,11 @@
 	</div>
 	<div class="footer-nav">
 		<ul>
-			<li><a href="http://www.lisaesposito.com/galleries.html">Galleries</a></li>
-			<li><a href="http://www.lisaesposito.com/upcoming-events.html">Upcoming Events</a></li> 
-			<li><a href="http://www.lisaesposito.com/artist-statement.html">Artist Statement</a></li>
-			<li><a href="http://www.lisaesposito.com/bio.html">CV / Bio</a></li>
-			<li id="last"><a href="http://www.lisaesposito.com/purchase-work.html">Purchase Info</a></li>
+			<li><a href="/galleries.html">Galleries</a></li>
+			<li><a href="/upcoming-events.html">Upcoming Events</a></li> 
+			<li><a href="/artist-statement.html">Artist Statement</a></li>
+			<li><a href="/bio.html">CV / Bio</a></li>
+			<li id="last"><a href="/purchase-work.html">Purchase Info</a></li>
 		</ul>
 		<h5>&copy; Lisa Esposito, PhD | 2016</h5>
 	</div>

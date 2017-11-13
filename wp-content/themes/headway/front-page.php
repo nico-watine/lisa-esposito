@@ -6,23 +6,26 @@
 <html prefix="og: http://ogp.me/ns#" class="no-js" lang="en-US">
 <head>
 	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	
 	<title>Abstract Expressionist Paintings | Lisa Esposito, PhD - Greater Boston Area</title>
 	<meta name="description" content="Welcome to the online art gallery of Dr. Lisa Esposito! Abstract Expressionist Paintings - Located in the Greater Boston Area">
-	<link type="text/plain" rel="author" href="/humans.txt">
+	<link href="http://www.lisaesposito.com/" rel="canonical">
+	
+	<link href="/humans.txt" rel="author">
 	<meta name="format-detection" content="telephone=no">
 
-	<meta property="og:type" content="website" />
-	<meta property="og:url" content="http://www.lisaesposito.com" />
-	<meta property="og:title" content="Abstract Expressionist Paintings | Lisa Esposito, PhD" />
-	<meta property="og:image" content="http://www.lisaesposito.com/img/assets/og/index/og-image.jpg" />
-	<meta property="og:description" content="Welcome to the online art gallery of Dr. Lisa Esposito! Abstract Expressionist Paintings - Located in the Greater Boston Area" />
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Abstract Expressionist Paintings | Lisa Esposito, PhD">
+	<meta property="og:description" content="Welcome to the online art gallery of Dr. Lisa Esposito! Abstract Expressionist Paintings - Located in the Greater Boston Area">
+	<meta property="og:url" content="http://www.lisaesposito.com">
+	<meta property="og:site_name" content="Artist Lisa Esposito, PhD">
+	<meta property="og:image" content="http://www.lisaesposito.com/img/assets/og/index/og-image.jpg">
 
-	<link rel="stylesheet" href="<?php autoVer('/css/opt/style.css'); ?>"/>
+	<link href="<?php autoVer('/css/style.css'); ?>" rel="stylesheet">
 
 	<!--[if lt IE 9]>
-		<link rel="stylesheet" href="<?php autoVer('/css/ie.css'); ?>"/>
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 		<script src="<?php autoVer('/js/ie-min.js'); ?>"></script>
 	<![endif]-->
@@ -37,10 +40,10 @@
 		<h2>Abstract Expressionist Paintings</h2>
 		<nav>
 			<ul class="vertical-list">
-				<li><a href="http://www.lisaesposito.com/galleries.html">Galleries</a></li>
-				<li><a href="http://www.lisaesposito.com/upcoming-events.html">Upcoming Events</a></li> 
-				<li><a href="http://www.lisaesposito.com/artist-statement.html">Artist Statement</a></li>
-				<li><a href="http://www.lisaesposito.com/bio.html">CV / Bio</a></li>
+				<li><a href="/galleries.html">Galleries</a></li>
+				<li><a href="/upcoming-events.html">Upcoming Events</a></li>
+				<li><a href="/artist-statement.html">Artist Statement</a></li>
+				<li><a href="/bio.html">CV / Bio</a></li>
 			</ul>
 		</nav>
 		<div id="contact-info">
@@ -58,7 +61,7 @@
 <section class="gallery-link" id="portals-passageways">
 		<div class="verbiage">
 			<h2>NEW WORKS</h2>
-			<a href="http://www.lisaesposito.com/galleries/new-works-portals-and-passageways.html" class="verbiage-link">
+			<a href="/galleries/new-works-portals-and-passageways.html" class="verbiage-link">
 				<h3 class="gallery-title">Portals &amp; Passageways</h3>
 			</a>
 		</div>
@@ -68,7 +71,7 @@
 <section class="gallery-link" id="linear-abstraction">
 		<div class="verbiage">
 			<h2>GALLERY</h2>
-			<a href="http://www.lisaesposito.com/galleries/linear-abstraction.html" class="verbiage-link">
+			<a href="/galleries/linear-abstraction.html" class="verbiage-link">
 				<h3 class="gallery-title">Linear Abstraction</h3>
 			</a>
 		</div>
@@ -78,7 +81,7 @@
 <section class="gallery-link" id="lyrical-abstraction">
 		<div class="verbiage">
 			<h2>GALLERY</h2>
-			<a href="http://www.lisaesposito.com/galleries/lyrical-abstraction.html" class="verbiage-link">
+			<a href="/galleries/lyrical-abstraction.html" class="verbiage-link">
 				<h3 class="gallery-title">Lyrical Abstraction</h3>
 			</a>
 		</div>
@@ -107,11 +110,11 @@
 		</div>
 		<div class="footer-nav">
 			<ul>
-				<li><a href="http://www.lisaesposito.com/galleries.html">Galleries</a></li>
-				<li><a href="http://www.lisaesposito.com/upcoming-events.html">Upcoming Events</a></li> 
-				<li><a href="http://www.lisaesposito.com/artist-statement.html">Artist Statement</a></li>
-				<li><a href="http://www.lisaesposito.com/bio.html">CV / Bio</a></li>
-				<li id="last"><a href="http://www.lisaesposito.com/purchase-work.html">Purchase Info</a></li>
+				<li><a href="/galleries.html">Galleries</a></li>
+				<li><a href="/upcoming-events.html">Upcoming Events</a></li> 
+				<li><a href="/artist-statement.html">Artist Statement</a></li>
+				<li><a href="/bio.html">CV / Bio</a></li>
+				<li id="last"><a href="/purchase-work.html">Purchase Info</a></li>
 			</ul>
 			<h5>&copy; Lisa Esposito, PhD | 2016</h5>
 		</div>
