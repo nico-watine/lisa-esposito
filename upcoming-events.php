@@ -133,7 +133,7 @@
 <footer class="static">
 	<div class="contact-info">
 		<h5><a href="tel://832-651-3136">832-520-4743</a></h5>
-		<h5><a href="mailto:info@lisaesposito.com" target="_top">Info@LisaEsposito.com</a></h5>
+		<h5><a href="mailto:lisa@lisaesposito.com" target="_top">Lisa@LisaEsposito.com</a></h5>
 	</div>
 	<div class="footer-nav">
 		<ul>
