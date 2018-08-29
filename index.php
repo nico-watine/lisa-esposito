@@ -40,7 +40,7 @@
 		<nav>
 			<ul class="vertical-list">
 				<li><a href="/galleries.html">Galleries</a></li>
-				<li><a href="/upcoming-events.html">Upcoming Events</a></li>
+				<!-- <li><a href="/upcoming-events.html">Upcoming Events</a></li> -->
 				<li><a href="/artist-statement.html">Artist Statement</a></li>
 				<li><a href="/bio.html">CV / Bio</a></li>
 			</ul>
