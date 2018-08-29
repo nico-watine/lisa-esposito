@@ -2001,50 +2001,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/index\/bio\/_ignores\/original.jpg": {
-		"ft": 16384,
-		"iS": 524892,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/index\/bio\/_ignores\/original.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/index\/bio\/all-points-west.jpg": {
-		"ft": 16384,
-		"iS": 114200,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/index\/bio\/all-points-west.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/index\/bio\/all-points-west@mobile.jpg": {
-		"ft": 16384,
-		"iS": 29382,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/index\/bio\/all-points-west@mobile.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/index\/bio\/echoes-of-time-2.jpg": {
-		"ft": 16384,
-		"iS": 141760,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/index\/bio\/echoes-of-time-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/img\/index\/bio\/echoes-of-time.jpg": {
 		"ft": 16384,
 		"iS": 141760,
@@ -2067,17 +2023,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/index\/gallery-link\/linear-abstraction\/_ignores\/original.jpg": {
-		"ft": 16384,
-		"iS": 600843,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/index\/gallery-link\/linear-abstraction\/_ignores\/original.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/img\/index\/gallery-link\/linear-abstraction\/lost-in-transit.jpg": {
 		"ft": 16384,
 		"iS": 80570,
@@ -2095,17 +2040,6 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/index\/gallery-link\/linear-abstraction\/lost-in-transit@mobile.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/index\/gallery-link\/lyrical-abstraction\/_ignores\/netherworld.jpg": {
-		"ft": 16384,
-		"iS": 1968310,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/index\/gallery-link\/lyrical-abstraction\/_ignores\/netherworld.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2155,72 +2089,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/index\/landing\/header\/_ignores\/original.jpg": {
-		"ft": 16384,
-		"iS": 599796,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/index\/landing\/header\/_ignores\/original.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/index\/landing\/header\/escape-artist@1601.jpg": {
-		"ft": 16384,
-		"iS": 103554,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/index\/landing\/header\/escape-artist@1601.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/index\/landing\/header\/escape-artist@2001.jpg": {
-		"ft": 16384,
-		"iS": 102486,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/index\/landing\/header\/escape-artist@2001.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/index\/landing\/header\/escape-artist@large.jpg": {
-		"ft": 16384,
-		"iS": 66544,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/index\/landing\/header\/escape-artist@large.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/index\/landing\/header\/escape-artist@max.jpg": {
-		"ft": 16384,
-		"iS": 140524,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/index\/landing\/header\/escape-artist@max.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/index\/landing\/header\/escape-artist@mobile.jpg": {
-		"ft": 16384,
-		"iS": 41909,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/index\/landing\/header\/escape-artist@mobile.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/img\/index\/landing\/header\/heaven-of-the-ordinary\/700w\/heaven-of-the-ordinary.jpg": {
 		"ft": 16384,
 		"iS": 54766,
@@ -2238,17 +2106,6 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/index\/landing\/header\/heaven-of-the-ordinary\/heaven-of-the-ordinary.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/index\/quoted\/_ignores\/original.jpg": {
-		"ft": 16384,
-		"iS": 2441130,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/index\/quoted\/_ignores\/original.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
