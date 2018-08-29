@@ -59,11 +59,11 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/_ignores\/twentyseventeen\/_front-page.php": {
+	"\/_ignores\/twentyseventeen\/front-page.php": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_ignores\/twentyseventeen\/_front-page.php",
+		"oA": 2,
+		"oAP": "\/_ignores\/twentyseventeen\/front-page.php",
 		"oF": 0
 		},
 	"\/_ignores\/urls.txt": {
