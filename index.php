@@ -110,7 +110,7 @@
 		<div class="footer-nav">
 			<ul>
 				<li><a href="/galleries.html">Galleries</a></li>
-				<li><a href="/upcoming-events.html">Upcoming Events</a></li> 
+				<!-- <li><a href="/upcoming-events.html">Upcoming Events</a></li>  -->
 				<li><a href="/artist-statement.html">Artist Statement</a></li>
 				<li><a href="/bio.html">CV / Bio</a></li>
 				<li id="last"><a href="/purchase-work.html">Purchase Info</a></li>
