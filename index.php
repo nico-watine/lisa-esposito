@@ -1,4 +1,5 @@
 <?php 
+	// Template name: Static Front Page
 	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
 ?>
 <!DOCTYPE html>
