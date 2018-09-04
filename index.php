@@ -8,8 +8,8 @@
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Abstract Expressionist Paintings | Lisa Esposito, PhD - Greater Boston Area</title>
-	<meta name="description" content="Welcome to the online art gallery of Dr. Lisa Esposito! Abstract Expressionist Paintings - Located in the Greater Boston Area">
+	<title>Abstract Expressionist Paintings | Lisa Esposito, PhD - Greater Houston Area</title>
+	<meta name="description" content="Welcome to the online art gallery of Dr. Lisa Esposito! Abstract Expressionist Paintings - Located in the Greater Houston Area">
 	<link href="http://www.lisaesposito.com/" rel="canonical">
 	
 	<link href="/humans.txt" rel="author">
@@ -18,7 +18,7 @@
 	<meta property="og:locale" content="en_US">
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="Abstract Expressionist Paintings | Lisa Esposito, PhD">
-	<meta property="og:description" content="Welcome to the online art gallery of Dr. Lisa Esposito! Abstract Expressionist Paintings - Located in the Greater Boston Area">
+	<meta property="og:description" content="Welcome to the online art gallery of Dr. Lisa Esposito! Abstract Expressionist Paintings - Located in the Greater Houston Area">
 	<meta property="og:url" content="http://www.lisaesposito.com">
 	<meta property="og:site_name" content="Artist Lisa Esposito, PhD">
 	<meta property="og:image" content="http://www.lisaesposito.com/img/assets/og/index/og-image.jpg">
@@ -51,7 +51,7 @@
 				<h4 id="phone"><a href="tel://832-651-3136">832-520-4743</a></h4>
 				<h4 id="email"><a href="mailto:lisa@lisaesposito.com" target="_top">Lisa@LisaEsposito.com</a></h4>
 			</div>
-			<h4>Located in the Greater Boston area</h4>
+			<h4>Located in the Greater Houston area</h4>
 		</div>
 	</div>
 	<div class="angled-div" id="landing"></div>
@@ -116,11 +116,11 @@
 				<li><a href="/bio/">CV / Bio</a></li>
 				<!-- <li id="last"><a href="/purchase-work.html">Purchase Info</a></li> -->
 			</ul>
-			<h5>&copy; Lisa Esposito, PhD | 2016</h5>
+			<h5>&copy; Lisa Esposito, PhD | 2018</h5>
 		</div>
 	</div>
 	<div id="snc-link">
-		<a href="http://studioncreations.com/" target="_blak">A <span>Studio N</span> Creation</a>
+		<a href="https://studioncreations.com/" target="_blak">A <span>Studio N</span> Creation</a>
 	</div>
 </footer>
 
