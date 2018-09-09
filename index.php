@@ -120,7 +120,7 @@
 		</div>
 	</div>
 	<div id="snc-link">
-		<a href="https://studioncreations.com/" target="_blak">A <span>Studio N</span> Creation</a>
+		<a href="https://studioncreations.com/" target="_blank">A <span>Studio N</span> Creation</a>
 	</div>
 </footer>
 
