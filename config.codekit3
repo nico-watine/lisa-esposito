@@ -1750,7 +1750,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/REM-unit-polyfill\/js\/rem.min.js",
 		"oF": 0,
 		"sC": 1,
@@ -2208,10 +2208,10 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
-		"oAP": "\/Users\/nico\/SNC Projects\/Lisa Esposito\/Site Folder\/js\/ie-min.js",
-		"oF": 2,
-		"sC": 1,
+		"oA": 0,
+		"oAP": "\/js\/ie-min.js",
+		"oF": 3,
+		"sC": 0,
 		"tS": 0
 		},
 	"\/js\/src\/scripts.js": {
@@ -2805,6 +2805,14 @@
 "hooks": [
 	],
 "manualImportLinks": {
+	"\/js\/src\/ie.js": [
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/REM-unit-polyfill\/js\/rem.min.js",
+			"position": 0,
+			"type": 1
+			}
+		]
 	},
 "projectAttributes": {
 	"creationDate": 506169111,
