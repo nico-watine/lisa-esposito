@@ -80,9 +80,9 @@
 
 <section class="gallery-link" id="lyrical-abstraction">
 		<div class="verbiage">
-			<h2>GALLERY</h2>
+			<h2>LYRICAL ABSTRACTION</h2>
 			<a href="/galleries/lyrical-abstraction/" class="verbiage-link">
-				<h3 class="gallery-title">Lyrical Abstraction</h3>
+				<h3 class="gallery-title">Mindscapes</h3>
 			</a>
 		</div>
 		<div class="angled-div"></div>
