@@ -70,9 +70,9 @@
 
 <section class="gallery-link" id="linear-abstraction">
 		<div class="verbiage">
-			<h2>GALLERY</h2>
+			<h2>NEW LINEAR ABSTRACTION</h2>
 			<a href="/galleries/linear-abstraction/" class="verbiage-link">
-				<h3 class="gallery-title">Linear Abstraction</h3>
+				<h3 class="gallery-title">Airborne Series</h3>
 			</a>
 		</div>
 	<div class="angled-div"></div>
