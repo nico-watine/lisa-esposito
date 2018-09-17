@@ -37,6 +37,13 @@
 		"oAP": "\/_ignores\/lisa-esposito.sublime-workspace",
 		"oF": 0
 		},
+	"\/_ignores\/prose\/index\/bio.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/prose\/index\/bio.html",
+		"oF": 0
+		},
 	"\/_ignores\/screenshots\/index.png": {
 		"ft": 32768,
 		"iS": 3914346,
@@ -2176,6 +2183,13 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/index.php",
+		"oF": 0
 		},
 	"\/js\/ie-min.js": {
 		"ft": 64,
