@@ -91,7 +91,7 @@
 <section class="bio">
 	<article class="verbiage">
 		<h2>Meet Lisa Esposito</h2>
-		<p>I am a self-taught, abstract expressionist artist best known for spiritually evocative, non-representational paintings. In 2005, with no prior art training, I began painting in acrylic on large-scale canvases. Evolving as a painter, I gained gallery representation in 2006. An exhibited artist, I am inspired by the Abstract Expressionists of the early to mid-20th c. as well as Buddhism, Taoism, ancient Greek philosophy, and New England Transcendentalism. My artwork consists of vibrant, contrasting colors and abstract images drawn from 25 years of teaching Philosophy.</p>
+		<p>A native New Englander and Professor of Philosophy, Lisa Esposito is also an "outsider" or self-taught, abstract expressionist painter. Her artwork consists of vibrant, saturated colors and ethereal, abstract forms inspired by 20th c. Abstract Expressionism, Buddhism, Taoism, and New England Transcendentalism. Vehicles for introspection, her paintings aim to jostle the viewer’s consciousness and evoke emotive states within the viewer. Come tour her Galleries and experience how abstract expressionist painting can be a powerful vehicle for self-exploration and discovery.</p>
 	</article>
 </section>
 
