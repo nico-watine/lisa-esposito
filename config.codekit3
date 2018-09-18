@@ -1834,6 +1834,16 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/css\/wp-custom.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/css\/wp-custom-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
