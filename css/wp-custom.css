@@ -1,0 +1,50 @@
+.entry-header {
+  float: none !important;
+  width: 100% !important; }
+
+.entry-content {
+  float: none !important;
+  width: 100% !important; }
+
+.imprint {
+  display: none !important;
+  visibility: hidden !important; }
+
+.site-title {
+  text-transform: none !important; }
+
+.wp-block-gallery.is-cropped .blocks-gallery-image a,
+.wp-block-gallery.is-cropped .blocks-gallery-image img,
+.wp-block-gallery.is-cropped .blocks-gallery-item a,
+.wp-block-gallery.is-cropped .blocks-gallery-item img {
+  height: 180px; }
+  @media screen and (min-width: 26.25em) {
+    .wp-block-gallery.is-cropped .blocks-gallery-image a,
+    .wp-block-gallery.is-cropped .blocks-gallery-image img,
+    .wp-block-gallery.is-cropped .blocks-gallery-item a,
+    .wp-block-gallery.is-cropped .blocks-gallery-item img {
+      height: 230px; } }
+  @media screen and (min-width: 30em) {
+    .wp-block-gallery.is-cropped .blocks-gallery-image a,
+    .wp-block-gallery.is-cropped .blocks-gallery-image img,
+    .wp-block-gallery.is-cropped .blocks-gallery-item a,
+    .wp-block-gallery.is-cropped .blocks-gallery-item img {
+      height: 260px; } }
+  @media screen and (min-width: 47.5em) {
+    .wp-block-gallery.is-cropped .blocks-gallery-image a,
+    .wp-block-gallery.is-cropped .blocks-gallery-image img,
+    .wp-block-gallery.is-cropped .blocks-gallery-item a,
+    .wp-block-gallery.is-cropped .blocks-gallery-item img {
+      height: 290px; } }
+  @media screen and (min-width: 53.75em) {
+    .wp-block-gallery.is-cropped .blocks-gallery-image a,
+    .wp-block-gallery.is-cropped .blocks-gallery-image img,
+    .wp-block-gallery.is-cropped .blocks-gallery-item a,
+    .wp-block-gallery.is-cropped .blocks-gallery-item img {
+      height: 330px; } }
+  @media screen and (min-width: 56.25em) {
+    .wp-block-gallery.is-cropped .blocks-gallery-image a,
+    .wp-block-gallery.is-cropped .blocks-gallery-image img,
+    .wp-block-gallery.is-cropped .blocks-gallery-item a,
+    .wp-block-gallery.is-cropped .blocks-gallery-item img {
+      height: 390px; } }
