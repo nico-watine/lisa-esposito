@@ -73,8 +73,8 @@ figure {
  * 2. Show the overflow in Edge and IE.
  */
 hr {
-  -moz-box-sizing: content-box;
-       box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
   /* 1 */
   height: 0;
   /* 1 */
@@ -124,7 +124,8 @@ abbr[title] {
   /* 1 */
   text-decoration: underline;
   /* 2 */
-  text-decoration: underline dotted;
+  -webkit-text-decoration: underline dotted;
+          text-decoration: underline dotted;
   /* 2 */
 }
 
@@ -322,8 +323,8 @@ fieldset {
  *    `fieldset` elements in all browsers.
  */
 legend {
-  -moz-box-sizing: border-box;
-       box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   /* 1 */
   color: inherit;
   /* 2 */
@@ -361,8 +362,8 @@ textarea {
  */
 [type="checkbox"],
 [type="radio"] {
-  -moz-box-sizing: border-box;
-       box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   /* 1 */
   padding: 0;
   /* 2 */
@@ -450,13 +451,13 @@ template {
 }
 
 html {
-  -moz-box-sizing: border-box;
-       box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 
 *, *::after, *::before {
-  -moz-box-sizing: inherit;
-       box-sizing: inherit;
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit;
 }
 
 @font-face {
@@ -653,7 +654,9 @@ button {
   text-decoration: none;
   color: #fff;
   background-color: #777;
+  -webkit-transition: background-color 200ms ease-out 0s;
   transition: background-color 200ms ease-out 0s;
+  -webkit-transition: color 200ms ease-out 0s;
   transition: color 200ms ease-out 0s;
 }
 
@@ -1707,7 +1710,8 @@ article#new-works-portals-passageways {
   margin-left: 6.3598673463%;
   margin-bottom: 3.75rem;
   border-radius: 0.3125rem;
-  box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3);
+          box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3);
   background: white;
 }
 
@@ -1872,7 +1876,8 @@ article#new-works-portals-passageways section.event-details .row#venue-contact-i
 .event-entry {
   background: #fff;
   margin-bottom: 3.75em;
-  box-shadow: 0 0.6875em 0.4375em 0 rgba(0, 0, 0, 0.19), 0 0.8125em 1.5625em 0 rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0 0.6875em 0.4375em 0 rgba(0, 0, 0, 0.19), 0 0.8125em 1.5625em 0 rgba(0, 0, 0, 0.3);
+          box-shadow: 0 0.6875em 0.4375em 0 rgba(0, 0, 0, 0.19), 0 0.8125em 1.5625em 0 rgba(0, 0, 0, 0.3);
   border-radius: 0.3125em;
   border-right: 0.3125em solid #fff;
   height: 300px;
