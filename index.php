@@ -68,7 +68,7 @@
 		<div class="angled-div"></div>
 </section>
 
-<section class="gallery-link" id="linear-abstraction">
+<!-- <section class="gallery-link" id="linear-abstraction">
 		<div class="verbiage">
 			<h2>NEW LINEAR ABSTRACTION</h2>
 			<a href="/galleries/linear-abstraction/" class="verbiage-link">
@@ -76,7 +76,7 @@
 			</a>
 		</div>
 	<div class="angled-div"></div>
-</section>
+</section> -->
 
 <section class="gallery-link" id="lyrical-abstraction">
 		<div class="verbiage">
