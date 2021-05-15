@@ -60,7 +60,7 @@
 <main>
 <section class="gallery-link" id="portals-passageways">
 		<div class="verbiage">
-			<h2>NEW WORKS</h2>
+			<!-- <h2>NEW WORKS</h2> -->
 			<a href="/galleries/new-works-portals-and-passageways/" class="verbiage-link">
 				<h3 class="gallery-title">Portals &amp; Passageways</h3>
 			</a>
