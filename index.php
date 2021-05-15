@@ -60,7 +60,7 @@
 <main>
 <section class="gallery-link" id="portals-passageways">
 		<div class="verbiage">
-			<h2>NEW WORKS</h2>
+			<!-- <h2>NEW WORKS</h2> -->
 			<a href="/galleries/new-works-portals-and-passageways/" class="verbiage-link">
 				<h3 class="gallery-title">Portals &amp; Passageways</h3>
 			</a>
@@ -116,7 +116,7 @@
 				<li><a href="/bio/">CV / Bio</a></li>
 				<!-- <li id="last"><a href="/purchase-work.html">Purchase Info</a></li> -->
 			</ul>
-			<h5>&copy; Lisa Esposito, PhD | 2018</h5>
+			<h5>&copy; Lisa Esposito, PhD | 2021</h5>
 		</div>
 	</div>
 	<div id="snc-link">
