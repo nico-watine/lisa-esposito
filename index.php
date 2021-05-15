@@ -116,7 +116,7 @@
 				<li><a href="/bio/">CV / Bio</a></li>
 				<!-- <li id="last"><a href="/purchase-work.html">Purchase Info</a></li> -->
 			</ul>
-			<h5>&copy; Lisa Esposito, PhD | 2018</h5>
+			<h5>&copy; Lisa Esposito, PhD | 2021</h5>
 		</div>
 	</div>
 	<div id="snc-link">
