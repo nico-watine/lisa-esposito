@@ -49,7 +49,7 @@
 		<div id="contact-info">
 			<div class="row">
 				<h4 id="phone"><a href="tel://832-651-3136">832-520-4743</a></h4>
-				<h4 id="email"><a href="mailto:lisa@lisaesposito.com" target="_top">Lisa@LisaEsposito.com</a></h4>
+				<h4 id="email"><a href="mailto:lisa.esposito.artist@gmail.com" target="_top">lisa.esposito.artist@gmail.com</a></h4>
 			</div>
 			<h4>Located in the Greater Houston area</h4>
 		</div>
@@ -106,7 +106,7 @@
 	<div class="row">
 		<div class="contact-info">
 			<h5><a href="tel://832-651-3136">832-520-4743</a></h5>
-			<h5><a href="mailto:lisa@lisaesposito.com" target="_top">Lisa@LisaEsposito.com</a></h5>
+			<h5><a href="mailto:lisa.esposito.artist@gmail.com" target="_top">lisa.esposito.artist@gmail.com</a></h5>
 		</div>
 		<div class="footer-nav">
 			<ul>
