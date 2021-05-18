@@ -2826,6 +2826,20 @@
       "pg" : 0,
       "sct" : 1
     },
+    "\/scss\/pages\/index\/gallery-link\/_earth-works.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/pages\/index\/css\/_earth-works.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
     "\/scss\/pages\/index\/gallery-link\/_gallery-link.scss" : {
       "aP" : 1,
       "bl" : 0,
@@ -2835,20 +2849,6 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/css\/_gallery-link.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
-    "\/scss\/pages\/index\/gallery-link\/_linear-abstraction.scss" : {
-      "aP" : 1,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/css\/_linear-abstraction.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,

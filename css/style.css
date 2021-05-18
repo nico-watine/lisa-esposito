@@ -1339,7 +1339,7 @@ section.bio aside {
   }
 }
 
-.gallery-link#linear-abstraction {
+.gallery-link#earth-works {
   height: 28.75em;
   border-bottom: 1.25em solid #4a4a4a;
   background: url("/img/index/gallery-link/linear-abstraction/lost-in-transit.jpg") no-repeat;
@@ -1348,12 +1348,12 @@ section.bio aside {
 }
 
 @media only screen and (max-width : 1501px) {
-  .gallery-link#linear-abstraction {
+  .gallery-link#earth-works {
     background-size: inherit;
   }
 }
 
-.gallery-link#linear-abstraction .verbiage {
+.gallery-link#earth-works .verbiage {
   text-align: right;
   position: absolute;
   right: 4%;
@@ -1361,13 +1361,13 @@ section.bio aside {
   z-index: 10;
 }
 
-.gallery-link#linear-abstraction .angled-div {
+.gallery-link#earth-works .angled-div {
   right: 0;
   top: 0;
   margin-left: 9.375em;
 }
 
-.gallery-link#linear-abstraction .angled-div:after {
+.gallery-link#earth-works .angled-div:after {
   left: -150px;
   top: 0;
   border-top: 460px solid #4a4a4a;
@@ -1377,31 +1377,31 @@ section.bio aside {
 }
 
 @media screen and (max-width: 62.5em) {
-  .gallery-link#linear-abstraction .verbiage {
+  .gallery-link#earth-works .verbiage {
     padding-top: 3.75em;
   }
 }
 
 @media only screen and (max-width : 880px) {
-  .gallery-link#linear-abstraction {
+  .gallery-link#earth-works {
     background: url("/img/index/gallery-link/linear-abstraction/lost-in-transit@mobile.jpg") no-repeat;
     background-position: left top;
   }
 }
 
 @media screen and (max-width: 43.8125em) {
-  .gallery-link#linear-abstraction {
+  .gallery-link#earth-works {
     height: 18.75em;
   }
-  .gallery-link#linear-abstraction .verbiage {
+  .gallery-link#earth-works .verbiage {
     padding: 0;
     top: 2.5em;
     right: 2.5em;
   }
-  .gallery-link#linear-abstraction .angled-div {
+  .gallery-link#earth-works .angled-div {
     margin-left: 6.25em;
   }
-  .gallery-link#linear-abstraction .angled-div:after {
+  .gallery-link#earth-works .angled-div:after {
     left: -100px;
     border-top: 300px solid #4a4a4a;
     border-left: 100px solid transparent;
@@ -1409,10 +1409,10 @@ section.bio aside {
 }
 
 @media only screen and (max-width : 481px) {
-  .gallery-link#linear-abstraction .verbiage {
+  .gallery-link#earth-works .verbiage {
     right: 5%;
   }
-  .gallery-link#linear-abstraction aside {
+  .gallery-link#earth-works aside {
     left: 0.75rem;
     bottom: 0.25rem;
   }
@@ -1515,7 +1515,7 @@ section.bio aside {
 }
 
 .gallery-link .angled-div {
-  background: #4A4A4A;
+  background: #4a4a4a;
   height: 100%;
   width: 20%;
 }
