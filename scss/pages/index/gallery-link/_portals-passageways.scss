@@ -1,32 +1,34 @@
-@import '../../../settings/_settings.scss';
-$max-481: 'only screen and (max-width : 481px)';
+@import "../../../settings/_settings.scss";
+
+$max-481: "only screen and (max-width : 481px)";
 
 
 .gallery-link#portals-passageways {
 	height: em(420);
 	border-bottom: em(20) solid #4a4a4a;
+
 	background: url('/img/index/gallery-link/portals-passageways/wandering-forth.jpg') right top/cover no-repeat;
 
 	.verbiage {
-		text-align: right;
+		text-align: left;
 		position: absolute;
-		right: 0;
-		padding: em(140) em(40) 0 0;
+		left: 0;
+		padding: em(140) 0 0 em(40);
 		z-index: 10;
 	}
 
 	.angled-div {
-		right: 0;
+		left: 0;
 		top: 0;
-		margin-left: em(150);
+		margin-right: em(150);
 	}
 	.angled-div:after {
-		left: -150px;
+		right: -150px;
 		top: 0;
-		border-top: 420px solid #4a4a4a;
-		border-bottom: 0 solid transparent;
-		border-left: 150px solid transparent;
-		border-right: 0 solid transparent;
+	    border-top: 0 solid transparent;
+	    border-bottom: 420px solid #4a4a4a;
+	    border-left: 0 solid transparent;
+	    border-right: 150px solid transparent;
 	}
 
 	@include media($large) {
@@ -64,3 +66,4 @@ $max-481: 'only screen and (max-width : 481px)';
 		}
 	}
 }
+

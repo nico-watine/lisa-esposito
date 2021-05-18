@@ -58,6 +58,17 @@
 </header>
 
 <main>
+
+<section class="gallery-link" id="earth-works">
+		<div class="verbiage">
+			<!-- <h2>LYRICAL ABSTRACTION</h2> -->
+			<a href="/galleries/mindscapes/" class="verbiage-link">
+				<h3 class="gallery-title">Earth Works</h3>
+			</a>
+		</div>
+		<div class="angled-div"></div>
+</section>
+
 <section class="gallery-link" id="portals-passageways">
 		<div class="verbiage">
 			<!-- <h2>NEW WORKS</h2> -->
@@ -68,11 +79,11 @@
 		<div class="angled-div"></div>
 </section>
 
-<section class="gallery-link" id="earth-works">
+<section class="gallery-link" id="mindscapes">
 		<div class="verbiage">
-			<h2>NEW LINEAR ABSTRACTION</h2>
+			<!-- <h2>NEW LINEAR ABSTRACTION</h2> -->
 			<a href="/galleries/linear-abstraction/" class="verbiage-link">
-				<h3 class="gallery-title">Airborne Series</h3>
+				<h3 class="gallery-title">Mindscapes</h3>
 			</a>
 		</div>
 	<div class="angled-div"></div>
@@ -85,15 +96,15 @@
 	</article>
 </section> -->
 
-<section class="gallery-link" id="lyrical-abstraction">
+<!-- <section class="gallery-link" id="lyrical-abstraction">
 		<div class="verbiage">
-			<!-- <h2>LYRICAL ABSTRACTION</h2> -->
+			<h2>LYRICAL ABSTRACTION</h2>
 			<a href="/galleries/mindscapes/" class="verbiage-link">
 				<h3 class="gallery-title">Mindscapes</h3>
 			</a>
 		</div>
 		<div class="angled-div"></div>
-</section>
+</section> -->
 
 <section class="quoted">
 	<h2>“The first rule is to keep an untroubled spirit. <br>The second is to look things in the face and know them for what they are.” </h2>
