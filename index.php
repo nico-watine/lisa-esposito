@@ -87,7 +87,7 @@
 
 <section class="gallery-link" id="lyrical-abstraction">
 		<div class="verbiage">
-			<h2>LYRICAL ABSTRACTION</h2>
+			<!-- <h2>LYRICAL ABSTRACTION</h2> -->
 			<a href="/galleries/mindscapes/" class="verbiage-link">
 				<h3 class="gallery-title">Mindscapes</h3>
 			</a>
