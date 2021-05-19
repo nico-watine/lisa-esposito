@@ -14,11 +14,7 @@ $max-481: "only screen and (max-width : 481px)";
 	background: url('/img/index/gallery-link/mindscapes/netherworld.jpg') no-repeat;
 	background-position: left top;
 	
-	background-size: 85%;
-
-	@media #{$max-1501} {
-		background-size: inherit;
-	}
+	background-size: cover;
 
 	.verbiage {
 		text-align: right;
