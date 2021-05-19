@@ -106,16 +106,16 @@
 		<div class="angled-div"></div>
 </section> -->
 
-<section class="quoted">
-	<h2>“The first rule is to keep an untroubled spirit. <br>The second is to look things in the face and know them for what they are.” </h2>
-	<h3>Marcus Aurelius</h3>
-</section>
-
 <section class="bio">
 	<article class="verbiage">
 		<h2>Meet Lisa Esposito</h2>
 		<p>A native New Englander and Professor of Philosophy, Lisa Esposito is also an "outsider" or self-taught, abstract expressionist painter. Her artwork consists of vibrant, saturated colors and ethereal, abstract forms inspired by 20th c. Abstract Expressionism, Buddhism, Taoism, and New England Transcendentalism. Vehicles for introspection, her paintings aim to jostle the viewer’s consciousness and evoke emotive states within the viewer. Come tour her Galleries and experience how abstract expressionist painting can be a powerful vehicle for self-exploration and discovery.</p>
 	</article>
+</section>
+
+<section class="quoted">
+	<h2>“The first rule is to keep an untroubled spirit. <br>The second is to look things in the face and know them for what they are.” </h2>
+	<h3>Marcus Aurelius</h3>
 </section>
 
 </main>
