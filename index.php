@@ -61,7 +61,6 @@
 
 <section class="gallery-link" id="earth-works">
 		<div class="verbiage">
-			<!-- <h2>LYRICAL ABSTRACTION</h2> -->
 			<a href="/galleries/mindscapes/" class="verbiage-link">
 				<h3 class="gallery-title">Earth Works</h3>
 			</a>
@@ -71,7 +70,6 @@
 
 <section class="gallery-link" id="portals-passageways">
 		<div class="verbiage">
-			<!-- <h2>NEW WORKS</h2> -->
 			<a href="/galleries/portals-and-passageways/" class="verbiage-link">
 				<h3 class="gallery-title">Portals &amp; Passageways</h3>
 			</a>
@@ -81,30 +79,12 @@
 
 <section class="gallery-link" id="mindscapes">
 		<div class="verbiage">
-			<!-- <h2>NEW LINEAR ABSTRACTION</h2> -->
 			<a href="/galleries/linear-abstraction/" class="verbiage-link">
 				<h3 class="gallery-title">Mindscapes</h3>
 			</a>
 		</div>
 	<div class="angled-div"></div>
 </section>
-
-<!-- <section class="bio">
-	<article class="verbiage">
-		<h2>Meet Lisa Esposito</h2>
-		<p>A native New Englander and Professor of Philosophy, Lisa Esposito is also an "outsider" or self-taught, abstract expressionist painter. Her artwork consists of vibrant, saturated colors and ethereal, abstract forms inspired by 20th c. Abstract Expressionism, Buddhism, Taoism, and New England Transcendentalism. Vehicles for introspection, her paintings aim to jostle the viewer’s consciousness and evoke emotive states within the viewer. Come tour her Galleries and experience how abstract expressionist painting can be a powerful vehicle for self-exploration and discovery.</p>
-	</article>
-</section> -->
-
-<!-- <section class="gallery-link" id="lyrical-abstraction">
-		<div class="verbiage">
-			<h2>LYRICAL ABSTRACTION</h2>
-			<a href="/galleries/mindscapes/" class="verbiage-link">
-				<h3 class="gallery-title">Mindscapes</h3>
-			</a>
-		</div>
-		<div class="angled-div"></div>
-</section> -->
 
 <section class="bio">
 	<article class="verbiage">
