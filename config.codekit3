@@ -2233,6 +2233,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/index\/gallery-link\/earth-works\/hope-on-the-horizon.jpg" : {
+      "ft" : 16384,
+      "iS" : 151960,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/index\/gallery-link\/earth-works\/hope-on-the-horizon.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/index\/gallery-link\/linear-abstraction\/lost-in-transit.jpg" : {
       "ft" : 16384,
       "iS" : 80570,
@@ -2278,6 +2291,32 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/img\/index\/gallery-link\/lyrical-abstraction\/netherworld@mobile.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/index\/gallery-link\/mindscapes\/netherworld.jpg" : {
+      "ft" : 16384,
+      "iS" : 74982,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/index\/gallery-link\/mindscapes\/netherworld.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/index\/gallery-link\/mindscapes\/netherworld@mobile.jpg" : {
+      "ft" : 16384,
+      "iS" : 55704,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/index\/gallery-link\/mindscapes\/netherworld@mobile.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -2826,6 +2865,20 @@
       "pg" : 0,
       "sct" : 1
     },
+    "\/scss\/pages\/index\/gallery-link\/_earth-works.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/pages\/index\/css\/_earth-works.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
     "\/scss\/pages\/index\/gallery-link\/_gallery-link.scss" : {
       "aP" : 1,
       "bl" : 0,
@@ -2840,7 +2893,7 @@
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/pages\/index\/gallery-link\/_linear-abstraction.scss" : {
+    "\/scss\/pages\/index\/gallery-link\/_mindscapes.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -2848,21 +2901,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_linear-abstraction.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
-    "\/scss\/pages\/index\/gallery-link\/_lyrical-abstraction.scss" : {
-      "aP" : 1,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/css\/_lyrical-abstraction.css",
+      "oAP" : "\/scss\/pages\/index\/css\/_mindscapes.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,

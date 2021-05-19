@@ -7,14 +7,14 @@ $max-481: "only screen and (max-width : 481px)";
 
 
 
-.gallery-link#linear-abstraction {
+.gallery-link#earth-works {
 	height: em(460);
 	border-bottom: em(20) solid #4a4a4a;
 
-	background: url('/img/index/gallery-link/linear-abstraction/lost-in-transit.jpg') no-repeat;
+	background: url('/img/index/gallery-link/earth-works/hope-on-the-horizon.jpg') no-repeat;
 	background-position: left top;
 	
-	background-size: 85%;
+	background-size: cover;
 
 	@media #{$max-1501} {
 		background-size: inherit;
@@ -48,10 +48,10 @@ $max-481: "only screen and (max-width : 481px)";
 		}
 	}
 
-	@media #{$max-880} {
-		background: url('/img/index/gallery-link/linear-abstraction/lost-in-transit@mobile.jpg') no-repeat;
-		background-position: left top;
-	}
+	// @media #{$max-880} {
+	// 	background: url('/img/index/gallery-link/earthworks/lost-in-transit@mobile.jpg') no-repeat;
+	// 	background-position: left top;
+	// }
 
 	@include media($small-plus) {
 		height: em(300);
