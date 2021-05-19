@@ -2233,6 +2233,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/index\/gallery-link\/earthworks\/lost-in-transit.jpg" : {
+      "ft" : 16384,
+      "iS" : 112703,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/index\/gallery-link\/earthworks\/lost-in-transit.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/index\/gallery-link\/earthworks\/lost-in-transit@mobile.jpg" : {
+      "ft" : 16384,
+      "iS" : 65390,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/index\/gallery-link\/earthworks\/lost-in-transit@mobile.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/index\/gallery-link\/linear-abstraction\/lost-in-transit.jpg" : {
       "ft" : 16384,
       "iS" : 80570,
