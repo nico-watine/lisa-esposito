@@ -1344,7 +1344,7 @@ section.bio aside {
   border-bottom: 1.25em solid #4a4a4a;
   background: url("/img/index/gallery-link/earth-works/hope-on-the-horizon.jpg") no-repeat;
   background-position: left top;
-  background-size: 85%;
+  background-size: cover;
 }
 
 @media only screen and (max-width : 1501px) {
@@ -1379,13 +1379,6 @@ section.bio aside {
 @media screen and (max-width: 62.5em) {
   .gallery-link#earth-works .verbiage {
     padding-top: 3.75em;
-  }
-}
-
-@media only screen and (max-width : 880px) {
-  .gallery-link#earth-works {
-    background: url("/img/index/gallery-link/earthworks/lost-in-transit@mobile.jpg") no-repeat;
-    background-position: left top;
   }
 }
 

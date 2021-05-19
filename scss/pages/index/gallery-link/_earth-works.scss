@@ -14,7 +14,7 @@ $max-481: "only screen and (max-width : 481px)";
 	background: url('/img/index/gallery-link/earth-works/hope-on-the-horizon.jpg') no-repeat;
 	background-position: left top;
 	
-	background-size: 85%;
+	background-size: cover;
 
 	@media #{$max-1501} {
 		background-size: inherit;
@@ -48,10 +48,10 @@ $max-481: "only screen and (max-width : 481px)";
 		}
 	}
 
-	@media #{$max-880} {
-		background: url('/img/index/gallery-link/earthworks/lost-in-transit@mobile.jpg') no-repeat;
-		background-position: left top;
-	}
+	// @media #{$max-880} {
+	// 	background: url('/img/index/gallery-link/earthworks/lost-in-transit@mobile.jpg') no-repeat;
+	// 	background-position: left top;
+	// }
 
 	@include media($small-plus) {
 		height: em(300);
