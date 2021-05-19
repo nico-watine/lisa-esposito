@@ -1421,7 +1421,7 @@ section.bio aside {
 .gallery-link#mindscapes {
   height: 28.75em;
   border-bottom: 1.25em solid #4a4a4a;
-  background: url("/img/index/gallery-link/linear-abstraction/lost-in-transit.jpg") no-repeat;
+  background: url("/img/index/gallery-link/mindscapes/netherworld.jpg") no-repeat;
   background-position: left top;
   background-size: 85%;
 }
@@ -1463,7 +1463,7 @@ section.bio aside {
 
 @media only screen and (max-width : 880px) {
   .gallery-link#mindscapes {
-    background: url("/img/index/gallery-link/linear-abstraction/lost-in-transit@mobile.jpg") no-repeat;
+    background: url("/img/index/gallery-link/mindscapes/netherworld%40mobile.jpg") no-repeat;
     background-position: left top;
   }
 }
