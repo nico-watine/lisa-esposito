@@ -2546,20 +2546,6 @@
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/elements\/components\/_buttons.scss" : {
-      "aP" : 1,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/scss\/elements\/css\/_buttons.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
     "\/scss\/elements\/components\/_components.scss" : {
       "aP" : 1,
       "bl" : 0,
@@ -2569,34 +2555,6 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/scss\/elements\/css\/_components.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
-    "\/scss\/elements\/components\/_extras.scss" : {
-      "aP" : 1,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/scss\/elements\/css\/_extras.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
-    "\/scss\/elements\/components\/_fonts.scss" : {
-      "aP" : 1,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/scss\/elements\/css\/_fonts.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -2616,20 +2574,6 @@
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/elements\/components\/_typography.scss" : {
-      "aP" : 1,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/scss\/elements\/css\/_typography.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
     "\/scss\/elements\/components\/_utility-classes.scss" : {
       "aP" : 1,
       "bl" : 0,
@@ -2644,7 +2588,7 @@
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/elements\/components\/extras\/_code-blocks.scss" : {
+    "\/scss\/elements\/components\/typography\/_buttons.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -2652,13 +2596,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/elements\/components\/css\/_code-blocks.css",
+      "oAP" : "\/scss\/elements\/components\/css\/_buttons.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/elements\/components\/extras\/_sticky-footer.scss" : {
+    "\/scss\/elements\/components\/typography\/_font-face.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -2666,7 +2610,21 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/elements\/components\/css\/_sticky-footer.css",
+      "oAP" : "\/scss\/elements\/components\/css\/_font-face.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/components\/typography\/_typography.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/elements\/components\/css\/_typography.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,

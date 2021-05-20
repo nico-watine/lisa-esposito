@@ -366,6 +366,41 @@ template {
   font-weight: 400;
 }
 
+button {
+  border: none;
+}
+
+a.button,
+button {
+  cursor: pointer;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  display: inline-block;
+  border-radius: 0.3125rem;
+  font-size: em(22);
+  padding: 1rem 2rem;
+  text-decoration: none;
+  color: #fff;
+  background-color: #777;
+  transition: background-color 200ms ease-out 0s;
+  transition: color 200ms ease-out 0s;
+}
+
+a.button:hover,
+button:hover {
+  color: #000;
+  background-color: #ccc;
+}
+
+@media screen and (max-width: 46.875em) {
+  a.button,
+button {
+    font-size: em(16);
+    padding: 0.8125rem 1.3125rem 1rem;
+  }
+}
+
 html {
   font-size: 1em;
 }
@@ -518,41 +553,6 @@ img {
 ::selection {
   background: #b3d4fc;
   text-shadow: none;
-}
-
-button {
-  border: none;
-}
-
-a.button,
-button {
-  cursor: pointer;
-  line-height: normal;
-  position: relative;
-  text-align: center;
-  display: inline-block;
-  border-radius: 0.3125rem;
-  font-size: em(22);
-  padding: 1rem 2rem;
-  text-decoration: none;
-  color: #fff;
-  background-color: #777;
-  transition: background-color 200ms ease-out 0s;
-  transition: color 200ms ease-out 0s;
-}
-
-a.button:hover,
-button:hover {
-  color: #000;
-  background-color: #ccc;
-}
-
-@media screen and (max-width: 46.875em) {
-  a.button,
-button {
-    font-size: em(16);
-    padding: 0.8125rem 1.3125rem 1rem;
-  }
 }
 
 .outer-container {
