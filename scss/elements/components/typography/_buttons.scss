@@ -9,9 +9,9 @@ button {
 	position: relative;
 	text-align: center;
 	display: inline-block;
-	border-radius: rem(5);
+	border-radius: rem-calc(5);
 	font-size: $h4-size; // 21px
-	padding: rem(16) rem(32);
+	padding: rem-calc(16) rem-calc(32);
 	text-decoration: none;
 	color: #fff;
 	background-color: #777;
@@ -26,6 +26,6 @@ button {
 
 	@include media($medium) {
 		font-size: $h5-size;
-		padding: rem(13) rem(21) rem(16);
+		padding: rem-calc(13) rem-calc(21) rem-calc(16);
 	}
 }

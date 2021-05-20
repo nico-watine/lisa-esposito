@@ -42,14 +42,14 @@ h1,
 h2 {
 	font-weight: $header-font-weight;
 	font-family: $header-font-family;
-	margin: 0 0 rem(8);
+	margin: 0 0 rem-calc(8);
 }
 
 h3,
 h4,
 h5,
 h6 {
-	margin: 0 0 rem(8);
+	margin: 0 0 rem-calc(8);
 	font-weight: $body-font-weight;
 }
 

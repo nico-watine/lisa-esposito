@@ -2,7 +2,7 @@ $max-560: 'only screen and (max-width : 560px)';
 
 
 header {
-	padding: em(45) em(26) 0;
+	padding: rem-calc(45) rem-calc(26) 0;
 
 	a#logo {
 		&:hover {
@@ -16,30 +16,30 @@ header {
 	}
 
 	h1.title {
-		font-size: rem(36);
+		font-size: rem-calc(36);
 		margin-bottom: 0;
 
 		span {
-			font-size: rem(22);
+			font-size: rem-calc(22);
 		}
 	}
 
 	h2.tag {
-		font-size: rem(24);
-		margin-bottom: rem(30);
+		font-size: rem-calc(24);
+		margin-bottom: rem-calc(30);
 	}
 
 	@media #{$max-560} {
 		h1.title {
-			font-size: rem(30);
+			font-size: rem-calc(30);
 
 			span {
-				font-size: rem(16);
+				font-size: rem-calc(16);
 			}
 		}
 
 		h2.tag {
-			font-size: rem(18);
+			font-size: rem-calc(18);
 		}
 	}
 }

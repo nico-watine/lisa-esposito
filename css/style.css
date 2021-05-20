@@ -628,8 +628,8 @@ img#wpstats {
 footer.static {
   position: relative;
   width: 100%;
-  height: 14.375em;
-  padding-top: 5em;
+  height: 14.375rem;
+  padding-top: 5rem;
 }
 
 footer.static a {
@@ -650,7 +650,7 @@ footer.static .footer-nav h5 {
 footer.static .contact-info {
   left: 0;
   float: left;
-  padding: 0 0 0 2.1875em;
+  padding: 0 0 0 2.1875rem;
   width: auto;
 }
 
@@ -658,7 +658,7 @@ footer.static .footer-nav {
   float: right;
   right: 0;
   text-align: right;
-  padding: 0 2.1875em 0 0;
+  padding: 0 2.1875rem 0 0;
   width: auto;
 }
 
@@ -686,8 +686,8 @@ footer.static .footer-nav h5 {
 
 footer.static #snc-link {
   text-align: center;
-  padding: 1.5em 0 1.875em;
-  margin-bottom: 2.375em;
+  padding: 1.5rem 0 1.875rem;
+  margin-bottom: 2.375rem;
 }
 
 footer.static #snc-link a {
@@ -708,10 +708,10 @@ footer.static #snc-link a:hover {
 
 @media screen and (max-width: 62.5em) {
   footer.static .contact-info {
-    padding: 0 0 0 1.25em;
+    padding: 0 0 0 1.25rem;
   }
   footer.static .footer-nav {
-    padding: 0 1.25em 0 0;
+    padding: 0 1.25rem 0 0;
   }
   footer.static .footer-nav ul li {
     margin-right: 1rem;
@@ -720,17 +720,17 @@ footer.static #snc-link a:hover {
 
 @media only screen and (max-width : 890px) {
   footer.static {
-    height: 12.5em;
-    padding-top: 3.125em;
+    height: 12.5rem;
+    padding-top: 3.125rem;
   }
   footer.static .contact-info {
-    padding: 0 0 0 1.5em;
+    padding: 0 0 0 1.5rem;
   }
   footer.static .contact-info h5 {
     font-size: 0.875rem;
   }
   footer.static .footer-nav {
-    padding: 0 1.5em 0 0;
+    padding: 0 1.5rem 0 0;
   }
   footer.static .footer-nav h5 {
     font-size: 0.875rem;
@@ -742,7 +742,7 @@ footer.static #snc-link a:hover {
 
 @media only screen and (max-width : 740px) {
   footer.static {
-    padding-top: 2.1875em;
+    padding-top: 2.1875rem;
   }
   footer.static .contact-info,
 footer.static .footer-nav {
@@ -770,7 +770,7 @@ footer.static .footer-nav h5 {
 }
 
 header {
-  padding: 2.8125em 1.625em 0;
+  padding: 2.8125rem 1.625rem 0;
 }
 
 header a#logo:hover {
@@ -809,7 +809,7 @@ header h2.tag {
 }
 
 nav {
-  margin-bottom: 2.5em;
+  margin-bottom: 2.5rem;
 }
 
 nav ul.main-nav {
@@ -835,7 +835,7 @@ nav ul.main-nav li.active a:hover {
 
 @media only screen and (max-width : 760px) {
   nav {
-    margin-bottom: 1.375em;
+    margin-bottom: 1.375rem;
   }
 }
 

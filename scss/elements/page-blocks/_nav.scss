@@ -1,7 +1,7 @@
 $max-760: 'only screen and (max-width : 760px)';
 
 nav {
-	margin-bottom: em(40);
+	margin-bottom: rem-calc(40);
 
 	ul.main-nav {
 		margin: 0;
@@ -11,8 +11,8 @@ nav {
 
 		li {
 			display: inline-block;
-			padding-right: rem(26);
-			margin-bottom: rem(12);
+			padding-right: rem-calc(26);
+			margin-bottom: rem-calc(12);
 		}
 
 		li.active {
@@ -27,6 +27,6 @@ nav {
 	}
 
 	@media #{$max-760} {
-		margin-bottom: em(22);
+		margin-bottom: rem-calc(22);
 	}
 }

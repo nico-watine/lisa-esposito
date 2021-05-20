@@ -7,8 +7,8 @@ $max-540: 'only screen and (max-width : 540px)';
 footer.static {
 	position: relative;
 	width: 100%;
-	height: em(230);
-	padding-top: em(80);
+	height: rem-calc(230);
+	padding-top: rem-calc(80);
 
 	a {
 		text-decoration: none;
@@ -21,16 +21,16 @@ footer.static {
 	.contact-info,
 	.footer-nav {
 		h5 {
-			margin-bottom: rem(20);
+			margin-bottom: rem-calc(20);
 			text-transform: none;
-			font-size: rem(18);
+			font-size: rem-calc(18);
 		}
 	}
 
 	.contact-info {
 		left: 0;
 		float: left;
-		padding: 0 0 0 em(35);
+		padding: 0 0 0 rem-calc(35);
 		width: auto;
 	}
 
@@ -38,7 +38,7 @@ footer.static {
 		float: right;
 		right: 0;
 		text-align: right;
-		padding: 0 em(35) 0 0;
+		padding: 0 rem-calc(35) 0 0;
 		width: auto;
 
 		ul {
@@ -46,12 +46,12 @@ footer.static {
 			margin: 0;
 			padding: 0;
 			list-style-type: none;
-			margin-bottom: rem(20);
-			font-size: rem(18);
+			margin-bottom: rem-calc(20);
+			font-size: rem-calc(18);
 
 			li {
 				display: inline-block;
-				margin-right: rem(35);
+				margin-right: rem-calc(35);
 			}
 
 			li#last {
@@ -66,12 +66,12 @@ footer.static {
 
 	#snc-link {
 		text-align: center;
-		padding: em(24) 0 em(30);
-		margin-bottom: em(38);
+		padding: rem-calc(24) 0 rem-calc(30);
+		margin-bottom: rem-calc(38);
 
 		a {
 			text-transform: uppercase;
-			font-size: rem(12);
+			font-size: rem-calc(12);
 			text-decoration: none;
 			color: #888;
 
@@ -88,43 +88,43 @@ footer.static {
 
 	@include media($large) {
 		.contact-info {
-			padding: 0 0 0 em(20);
+			padding: 0 0 0 rem-calc(20);
 		}
 
 		.footer-nav {
-			padding: 0 em(20) 0 0;
+			padding: 0 rem-calc(20) 0 0;
 
 			ul {
 				li {
-					margin-right: rem(16);
+					margin-right: rem-calc(16);
 				}
 			}
 		}
 	}
 
 	@media #{$max-890} {
-		height: em(200);
-		padding-top: em(50);
+		height: rem-calc(200);
+		padding-top: rem-calc(50);
 
 		.contact-info {
-			padding: 0 0 0 em(24);
+			padding: 0 0 0 rem-calc(24);
 
 			h5 {
-				font-size: rem(14);
+				font-size: rem-calc(14);
 			}
 		}
 
 		.footer-nav {
-			padding: 0 em(24) 0 0;
+			padding: 0 rem-calc(24) 0 0;
 
 			h5 {
-				font-size: rem(14);
+				font-size: rem-calc(14);
 			}
 
 			ul {
 				li {
 					a {
-						font-size: rem(14);
+						font-size: rem-calc(14);
 					}
 				}
 			}
@@ -132,7 +132,7 @@ footer.static {
 	}
 
 	@media #{$max-740} {
-		padding-top: em(35);
+		padding-top: rem-calc(35);
 
 		.contact-info,
 		.footer-nav {
@@ -141,14 +141,14 @@ footer.static {
 			text-align: center;
 
 			h5 {
-				margin-bottom: rem(14);
+				margin-bottom: rem-calc(14);
 			}
 		}
 
 		.footer-nav {
 			ul {
-				padding: 0 rem(14);
-				margin-bottom: rem(14);
+				padding: 0 rem-calc(14);
+				margin-bottom: rem-calc(14);
 			}
 		}
 	}
@@ -158,7 +158,7 @@ footer.static {
 			margin-bottom: 0;
 
 			li {
-				margin-bottom: rem(14);
+				margin-bottom: rem-calc(14);
 			}
 		}
 	}
