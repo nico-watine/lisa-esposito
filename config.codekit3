@@ -2504,7 +2504,7 @@
       "oAP" : "\/robots.txt",
       "oF" : 0
     },
-    "\/scss\/_normalize.scss" : {
+    "\/scss\/elements\/_elements.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -2512,13 +2512,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_normalize.css",
+      "oAP" : "\/scss\/css\/_elements.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/blocks\/_body.scss" : {
+    "\/scss\/elements\/1-reset\/_normalize.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -2526,13 +2526,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_body.css",
+      "oAP" : "\/scss\/elements\/css\/_normalize.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/blocks\/_footer.scss" : {
+    "\/scss\/elements\/components\/_angles.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -2540,13 +2540,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_footer.css",
+      "oAP" : "\/scss\/elements\/css\/_angles.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/blocks\/_header.scss" : {
+    "\/scss\/elements\/components\/_buttons.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -2554,13 +2554,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_header.css",
+      "oAP" : "\/scss\/elements\/css\/_buttons.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/blocks\/_nav.scss" : {
+    "\/scss\/elements\/components\/_components.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -2568,13 +2568,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_nav.css",
+      "oAP" : "\/scss\/elements\/css\/_components.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/_angles.scss" : {
+    "\/scss\/elements\/components\/_extras.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -2582,13 +2582,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_angles.css",
+      "oAP" : "\/scss\/elements\/css\/_extras.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/_buttons.scss" : {
+    "\/scss\/elements\/components\/_fonts.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -2596,13 +2596,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_buttons.css",
+      "oAP" : "\/scss\/elements\/css\/_fonts.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/_extras.scss" : {
+    "\/scss\/elements\/components\/_resets.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -2610,13 +2610,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_extras.css",
+      "oAP" : "\/scss\/elements\/css\/_resets.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/_fonts.scss" : {
+    "\/scss\/elements\/components\/_typography.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -2624,13 +2624,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_fonts.css",
+      "oAP" : "\/scss\/elements\/css\/_typography.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/_resets.scss" : {
+    "\/scss\/elements\/components\/_utility-classes.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -2638,13 +2638,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_resets.css",
+      "oAP" : "\/scss\/elements\/css\/_utility-classes.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/_typography.scss" : {
+    "\/scss\/elements\/components\/extras\/_code-blocks.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -2652,13 +2652,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_typography.css",
+      "oAP" : "\/scss\/elements\/components\/css\/_code-blocks.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/_utility-classes.scss" : {
+    "\/scss\/elements\/components\/extras\/_sticky-footer.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -2666,13 +2666,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_utility-classes.css",
+      "oAP" : "\/scss\/elements\/components\/css\/_sticky-footer.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/extras\/_code-blocks.scss" : {
+    "\/scss\/elements\/page-blocks\/_body.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -2680,13 +2680,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_code-blocks.css",
+      "oAP" : "\/scss\/elements\/css\/_body.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/extras\/_sticky-footer.scss" : {
+    "\/scss\/elements\/page-blocks\/_footer.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -2694,7 +2694,49 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_sticky-footer.css",
+      "oAP" : "\/scss\/elements\/css\/_footer.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/page-blocks\/_header.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/elements\/css\/_header.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/page-blocks\/_nav.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/elements\/css\/_nav.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/page-blocks\/_page-blocks.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/elements\/css\/_page-blocks.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,

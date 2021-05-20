@@ -1,31 +1,31 @@
 // Custom variables
 @import 'var/_var.scss';
 
-// Functions
-@import 'functions/_functions.scss';
-
-// NORMALIZE.CSS
-@import '_normalize.scss';
-
 // BOURBON-NEAT FILES
 @import '../bower_components/bourbon/app/assets/stylesheets/_bourbon.scss';
 @import '../assets/neat/_grid-settings.scss';
 @import '../assets/neat/_neat.scss';
 
+// Functions
+@import 'functions/_functions.scss';
+
+// Elements
+@import 'elements/_elements.scss';
+
 // STYLE COMPONENTS
-@import 'components/_typography.scss';
-@import 'components/_resets.scss';
-@import 'components/_buttons.scss';
-@import 'components/_utility-classes.scss';
-@import 'components/_angles.scss';
-@import 'components/_extras.scss'; // IMPORT 'EXTRAS' PARTIALS AS NEEDED
+// @import 'components/_typography.scss';
+// @import 'components/_resets.scss';
+// @import 'components/_buttons.scss';
+// @import 'components/_utility-classes.scss';
+// @import 'components/_angles.scss';
+// @import 'components/_extras.scss'; // IMPORT 'EXTRAS' PARTIALS AS NEEDED
 
 
 // STANDARD PAGE BLOCKS
-@import 'blocks/_body.scss';
-@import 'blocks/_header.scss';
-@import 'blocks/_nav.scss';
-@import 'blocks/_footer.scss';
+// @import 'blocks/_body.scss';
+// @import 'blocks/_header.scss';
+// @import 'blocks/_nav.scss';
+// @import 'blocks/_footer.scss';
 
 // INDIVIDUAL PAGE STYLES
 @import 'pages/_pages.scss';
