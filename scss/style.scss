@@ -1,7 +1,11 @@
+// Custom variables
 @import 'var/_var.scss';
 
+// Functions
+@import 'functions/_functions.scss';
+
 // NORMALIZE.CSS
-@import 'settings/_normalize.scss';
+@import '_normalize.scss';
 
 // BOURBON-NEAT FILES
 @import '../bower_components/bourbon/app/assets/stylesheets/_bourbon.scss';
