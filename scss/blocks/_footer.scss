@@ -1,8 +1,6 @@
-@import "../settings/_settings.scss";
-
-$max-890: "only screen and (max-width : 890px)";
-$max-740: "only screen and (max-width : 740px)";
-$max-540: "only screen and (max-width : 540px)";
+$max-890: 'only screen and (max-width : 890px)';
+$max-740: 'only screen and (max-width : 740px)';
+$max-540: 'only screen and (max-width : 540px)';
 
 
 
@@ -22,7 +20,6 @@ footer.static {
 
 	.contact-info,
 	.footer-nav {
-
 		h5 {
 			margin-bottom: rem(20);
 			text-transform: none;
@@ -157,7 +154,7 @@ footer.static {
 	}
 
 	@media #{$max-540} {
-		.footer-nav ul  {
+		.footer-nav ul {
 			margin-bottom: 0;
 
 			li {

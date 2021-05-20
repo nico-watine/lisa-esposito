@@ -1,10 +1,7 @@
-@import "../../../settings/_settings.scss";
-
-
-$max-1101: "only screen and (max-width : 1101px)";
-$max-601: "only screen and (max-width : 601px)";
-$max-481: "only screen and (max-width : 481px)";
-$max-401: "only screen and (max-width : 401px)";
+$max-1101: 'only screen and (max-width : 1101px)';
+$max-601: 'only screen and (max-width : 601px)';
+$max-481: 'only screen and (max-width : 481px)';
+$max-401: 'only screen and (max-width : 401px)';
 
 .angled-div#landing {
 	width: 30%;
@@ -16,10 +13,10 @@ $max-401: "only screen and (max-width : 401px)";
 }
 
 .angled-div#landing:after {
-    border-top: 0 solid transparent;
-    border-bottom: 670px solid $base-white;
-    border-left: 0 solid transparent;
-    border-right: 150px solid transparent;
+	border-top: 0 solid transparent;
+	border-bottom: 670px solid $base-white;
+	border-left: 0 solid transparent;
+	border-right: 150px solid transparent;
 	right: -150px;
 	top: 0;
 }

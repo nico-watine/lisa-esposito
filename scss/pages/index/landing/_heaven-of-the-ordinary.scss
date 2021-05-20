@@ -1,6 +1,4 @@
-@import "../../../settings/_settings.scss";
-
-$max-700: "only screen and (max-width : 43.750em)";
+$max-700: 'only screen and (max-width : 43.750em)';
 
 #index {
 	header {
@@ -11,4 +9,3 @@ $max-700: "only screen and (max-width : 43.750em)";
 		}
 	}
 }
-

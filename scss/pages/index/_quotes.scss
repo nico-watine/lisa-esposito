@@ -1,9 +1,7 @@
-@import "../../settings/_settings.scss";
-
-$max-1441: "only screen and (max-width : 1441px)";
-$max-601: "only screen and (max-width : 601px)";
-$max-481: "only screen and (max-width : 481px)";
-$max-401: "only screen and (max-width : 401px)";
+$max-1441: 'only screen and (max-width : 1441px)';
+$max-601: 'only screen and (max-width : 601px)';
+$max-481: 'only screen and (max-width : 481px)';
+$max-401: 'only screen and (max-width : 401px)';
 
 section.quoted {
 	width: 100%;
@@ -77,5 +75,4 @@ section.quoted {
 	@media #{$max-401} {
 		padding-top: rem(50);
 	}
-
 }

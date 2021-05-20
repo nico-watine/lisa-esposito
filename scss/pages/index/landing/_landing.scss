@@ -1,15 +1,13 @@
-@import "../../../settings/_settings.scss";
-
-@import "_angles.scss";
-@import "_heaven-of-the-ordinary.scss";
+@import '_angles.scss';
+@import '_heaven-of-the-ordinary.scss';
 // @import "_escape-artist.scss";
 
 
 
-$max-881: "only screen and (max-width : 881px)";
-$max-601: "only screen and (max-width : 601px)";
-$max-481: "only screen and (max-width : 481px)";
-$max-401: "only screen and (max-width : 401px)";
+$max-881: 'only screen and (max-width : 881px)';
+$max-601: 'only screen and (max-width : 601px)';
+$max-481: 'only screen and (max-width : 481px)';
+$max-401: 'only screen and (max-width : 401px)';
 
 
 #index {
@@ -51,7 +49,7 @@ $max-401: "only screen and (max-width : 401px)";
 				li {
 					display: block;
 					margin-bottom: rem(10);
-					
+
 					a {
 						font-size: rem(26);
 					}
@@ -106,7 +104,6 @@ $max-401: "only screen and (max-width : 401px)";
 		}
 
 		@media #{$max-881} {
-
 			.verbiage {
 				h1 {
 					font-size: rem(44);
@@ -142,7 +139,8 @@ $max-401: "only screen and (max-width : 401px)";
 			}
 		}
 
-		@include media($small-plus) { // 701px
+		@include media($small-plus) {
+			// 701px
 			border-bottom: 0;
 
 			nav,
@@ -195,17 +193,16 @@ $max-401: "only screen and (max-width : 401px)";
 			#contact-info {
 				text-align: right;
 				right: 7%;
-				
+
 				.row {
 					h4#phone {
 						margin-right: 0;
-					}	
+					}
 				}
 			}
 		}
 
 		@media #{$max-601} {
-
 			.verbiage {
 				height: 44%;
 				top: 46%;
@@ -221,13 +218,13 @@ $max-401: "only screen and (max-width : 401px)";
 			}
 
 			#contact-info {
-			    display: block;
+				display: block;
 
-			    .row h4,
-			    h4 {
-			    	font-size: rem(16);
-			    	margin-bottom: rem(5);
-			    }
+				.row h4,
+				h4 {
+					font-size: rem(16);
+					margin-bottom: rem(5);
+				}
 			}
 		}
 
@@ -240,7 +237,7 @@ $max-401: "only screen and (max-width : 401px)";
 
 				h1 {
 					font-size: rem(35);
-					
+
 					span {
 						font-size: rem(18);
 					}
@@ -249,7 +246,6 @@ $max-401: "only screen and (max-width : 401px)";
 		}
 
 		@media #{$max-401} {
-
 			.verbiage {
 				top: 35%;
 				height: 65%;
@@ -268,4 +264,3 @@ $max-401: "only screen and (max-width : 401px)";
 		}
 	}
 }
-

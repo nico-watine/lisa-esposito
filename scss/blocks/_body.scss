@@ -1,6 +1,4 @@
-@import "../settings/_settings.scss";
-
-$max-720: "only screen and (max-width : 720px)";
+$max-720: 'only screen and (max-width : 720px)';
 
 body {
 	background: $base-white url('/img/assets/backgrounds/heaven-of-the-ordinary/body_default.jpg') no-repeat;
@@ -8,7 +6,7 @@ body {
 
 	@media #{$max-720} {
 		background: $base-white url('/img/assets/backgrounds/heaven-of-the-ordinary/body_720.jpg') no-repeat;
-		background-position: right top;		
+		background-position: right top;
 	}
 }
 

@@ -75,6 +75,14 @@
       "oAP" : "\/_ignores\/urls.txt",
       "oF" : 0
     },
+    "\/.editorconfig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/.editorconfig",
+      "oF" : 0
+    },
     "\/.gitignore" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1745,217 +1753,6 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/bower_components\/REM-unit-polyfill\/.bower.json" : {
-      "ft" : 524288,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/REM-unit-polyfill\/.bower.json",
-      "oF" : 0,
-      "oO" : 0,
-      "oS" : 1
-    },
-    "\/bower_components\/REM-unit-polyfill\/bower.json" : {
-      "ft" : 524288,
-      "oA" : 1,
-      "oAP" : "\/bower_components\/REM-unit-polyfill\/bower.json",
-      "oF" : 0,
-      "oO" : 0,
-      "oS" : 1
-    },
-    "\/bower_components\/REM-unit-polyfill\/css\/foundation.css" : {
-      "aP" : 0,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/REM-unit-polyfill\/css\/foundation.css",
-      "oF" : 0,
-      "pg" : 0
-    },
-    "\/bower_components\/REM-unit-polyfill\/css\/general.css" : {
-      "aP" : 0,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/REM-unit-polyfill\/css\/general.css",
-      "oF" : 0,
-      "pg" : 0
-    },
-    "\/bower_components\/REM-unit-polyfill\/css\/ignore.css" : {
-      "aP" : 0,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/REM-unit-polyfill\/css\/ignore.css",
-      "oF" : 0,
-      "pg" : 0
-    },
-    "\/bower_components\/REM-unit-polyfill\/css\/importee1.css" : {
-      "aP" : 0,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/REM-unit-polyfill\/css\/importee1.css",
-      "oF" : 0,
-      "pg" : 0
-    },
-    "\/bower_components\/REM-unit-polyfill\/css\/importee2.css" : {
-      "aP" : 0,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/REM-unit-polyfill\/css\/importee2.css",
-      "oF" : 0,
-      "pg" : 0
-    },
-    "\/bower_components\/REM-unit-polyfill\/css\/importer.css" : {
-      "aP" : 0,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/REM-unit-polyfill\/css\/importer.css",
-      "oF" : 0,
-      "pg" : 0
-    },
-    "\/bower_components\/REM-unit-polyfill\/css\/nested_imports\/nested_importee1.css" : {
-      "aP" : 0,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/REM-unit-polyfill\/css\/nested_imports\/nested_importee1.css",
-      "oF" : 0,
-      "pg" : 0
-    },
-    "\/bower_components\/REM-unit-polyfill\/css\/nested_imports\/nested_importee2.css" : {
-      "aP" : 0,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/bower_components\/REM-unit-polyfill\/css\/nested_imports\/nested_importee2.css",
-      "oF" : 0,
-      "pg" : 0
-    },
-    "\/bower_components\/REM-unit-polyfill\/css\/nested_imports\/nested_importer.css" : {
-      "aP" : 0,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/bower_components\/REM-unit-polyfill\/css\/nested_imports\/nested_importer.css",
-      "oF" : 0,
-      "pg" : 0
-    },
-    "\/bower_components\/REM-unit-polyfill\/Gruntfile.coffee" : {
-      "ft" : 32,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/REM-unit-polyfill\/Gruntfile.coffee",
-      "oF" : 0,
-      "oS" : 0,
-      "sC" : 1,
-      "tS" : 1
-    },
-    "\/bower_components\/REM-unit-polyfill\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/REM-unit-polyfill\/index.html",
-      "oF" : 0
-    },
-    "\/bower_components\/REM-unit-polyfill\/js\/rem.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/REM-unit-polyfill\/js\/rem.js",
-      "oF" : 0,
-      "sC" : 1,
-      "tS" : 0
-    },
-    "\/bower_components\/REM-unit-polyfill\/js\/rem.min.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 1,
-      "oAP" : "\/bower_components\/REM-unit-polyfill\/js\/rem.min.js",
-      "oF" : 0,
-      "sC" : 1,
-      "tS" : 0
-    },
-    "\/bower_components\/REM-unit-polyfill\/LICENSE.md" : {
-      "cB" : 0,
-      "cS" : 0,
-      "eF" : 0,
-      "eL" : 1,
-      "ema" : 1,
-      "eSQ" : 1,
-      "ft" : 4096,
-      "hM" : 0,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/REM-unit-polyfill\/LICENSE.md",
-      "oF" : 0,
-      "oFM" : 0,
-      "oS" : 0,
-      "pHT" : 0,
-      "pME" : 1,
-      "rFN" : 0,
-      "uCM" : 0
-    },
-    "\/bower_components\/REM-unit-polyfill\/package.json" : {
-      "ft" : 524288,
-      "oA" : 1,
-      "oAP" : "\/bower_components\/REM-unit-polyfill\/package.json",
-      "oF" : 0,
-      "oO" : 0,
-      "oS" : 1
-    },
-    "\/bower_components\/REM-unit-polyfill\/README.md" : {
-      "cB" : 0,
-      "cS" : 0,
-      "eF" : 0,
-      "eL" : 1,
-      "ema" : 1,
-      "eSQ" : 1,
-      "ft" : 4096,
-      "hM" : 0,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/REM-unit-polyfill\/README.md",
-      "oF" : 0,
-      "oFM" : 0,
-      "oS" : 0,
-      "pHT" : 0,
-      "pME" : 1,
-      "rFN" : 0,
-      "uCM" : 0
-    },
     "\/bower.json" : {
       "ft" : 524288,
       "oA" : 1,
@@ -2613,20 +2410,6 @@
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/blocks\/_main.scss" : {
-      "aP" : 1,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/css\/_main.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
     "\/scss\/blocks\/_nav.scss" : {
       "aP" : 1,
       "bl" : 0,
@@ -2767,20 +2550,6 @@
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/dev\/_pages.scss" : {
-      "aP" : 1,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/css\/_pages.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
     "\/scss\/pages\/index\/_bio.scss" : {
       "aP" : 1,
       "bl" : 0,
@@ -2790,20 +2559,6 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/css\/_bio.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
-    "\/scss\/pages\/index\/_footer.scss" : {
-      "aP" : 1,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/css\/_footer.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -3114,14 +2869,7 @@
 
   ],
   "manualImportLinks" : {
-    "\/js\/src\/ie.js" : [
-      {
-        "followForSyntaxChecking" : 0,
-        "linkedFileAbbreviatedPath" : "\/bower_components\/REM-unit-polyfill\/js\/rem.min.js",
-        "position" : 0,
-        "type" : 1
-      }
-    ]
+
   },
   "projectAttributes" : {
     "creationDate" : 506169111,

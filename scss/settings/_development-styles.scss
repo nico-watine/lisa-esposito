@@ -1,33 +1,28 @@
-@import "../settings/_settings.scss";
-
 // MISC STYLING NOTES
 
 
 
 
 body {
-
 	background: yellow;
-	
+
 	@include media($large) {
-		background: red; 
+		background: red;
 	}
 
 	@include media($medium) {
-		background: blue; 
+		background: blue;
 	}
 
 	@include media($android) {
-		background: yellow; 
+		background: yellow;
 	}
 
 	@include media($small) {
-		background: green; 
+		background: green;
 	}
 
 	@include media($tiny) {
 		background: purple;
 	}
 }
-
-

@@ -1,6 +1,4 @@
-@import "../../settings/_settings.scss";
-
-$max-481: "only screen and (max-width : 481px)";
+$max-481: 'only screen and (max-width : 481px)';
 
 body#index {
 	background: $base-white;
@@ -9,7 +7,7 @@ body#index {
 #index {
 	aside {
 		position: absolute;
-		
+
 		a {
 			color: #fff;
 		}
@@ -49,8 +47,7 @@ section.bio {
 }
 
 
-@import "landing/_landing.scss";
-@import "gallery-link/_gallery-link.scss";
-@import "_bio.scss";
-@import "_quotes.scss";
-@import "_footer.scss";
+@import 'landing/_landing.scss';
+@import 'gallery-link/_gallery-link.scss';
+@import '_bio.scss';
+@import '_quotes.scss';
