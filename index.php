@@ -61,7 +61,7 @@
 
 <section class="gallery-link" id="earth-works">
 		<div class="verbiage">
-			<a href="/galleries/mindscapes/" class="verbiage-link">
+			<a href="/galleries/earth-works/" class="verbiage-link">
 				<h3 class="gallery-title">Earth Works</h3>
 			</a>
 		</div>
@@ -79,7 +79,7 @@
 
 <section class="gallery-link" id="mindscapes">
 		<div class="verbiage">
-			<a href="/galleries/linear-abstraction/" class="verbiage-link">
+			<a href="/galleries/mindscapes/" class="verbiage-link">
 				<h3 class="gallery-title">Mindscapes</h3>
 			</a>
 		</div>
