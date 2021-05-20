@@ -5,47 +5,47 @@ $max-401: 'only screen and (max-width : 401px)';
 
 section.quoted {
 	width: 100%;
-	height: em(480);
+	height: rem-calc(480);
 	background: url('/img/index/quoted/back-to-center.jpg') no-repeat;
 	background-size: 100%;
 	position: relative;
 	background-position: center;
-	border-top: em(8) solid $base-white;
+	border-top: rem-calc(8) solid $base-white;
 	text-align: center;
 	color: #fff;
-	padding-top: em(130);
+	padding-top: rem-calc(130);
 
 	@media #{$max-1441} {
 		background-size: inherit;
 	}
 
 	h2 {
-		font-size: rem(32);
+		font-size: rem-calc(32);
 		font-weight: $body-font-weight;
-		margin-bottom: rem(42);
-		padding: 0 rem(25);
+		margin-bottom: rem-calc(42);
+		padding: 0 rem-calc(25);
 	}
 
 	h3 {
-		margin-bottom: rem(40);
+		margin-bottom: rem-calc(40);
 		font-weight: $header-font-weight;
 	}
 
 	aside {
-		bottom: em(40);
-		right: em(50);
+		bottom: rem-calc(40);
+		right: rem-calc(50);
 	}
 
 	@include media($medium) {
 		background: url('/img/index/quoted/back-to-center@mobile.jpg') no-repeat;
 		h2 {
-			font-size: rem(25);
+			font-size: rem-calc(25);
 		}
 	}
 
 	@include media($small-plus) {
-		height: em(310);
-		padding-top: rem(75);
+		height: rem-calc(310);
+		padding-top: rem-calc(75);
 
 		aside {
 			right: 3%;
@@ -53,7 +53,7 @@ section.quoted {
 
 			h4 {
 				a {
-					font-size: rem(16);
+					font-size: rem-calc(16);
 				}
 			}
 		}
@@ -61,18 +61,18 @@ section.quoted {
 
 	@media #{$max-601} {
 		h2 {
-			font-size: rem(22);
+			font-size: rem-calc(22);
 		}
 	}
 
 	@media #{$max-481} {
 		h2 {
-			font-size: rem(18);
-			margin-bottom: rem(32);
+			font-size: rem-calc(18);
+			margin-bottom: rem-calc(32);
 		}
 	}
 
 	@media #{$max-401} {
-		padding-top: rem(50);
+		padding-top: rem-calc(50);
 	}
 }

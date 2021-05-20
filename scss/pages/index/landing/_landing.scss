@@ -12,15 +12,15 @@ $max-401: 'only screen and (max-width : 401px)';
 
 #index {
 	header {
-		height: em(700);
-		border-bottom: em(30) solid $base-white;
+		height: rem-calc(700);
+		border-bottom: rem-calc(30) solid $base-white;
 		position: relative;
 
 		.verbiage {
 			position: absolute;
 			height: 100%;
 			left: 0;
-			padding: em(80) 0 0 em(40);
+			padding: rem-calc(80) 0 0 rem-calc(40);
 			z-index: 10;
 
 			h1,
@@ -29,16 +29,16 @@ $max-401: 'only screen and (max-width : 401px)';
 			}
 
 			h1 {
-				font-size: rem(72);
+				font-size: rem-calc(72);
 
 				span {
-					font-size: rem(40);
+					font-size: rem-calc(40);
 				}
 			}
 
 			h2 {
-				font-size: rem(45);
-				margin-bottom: rem(60);
+				font-size: rem-calc(45);
+				margin-bottom: rem-calc(60);
 			}
 		}
 
@@ -48,10 +48,10 @@ $max-401: 'only screen and (max-width : 401px)';
 				padding: 0;
 				li {
 					display: block;
-					margin-bottom: rem(10);
+					margin-bottom: rem-calc(10);
 
 					a {
-						font-size: rem(26);
+						font-size: rem-calc(26);
 					}
 				}
 			}
@@ -63,38 +63,38 @@ $max-401: 'only screen and (max-width : 401px)';
 					display: inline-block;
 				}
 				h4#phone {
-					margin-right: rem(40);
+					margin-right: rem-calc(40);
 				}
 			}
 			position: absolute;
-			bottom: em(60);
+			bottom: rem-calc(60);
 			display: block;
 		}
 
 		@include media($large) {
-			height: em(550);
+			height: rem-calc(550);
 
 			.verbiage {
-				padding-top: em(10);
+				padding-top: rem-calc(10);
 
 				h1 {
-					font-size: rem(60);
+					font-size: rem-calc(60);
 
 					span {
-						font-size: rem(32);
+						font-size: rem-calc(32);
 					}
 				}
 
 				h2 {
-					font-size: rem(40);
-					margin-bottom: rem(30);
+					font-size: rem-calc(40);
+					margin-bottom: rem-calc(30);
 				}
 			}
 
 			#contact-info {
 				h4,
 				.row h4 {
-					font-size: rem(20);
+					font-size: rem-calc(20);
 					display: block;
 				}
 				h4#phone {
@@ -106,35 +106,35 @@ $max-401: 'only screen and (max-width : 401px)';
 		@media #{$max-881} {
 			.verbiage {
 				h1 {
-					font-size: rem(44);
+					font-size: rem-calc(44);
 
 					span {
-						font-size: rem(22);
+						font-size: rem-calc(22);
 					}
 				}
 				h2 {
-					font-size: rem(30);
+					font-size: rem-calc(30);
 				}
 			}
 			nav {
 				ul.vertical-list {
 					li {
 						a {
-							font-size: rem(22);
+							font-size: rem-calc(22);
 						}
 					}
 				}
 			}
 
 			aside {
-				top: em(10);
-				right: em(10);
+				top: rem-calc(10);
+				right: rem-calc(10);
 			}
 
 			#contact-info {
 				h4,
 				.row h4 {
-					font-size: rem(18);
+					font-size: rem-calc(18);
 				}
 			}
 		}
@@ -157,7 +157,7 @@ $max-401: 'only screen and (max-width : 401px)';
 
 				h1 {
 					color: #fff;
-					margin-bottom: rem(20);
+					margin-bottom: rem-calc(20);
 				}
 
 				h2 {
@@ -165,26 +165,26 @@ $max-401: 'only screen and (max-width : 401px)';
 				}
 
 				#contact-info {
-					top: em(140);
+					top: rem-calc(140);
 				}
 			}
 
 			aside {
-				top: em(10);
-				right: em(10);
+				top: rem-calc(10);
+				right: rem-calc(10);
 			}
 
 			nav {
 				display: block;
 
 				ul.vertical-list {
-					margin-bottom: rem(36);
+					margin-bottom: rem-calc(36);
 
 					li {
-						margin-bottom: rem(6);
+						margin-bottom: rem-calc(6);
 
 						a {
-							font-size: rem(18);
+							font-size: rem-calc(18);
 						}
 					}
 				}
@@ -208,12 +208,12 @@ $max-401: 'only screen and (max-width : 401px)';
 				top: 46%;
 
 				h1 {
-					font-size: rem(40);
-					margin-bottom: rem(10);
+					font-size: rem-calc(40);
+					margin-bottom: rem-calc(10);
 				}
 
 				h2 {
-					font-size: rem(25);
+					font-size: rem-calc(25);
 				}
 			}
 
@@ -222,24 +222,24 @@ $max-401: 'only screen and (max-width : 401px)';
 
 				.row h4,
 				h4 {
-					font-size: rem(16);
-					margin-bottom: rem(5);
+					font-size: rem-calc(16);
+					margin-bottom: rem-calc(5);
 				}
 			}
 		}
 
 		@media #{$max-481} {
-			height: em(520);
+			height: rem-calc(520);
 
 			.verbiage {
 				top: 40%;
 				height: 60%;
 
 				h1 {
-					font-size: rem(35);
+					font-size: rem-calc(35);
 
 					span {
-						font-size: rem(18);
+						font-size: rem-calc(18);
 					}
 				}
 			}
@@ -251,7 +251,7 @@ $max-401: 'only screen and (max-width : 401px)';
 				height: 65%;
 
 				h2 {
-					font-size: rem(20);
+					font-size: rem-calc(20);
 				}
 
 				#contact-info {

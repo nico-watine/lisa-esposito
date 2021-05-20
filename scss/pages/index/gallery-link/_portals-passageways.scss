@@ -2,22 +2,22 @@ $max-481: 'only screen and (max-width : 481px)';
 
 
 .gallery-link#portals-passageways {
-	height: em(420);
-	border-bottom: em(20) solid #4a4a4a;
+	height: rem-calc(420);
+	border-bottom: rem-calc(20) solid #4a4a4a;
 	background: url('/img/index/gallery-link/portals-passageways/wandering-forth.jpg') right top/cover no-repeat;
 
 	.verbiage {
 		text-align: left;
 		position: absolute;
 		left: 0;
-		padding: em(140) 0 0 em(40);
+		padding: rem-calc(140) 0 0 rem-calc(40);
 		z-index: 10;
 	}
 
 	.angled-div {
 		left: 0;
 		top: 0;
-		margin-right: em(150);
+		margin-right: rem-calc(150);
 	}
 	.angled-div:after {
 		right: -150px;
@@ -30,22 +30,22 @@ $max-481: 'only screen and (max-width : 481px)';
 
 	@include media($large) {
 		.verbiage {
-			padding-top: em(270);
+			padding-top: rem-calc(270);
 		}
 	}
 
 	@include media($small-plus) {
-		height: em(300);
+		height: rem-calc(300);
 		background: url('/img/index/gallery-link/portals-passageways/700w/wandering-forth.jpg') center center/cover no-repeat;
 
 		.verbiage {
 			padding: 0;
-			top: em(180);
-			left: em(40);
+			top: rem-calc(180);
+			left: rem-calc(40);
 		}
 
 		.angled-div {
-			margin-right: em(100);
+			margin-right: rem-calc(100);
 		}
 
 		.angled-div:after {

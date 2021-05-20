@@ -853,14 +853,14 @@ body#index {
 
 .gallery-link#linear-abstraction aside,
 section.bio aside {
-  bottom: 0.9375em;
-  left: 1.875em;
+  bottom: 0.9375rem;
+  left: 1.875rem;
 }
 
 #index header aside,
 .gallery-link#lyrical-abstraction aside {
-  top: 1.875em;
-  right: 1.875em;
+  top: 1.875rem;
+  right: 1.875rem;
 }
 
 @media screen and (max-width: 46.875em) {
@@ -877,11 +877,11 @@ section.bio aside {
 
 .angled-div#landing {
   width: 30%;
-  height: 41.875em;
+  height: 41.875rem;
   background: #F6F6F6;
   top: 0;
   left: 0;
-  margin-right: 9.375em;
+  margin-right: 9.375rem;
 }
 
 .angled-div#landing:after {
@@ -901,7 +901,7 @@ section.bio aside {
 
 @media screen and (max-width: 62.5em) {
   .angled-div#landing {
-    height: 34.375em;
+    height: 34.375rem;
   }
   .angled-div#landing:after {
     border-bottom: 550px solid #F6F6F6;
@@ -951,8 +951,8 @@ section.bio aside {
 }
 
 #index header {
-  height: 43.75em;
-  border-bottom: 1.875em solid #F6F6F6;
+  height: 43.75rem;
+  border-bottom: 1.875rem solid #F6F6F6;
   position: relative;
 }
 
@@ -960,7 +960,7 @@ section.bio aside {
   position: absolute;
   height: 100%;
   left: 0;
-  padding: 5em 0 0 2.5em;
+  padding: 5rem 0 0 2.5rem;
   z-index: 10;
 }
 
@@ -998,7 +998,7 @@ section.bio aside {
 
 #index header #contact-info {
   position: absolute;
-  bottom: 3.75em;
+  bottom: 3.75rem;
   display: block;
 }
 
@@ -1012,10 +1012,10 @@ section.bio aside {
 
 @media screen and (max-width: 62.5em) {
   #index header {
-    height: 34.375em;
+    height: 34.375rem;
   }
   #index header .verbiage {
-    padding-top: 0.625em;
+    padding-top: 0.625rem;
   }
   #index header .verbiage h1 {
     font-size: 3.75rem;
@@ -1051,8 +1051,8 @@ section.bio aside {
     font-size: 1.375rem;
   }
   #index header aside {
-    top: 0.625em;
-    right: 0.625em;
+    top: 0.625rem;
+    right: 0.625rem;
   }
   #index header #contact-info h4,
 #index header #contact-info .row h4 {
@@ -1083,11 +1083,11 @@ section.bio aside {
     margin-bottom: 0;
   }
   #index header .verbiage #contact-info {
-    top: 8.75em;
+    top: 8.75rem;
   }
   #index header aside {
-    top: 0.625em;
-    right: 0.625em;
+    top: 0.625rem;
+    right: 0.625rem;
   }
   #index header nav {
     display: block;
@@ -1134,7 +1134,7 @@ section.bio aside {
 
 @media only screen and (max-width : 481px) {
   #index header {
-    height: 32.5em;
+    height: 32.5rem;
   }
   #index header .verbiage {
     top: 40%;
@@ -1165,8 +1165,8 @@ section.bio aside {
 }
 
 .gallery-link#portals-passageways {
-  height: 26.25em;
-  border-bottom: 1.25em solid #4a4a4a;
+  height: 26.25rem;
+  border-bottom: 1.25rem solid #4a4a4a;
   background: url("/img/index/gallery-link/portals-passageways/wandering-forth.jpg") right top/cover no-repeat;
 }
 
@@ -1174,14 +1174,14 @@ section.bio aside {
   text-align: left;
   position: absolute;
   left: 0;
-  padding: 8.75em 0 0 2.5em;
+  padding: 8.75rem 0 0 2.5rem;
   z-index: 10;
 }
 
 .gallery-link#portals-passageways .angled-div {
   left: 0;
   top: 0;
-  margin-right: 9.375em;
+  margin-right: 9.375rem;
 }
 
 .gallery-link#portals-passageways .angled-div:after {
@@ -1195,22 +1195,22 @@ section.bio aside {
 
 @media screen and (max-width: 62.5em) {
   .gallery-link#portals-passageways .verbiage {
-    padding-top: 16.875em;
+    padding-top: 16.875rem;
   }
 }
 
 @media screen and (max-width: 43.8125em) {
   .gallery-link#portals-passageways {
-    height: 18.75em;
+    height: 18.75rem;
     background: url("/img/index/gallery-link/portals-passageways/700w/wandering-forth.jpg") center center/cover no-repeat;
   }
   .gallery-link#portals-passageways .verbiage {
     padding: 0;
-    top: 11.25em;
-    left: 2.5em;
+    top: 11.25rem;
+    left: 2.5rem;
   }
   .gallery-link#portals-passageways .angled-div {
-    margin-right: 6.25em;
+    margin-right: 6.25rem;
   }
   .gallery-link#portals-passageways .angled-div:after {
     right: -100px;
@@ -1228,8 +1228,8 @@ section.bio aside {
 }
 
 .gallery-link#earth-works {
-  height: 28.75em;
-  border-bottom: 1.25em solid #4a4a4a;
+  height: 28.75rem;
+  border-bottom: 1.25rem solid #4a4a4a;
   background: url("/img/index/gallery-link/earth-works/hope-on-the-horizon.jpg") no-repeat;
   background-position: left top;
   background-size: cover;
@@ -1252,7 +1252,7 @@ section.bio aside {
 .gallery-link#earth-works .angled-div {
   right: 0;
   top: 0;
-  margin-left: 9.375em;
+  margin-left: 9.375rem;
 }
 
 .gallery-link#earth-works .angled-div:after {
@@ -1266,21 +1266,21 @@ section.bio aside {
 
 @media screen and (max-width: 62.5em) {
   .gallery-link#earth-works .verbiage {
-    padding-top: 3.75em;
+    padding-top: 3.75rem;
   }
 }
 
 @media screen and (max-width: 43.8125em) {
   .gallery-link#earth-works {
-    height: 18.75em;
+    height: 18.75rem;
   }
   .gallery-link#earth-works .verbiage {
     padding: 0;
-    top: 2.5em;
-    right: 2.5em;
+    top: 2.5rem;
+    right: 2.5rem;
   }
   .gallery-link#earth-works .angled-div {
-    margin-left: 6.25em;
+    margin-left: 6.25rem;
   }
   .gallery-link#earth-works .angled-div:after {
     left: -100px;
@@ -1300,8 +1300,8 @@ section.bio aside {
 }
 
 .gallery-link#mindscapes {
-  height: 28.75em;
-  border-bottom: 1.25em solid #4a4a4a;
+  height: 28.75rem;
+  border-bottom: 1.25rem solid #4a4a4a;
   background: url("/img/index/gallery-link/mindscapes/netherworld.jpg") no-repeat;
   background-position: left top;
   background-size: cover;
@@ -1318,7 +1318,7 @@ section.bio aside {
 .gallery-link#mindscapes .angled-div {
   right: 0;
   top: 0;
-  margin-left: 9.375em;
+  margin-left: 9.375rem;
 }
 
 .gallery-link#mindscapes .angled-div:after {
@@ -1332,7 +1332,7 @@ section.bio aside {
 
 @media screen and (max-width: 62.5em) {
   .gallery-link#mindscapes .verbiage {
-    padding-top: 3.75em;
+    padding-top: 3.75rem;
   }
 }
 
@@ -1345,15 +1345,15 @@ section.bio aside {
 
 @media screen and (max-width: 43.8125em) {
   .gallery-link#mindscapes {
-    height: 18.75em;
+    height: 18.75rem;
   }
   .gallery-link#mindscapes .verbiage {
     padding: 0;
-    top: 2.5em;
-    right: 2.5em;
+    top: 2.5rem;
+    right: 2.5rem;
   }
   .gallery-link#mindscapes .angled-div {
-    margin-left: 6.25em;
+    margin-left: 6.25rem;
   }
   .gallery-link#mindscapes .angled-div:after {
     left: -100px;
@@ -1426,7 +1426,7 @@ section.bio aside {
 }
 
 section.bio {
-  height: 33.125em;
+  height: 33.125rem;
   background: #F6F6F6 url("/img/index/bio/echoes-of-time.jpg") left center/50% no-repeat;
 }
 
@@ -1444,7 +1444,7 @@ section.bio article.verbiage p {
 
 @media screen and (max-width: 62.5em) {
   section.bio {
-    height: 39.375em;
+    height: 39.375rem;
     background-size: auto 100%;
   }
   section.bio article.verbiage h2 {
@@ -1479,7 +1479,7 @@ section.bio article.verbiage p {
 
 @media only screen and (max-width : 37.563em) {
   section.bio {
-    padding-top: 12.5em;
+    padding-top: 12.5rem;
   }
   section.bio article.verbiage h2 {
     font-size: 1.875rem;
@@ -1503,15 +1503,15 @@ section.bio article.verbiage p {
 
 section.quoted {
   width: 100%;
-  height: 30em;
+  height: 30rem;
   background: url("/img/index/quoted/back-to-center.jpg") no-repeat;
   background-size: 100%;
   position: relative;
   background-position: center;
-  border-top: 0.5em solid #F6F6F6;
+  border-top: 0.5rem solid #F6F6F6;
   text-align: center;
   color: #fff;
-  padding-top: 8.125em;
+  padding-top: 8.125rem;
 }
 
 @media only screen and (max-width : 1441px) {
@@ -1533,8 +1533,8 @@ section.quoted h3 {
 }
 
 section.quoted aside {
-  bottom: 2.5em;
-  right: 3.125em;
+  bottom: 2.5rem;
+  right: 3.125rem;
 }
 
 @media screen and (max-width: 46.875em) {
@@ -1548,7 +1548,7 @@ section.quoted aside {
 
 @media screen and (max-width: 43.8125em) {
   section.quoted {
-    height: 19.375em;
+    height: 19.375rem;
     padding-top: 4.6875rem;
   }
   section.quoted aside {

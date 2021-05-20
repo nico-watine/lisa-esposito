@@ -17,23 +17,23 @@ body#index {
 .gallery-link#linear-abstraction,
 section.bio {
 	aside {
-		bottom: em(15);
-		left: em(30);
+		bottom: rem-calc(15);
+		left: rem-calc(30);
 	}
 }
 
 #index header,
 .gallery-link#lyrical-abstraction {
 	aside {
-		top: em(30);
-		right: em(30);
+		top: rem-calc(30);
+		right: rem-calc(30);
 	}
 }
 
 @include media($medium) {
 	aside {
 		a {
-			font-size: rem(20);
+			font-size: rem-calc(20);
 		}
 	}
 }
@@ -41,7 +41,7 @@ section.bio {
 @media #{$max-481} {
 	aside {
 		a {
-			font-size: rem(16);
+			font-size: rem-calc(16);
 		}
 	}
 }

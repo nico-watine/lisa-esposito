@@ -5,11 +5,11 @@ $max-401: 'only screen and (max-width : 401px)';
 
 .angled-div#landing {
 	width: 30%;
-	height: em(670);
+	height: rem-calc(670);
 	background: $base-white;
 	top: 0;
 	left: 0;
-	margin-right: em(150);
+	margin-right: rem-calc(150);
 }
 
 .angled-div#landing:after {
@@ -29,7 +29,7 @@ $max-401: 'only screen and (max-width : 401px)';
 
 @include media($large) {
 	.angled-div#landing {
-		height: em(550);
+		height: rem-calc(550);
 	}
 	.angled-div#landing:after {
 		border-bottom: 550px solid $base-white;
