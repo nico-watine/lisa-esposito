@@ -25,11 +25,6 @@
 
 	<link href="<?php autoVer('/css/style.css'); ?>" rel="stylesheet">
 
-	<!--[if lt IE 9]>
-		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-		<script src="<?php autoVer('/js/ie-min.js'); ?>"></script>
-	<![endif]-->
-
 </head>
 
 <body id="index">
