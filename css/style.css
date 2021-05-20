@@ -378,7 +378,7 @@ button {
   text-align: center;
   display: inline-block;
   border-radius: 0.3125rem;
-  font-size: em(22);
+  font-size: 1.375rem;
   padding: 1rem 2rem;
   text-decoration: none;
   color: #fff;
@@ -396,7 +396,7 @@ button:hover {
 @media screen and (max-width: 46.875em) {
   a.button,
 button {
-    font-size: em(16);
+    font-size: 1rem;
     padding: 0.8125rem 1.3125rem 1rem;
   }
 }
@@ -459,49 +459,49 @@ h6 {
 }
 
 h1 {
-  font-size: em(63);
+  font-size: 3.9375rem;
 }
 
 h2 {
-  font-size: em(45);
+  font-size: 2.8125rem;
 }
 
 h3,
 p.large {
-  font-size: em(31);
+  font-size: 1.9375rem;
 }
 
 h4 {
-  font-size: em(22);
+  font-size: 1.375rem;
 }
 
 h5 {
-  font-size: em(16);
+  font-size: 1rem;
 }
 
 h6 {
-  font-size: em(12);
+  font-size: 0.75rem;
 }
 
 @media screen and (max-width: 46.875em) {
   h1 {
-    font-size: em(45);
+    font-size: 2.8125rem;
   }
   h2 {
-    font-size: em(31);
+    font-size: 1.9375rem;
   }
   h3,
 p.large {
-    font-size: em(22);
+    font-size: 1.375rem;
   }
   h4 {
-    font-size: em(16);
+    font-size: 1rem;
   }
   h5 {
-    font-size: em(12);
+    font-size: 0.75rem;
   }
   h6 {
-    font-size: em(12);
+    font-size: 0.75rem;
   }
 }
 
