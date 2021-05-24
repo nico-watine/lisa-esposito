@@ -2588,20 +2588,6 @@
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/elements\/components\/typography\/_buttons.scss" : {
-      "aP" : 1,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/scss\/elements\/components\/css\/_buttons.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
     "\/scss\/elements\/components\/typography\/_font-face.scss" : {
       "aP" : 1,
       "bl" : 0,
