@@ -16,15 +16,16 @@ button {
 	color: #fff;
 	background-color: #777;
 
-	@include transition (background-color 200ms ease-out 0s);
-	@include transition (color 200ms ease-out 0s);
+	// @include transition (background-color 200ms ease-out 0s);
+	// @include transition (color 200ms ease-out 0s);
 
 	&:hover {
 		color: #000;
 		background-color: #ccc;
 	}
 
-	@include media($medium) {
+	// @include media($medium) {
+	@media #{$medium} {
 		font-size: $h5-size;
 		padding: rem-calc(13) rem-calc(21) rem-calc(16);
 	}

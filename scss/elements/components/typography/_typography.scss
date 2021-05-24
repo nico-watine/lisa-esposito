@@ -84,7 +84,8 @@ h6 {
 	font-size: $h6-size;
 }
 
-@include media($medium) {
+// @include media($medium) {
+@media #{$medium} {
 	h1 {
 		font-size: $h2-size;
 	}
