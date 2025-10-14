@@ -28,13 +28,15 @@ $max-481: 'only screen and (max-width : 481px)';
 		border-right: 150px solid transparent;
 	}
 
-	@include media($large) {
+	// @include media($large) {
+	@media #{$large} {
 		.verbiage {
 			padding-top: rem-calc(270);
 		}
 	}
 
-	@include media($small-plus) {
+	// @include media($small-plus) {
+	@media #{$small-plus} {
 		height: rem-calc(300);
 		background: url('/img/index/gallery-link/portals-passageways/700w/wandering-forth.jpg') center center/cover no-repeat;
 

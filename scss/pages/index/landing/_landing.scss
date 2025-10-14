@@ -71,7 +71,8 @@ $max-401: 'only screen and (max-width : 401px)';
 			display: block;
 		}
 
-		@include media($large) {
+		// @include media($large) {
+		@media #{$large} {
 			height: rem-calc(550);
 
 			.verbiage {
@@ -139,7 +140,8 @@ $max-401: 'only screen and (max-width : 401px)';
 			}
 		}
 
-		@include media($small-plus) {
+		// @include media($small-plus) {
+		@media #{$small-plus} {
 			// 701px
 			border-bottom: 0;
 

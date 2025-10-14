@@ -18,7 +18,8 @@ section.bio {
 		}
 	}
 
-	@include media($large) {
+	// @include media($large) {
+	@media #{$large} {
 		// 1000px
 		height: rem-calc(630);
 		background-size: auto 100%;
@@ -40,7 +41,8 @@ section.bio {
 		}
 	}
 
-	@include media($medium) {
+	// @include media($medium) {
+	@media #{$medium} {
 		// 750px
 		background: $base-white url('/img/index/bio/echoes-of-time_mobile.jpg') center top/100% auto no-repeat;
 		height: auto;

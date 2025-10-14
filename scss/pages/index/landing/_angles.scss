@@ -27,7 +27,8 @@ $max-401: 'only screen and (max-width : 401px)';
 	}
 }
 
-@include media($large) {
+// @include media($large) {
+@media #{$large} {
 	.angled-div#landing {
 		height: rem-calc(550);
 	}
@@ -36,7 +37,8 @@ $max-401: 'only screen and (max-width : 401px)';
 	}
 }
 
-@include media($small-plus) {
+// @include media($small-plus) {
+@media #{$small-plus} {
 	.angled-div#landing {
 		top: 60%;
 		width: 100%;

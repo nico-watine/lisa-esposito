@@ -30,7 +30,8 @@ section.bio {
 	}
 }
 
-@include media($medium) {
+// @include media($medium) {
+@media #{$medium} {
 	aside {
 		a {
 			font-size: rem-calc(20);

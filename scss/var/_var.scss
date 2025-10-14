@@ -45,4 +45,10 @@ $z-5: 0 rem-calc(17) rem-calc(17) 0 rgba(0,0,0,0.15), 0 rem-calc(27) rem-calc(55
 
 
 // Media Queries & Breakpoints //
+$large: "only screen and (max-width : 1000px)";
 $medium: "only screen and (max-width : 750px)";
+$small-plus: "only screen and (max-width : 701px)";
+$android: "only screen and (max-width : 610px)";
+$small: "only screen and (max-width : 500px)";
+$tiny: "only screen and (max-width : 380px)";
+

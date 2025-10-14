@@ -1,9 +1,31 @@
+// .outer-container {
+// 	@include outer-container;
+// }
+
+// .row {
+// 	@include row;
+// }
+
 .outer-container {
-	@include outer-container;
+	max-width: 75em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.outer-container::after {
+	clear: both;
+	content: '';
+	display: table;
 }
 
 .row {
-	@include row;
+	display: block;
+}
+
+.row::after {
+	clear: both;
+	content: '';
+	display: table;
 }
 
 .padding {

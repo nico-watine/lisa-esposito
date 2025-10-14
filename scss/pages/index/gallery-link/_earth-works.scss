@@ -38,7 +38,8 @@ $max-481: 'only screen and (max-width : 481px)';
 		border-right: 0 solid transparent;
 	}
 
-	@include media($large) {
+	// @include media($large) {
+	@media #{$large} {
 		.verbiage {
 			padding-top: rem-calc(60);
 		}
@@ -49,7 +50,8 @@ $max-481: 'only screen and (max-width : 481px)';
 	// 	background-position: left top;
 	// }
 
-	@include media($small-plus) {
+	// @include media($small-plus) {
+	@media #{$small-plus} {
 		height: rem-calc(300);
 
 		.verbiage {

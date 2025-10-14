@@ -528,7 +528,7 @@ img {
 
 .outer-container::after {
   clear: both;
-  content: "";
+  content: '';
   display: table;
 }
 
@@ -538,7 +538,7 @@ img {
 
 .row::after {
   clear: both;
-  content: "";
+  content: '';
   display: table;
 }
 
@@ -671,7 +671,7 @@ footer.static #snc-link a:hover {
   color: #444;
 }
 
-@media screen and (max-width: 62.5em) {
+@media max-width {
   footer.static .contact-info {
     padding: 0 0 0 1.25rem;
   }
@@ -828,7 +828,7 @@ section.bio aside {
   right: 1.875rem;
 }
 
-@media screen and (max-width: 46.875em) {
+@media max-width {
   aside a {
     font-size: 1.25rem;
   }
@@ -864,7 +864,7 @@ section.bio aside {
   }
 }
 
-@media screen and (max-width: 62.5em) {
+@media max-width {
   .angled-div#landing {
     height: 34.375rem;
   }
@@ -873,7 +873,7 @@ section.bio aside {
   }
 }
 
-@media screen and (max-width: 43.8125em) {
+@media max-width {
   .angled-div#landing {
     top: 60%;
     width: 100%;
@@ -975,7 +975,7 @@ section.bio aside {
   margin-right: 2.5rem;
 }
 
-@media screen and (max-width: 62.5em) {
+@media max-width {
   #index header {
     height: 34.375rem;
   }
@@ -1025,7 +1025,7 @@ section.bio aside {
   }
 }
 
-@media screen and (max-width: 43.8125em) {
+@media max-width {
   #index header {
     border-bottom: 0;
   }
@@ -1158,13 +1158,13 @@ section.bio aside {
   border-right: 150px solid transparent;
 }
 
-@media screen and (max-width: 62.5em) {
+@media max-width {
   .gallery-link#portals-passageways .verbiage {
     padding-top: 16.875rem;
   }
 }
 
-@media screen and (max-width: 43.8125em) {
+@media max-width {
   .gallery-link#portals-passageways {
     height: 18.75rem;
     background: url("/img/index/gallery-link/portals-passageways/700w/wandering-forth.jpg") center center/cover no-repeat;
@@ -1229,13 +1229,13 @@ section.bio aside {
   border-right: 0 solid transparent;
 }
 
-@media screen and (max-width: 62.5em) {
+@media max-width {
   .gallery-link#earth-works .verbiage {
     padding-top: 3.75rem;
   }
 }
 
-@media screen and (max-width: 43.8125em) {
+@media max-width {
   .gallery-link#earth-works {
     height: 18.75rem;
   }
@@ -1295,7 +1295,7 @@ section.bio aside {
   border-right: 0 solid transparent;
 }
 
-@media screen and (max-width: 62.5em) {
+@media max-width {
   .gallery-link#mindscapes .verbiage {
     padding-top: 3.75rem;
   }
@@ -1308,7 +1308,7 @@ section.bio aside {
   }
 }
 
-@media screen and (max-width: 43.8125em) {
+@media max-width {
   .gallery-link#mindscapes {
     height: 18.75rem;
   }
@@ -1369,7 +1369,7 @@ section.bio aside {
   width: 20%;
 }
 
-@media screen and (max-width: 62.5em) {
+@media max-width {
   .gallery-link h2 {
     font-size: 1.75rem;
   }
@@ -1407,7 +1407,7 @@ section.bio article.verbiage p {
   font-size: 1.375rem;
 }
 
-@media screen and (max-width: 62.5em) {
+@media max-width {
   section.bio {
     height: 39.375rem;
     background-size: auto 100%;
@@ -1426,7 +1426,7 @@ section.bio article.verbiage p {
   }
 }
 
-@media screen and (max-width: 46.875em) {
+@media max-width {
   section.bio {
     background: #F6F6F6 url("/img/index/bio/echoes-of-time_mobile.jpg") center top/100% auto no-repeat;
     height: auto;
@@ -1502,7 +1502,7 @@ section.quoted aside {
   right: 3.125rem;
 }
 
-@media screen and (max-width: 46.875em) {
+@media max-width {
   section.quoted {
     background: url("/img/index/quoted/back-to-center@mobile.jpg") no-repeat;
   }
@@ -1511,7 +1511,7 @@ section.quoted aside {
   }
 }
 
-@media screen and (max-width: 43.8125em) {
+@media max-width {
   section.quoted {
     height: 19.375rem;
     padding-top: 4.6875rem;

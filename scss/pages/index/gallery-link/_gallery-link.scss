@@ -38,7 +38,8 @@ $max-481: 'only screen and (max-width : 481px)';
 		width: 20%;
 	}
 
-	@include media($large) {
+	// @include media($large) {
+	@media #{$large} {
 		h2 {
 			font-size: rem-calc(28);
 		}
