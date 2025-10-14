@@ -1,25 +1,22 @@
-@import "../../../settings/_settings.scss";
-
-
-$max-1101: "only screen and (max-width : 1101px)";
-$max-601: "only screen and (max-width : 601px)";
-$max-481: "only screen and (max-width : 481px)";
-$max-401: "only screen and (max-width : 401px)";
+$max-1101: 'only screen and (max-width : 1101px)';
+$max-601: 'only screen and (max-width : 601px)';
+$max-481: 'only screen and (max-width : 481px)';
+$max-401: 'only screen and (max-width : 401px)';
 
 .angled-div#landing {
 	width: 30%;
-	height: em(670);
+	height: rem-calc(670);
 	background: $base-white;
 	top: 0;
 	left: 0;
-	margin-right: em(150);
+	margin-right: rem-calc(150);
 }
 
 .angled-div#landing:after {
-    border-top: 0 solid transparent;
-    border-bottom: 670px solid $base-white;
-    border-left: 0 solid transparent;
-    border-right: 150px solid transparent;
+	border-top: 0 solid transparent;
+	border-bottom: 670px solid $base-white;
+	border-left: 0 solid transparent;
+	border-right: 150px solid transparent;
 	right: -150px;
 	top: 0;
 }
@@ -30,16 +27,18 @@ $max-401: "only screen and (max-width : 401px)";
 	}
 }
 
-@include media($large) {
+// @include media($large) {
+@media #{$large} {
 	.angled-div#landing {
-		height: em(550);
+		height: rem-calc(550);
 	}
 	.angled-div#landing:after {
 		border-bottom: 550px solid $base-white;
 	}
 }
 
-@include media($small-plus) {
+// @include media($small-plus) {
+@media #{$small-plus} {
 	.angled-div#landing {
 		top: 60%;
 		width: 100%;

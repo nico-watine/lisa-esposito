@@ -1,0 +1,54 @@
+@import '../functions/_functions.scss';
+
+// Typography Variables
+$global-font-size: 100% !default;
+$text-color: #333;
+$link-color: #222;
+$hr-color: #ccc;
+
+$baseline: 1.4rem; //22px
+
+$body-font-family: 'Nexa Light', sans-serif;
+$header-font-family: 'Nexa Regular', sans-serif;
+$header-font-weight: 400;
+$body-font-weight: 200;
+
+$p-size: rem-calc(16);
+
+$h5-h6-letter-spacing: 1.2;
+
+
+// AUGMENTED FOURTH //
+$h1-size: rem-calc(63);
+$h2-size: rem-calc(45);
+$h3-size: rem-calc(31);
+$h4-size: rem-calc(22);
+$h5-size: rem-calc(16);
+$h6-size: rem-calc(12);
+
+
+// COLORS
+$base-white: #F6F6F6;
+
+
+// BOX SHADOWS
+$shadow-z-2: 0 rem-calc(2) rem-calc(2) 0 rgba(0,0,0,0.20), 0 rem-calc(6) rem-calc(10) 0 rgba(0,0,0,0.30);
+$shadow-z-3: 0 rem-calc(11) rem-calc(7) 0 rgba(0,0,0,0.19), 0 rem-calc(13) rem-calc(25) 0 rgba(0,0,0,0.30);
+
+
+// BOX-SHADOW VALUES //
+$z-1: 0 rem-calc(1) rem-calc(4) 0 rgba(0,0,0,0.37);
+$z-2: 0 rem-calc(2) rem-calc(2) 0 rgba(0,0,0,0.20), 0 rem-calc(6) rem-calc(10) 0 rgba(0,0,0,0.30);
+$z-3: 0 rem-calc(11) rem-calc(7) 0 rgba(0,0,0,0.19), 0 rem-calc(13) rem-calc(25) 0 rgba(0,0,0,0.30);
+$z-4: 0 rem-calc(14) rem-calc(12) 0 rgba(0,0,0,0.17), 0 rem-calc(20) rem-calc(40) 0 rgba(0,0,0,0.30);
+$z-5: 0 rem-calc(17) rem-calc(17) 0 rgba(0,0,0,0.15), 0 rem-calc(27) rem-calc(55) 0 rgba(0,0,0,0.30);
+
+
+// Media Queries & Breakpoints //
+$large: "only screen and (max-width : 1000px)";
+$medium: "only screen and (max-width : 750px)";
+$small-plus: "only screen and (max-width : 701px)";
+$android: "only screen and (max-width : 610px)";
+$small: "only screen and (max-width : 500px)";
+$tiny: "only screen and (max-width : 380px)";
+

@@ -1,19 +1,15 @@
-@import "../../../settings/_settings.scss";
-
-$max-1501: "only screen and (max-width : 1501px)";
-$max-880: "only screen and (max-width : 880px)";
-$max-481: "only screen and (max-width : 481px)";
+$max-1501: 'only screen and (max-width : 1501px)';
+$max-880: 'only screen and (max-width : 880px)';
+$max-481: 'only screen and (max-width : 481px)';
 
 
 
 
 .gallery-link#mindscapes {
-	height: em(460);
-	border-bottom: em(20) solid #4a4a4a;
-
+	height: rem-calc(460);
+	border-bottom: rem-calc(20) solid #4a4a4a;
 	background: url('/img/index/gallery-link/mindscapes/netherworld.jpg') no-repeat;
 	background-position: left top;
-	
 	background-size: cover;
 
 	.verbiage {
@@ -27,20 +23,21 @@ $max-481: "only screen and (max-width : 481px)";
 	.angled-div {
 		right: 0;
 		top: 0;
-		margin-left: em(150);
+		margin-left: rem-calc(150);
 	}
 	.angled-div:after {
 		left: -150px;
 		top: 0;
-	    border-top: 460px solid #4a4a4a;
-	    border-bottom: 0 solid transparent;
-	    border-left: 150px solid transparent;
-	    border-right: 0 solid transparent;
+		border-top: 460px solid #4a4a4a;
+		border-bottom: 0 solid transparent;
+		border-left: 150px solid transparent;
+		border-right: 0 solid transparent;
 	}
 
-	@include media($large) {
+	// @include media($large) {
+	@media #{$large} {
 		.verbiage {
-			padding-top: em(60);
+			padding-top: rem-calc(60);
 		}
 	}
 
@@ -49,17 +46,18 @@ $max-481: "only screen and (max-width : 481px)";
 		background-position: left top;
 	}
 
-	@include media($small-plus) {
-		height: em(300);
+	// @include media($small-plus) {
+	@media #{$small-plus} {
+		height: rem-calc(300);
 
 		.verbiage {
 			padding: 0;
-			top: em(40);
-			right: em(40);
+			top: rem-calc(40);
+			right: rem-calc(40);
 		}
 
 		.angled-div {
-			margin-left: em(100);
+			margin-left: rem-calc(100);
 		}
 
 		.angled-div:after {
@@ -75,10 +73,8 @@ $max-481: "only screen and (max-width : 481px)";
 		}
 
 		aside {
-			left: rem(12);
-			bottom: rem(4);
+			left: rem-calc(12);
+			bottom: rem-calc(4);
 		}
 	}
 }
-
-

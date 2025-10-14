@@ -1,6 +1,4 @@
-@import "../../settings/_settings.scss";
-
-$max-481: "only screen and (max-width : 481px)";
+$max-481: 'only screen and (max-width : 481px)';
 
 body#index {
 	background: $base-white;
@@ -9,7 +7,7 @@ body#index {
 #index {
 	aside {
 		position: absolute;
-		
+
 		a {
 			color: #fff;
 		}
@@ -19,23 +17,24 @@ body#index {
 .gallery-link#linear-abstraction,
 section.bio {
 	aside {
-		bottom: em(15);
-		left: em(30);
+		bottom: rem-calc(15);
+		left: rem-calc(30);
 	}
 }
 
 #index header,
 .gallery-link#lyrical-abstraction {
 	aside {
-		top: em(30);
-		right: em(30);
+		top: rem-calc(30);
+		right: rem-calc(30);
 	}
 }
 
-@include media($medium) {
+// @include media($medium) {
+@media #{$medium} {
 	aside {
 		a {
-			font-size: rem(20);
+			font-size: rem-calc(20);
 		}
 	}
 }
@@ -43,14 +42,13 @@ section.bio {
 @media #{$max-481} {
 	aside {
 		a {
-			font-size: rem(16);
+			font-size: rem-calc(16);
 		}
 	}
 }
 
 
-@import "landing/_landing.scss";
-@import "gallery-link/_gallery-link.scss";
-@import "_bio.scss";
-@import "_quotes.scss";
-@import "_footer.scss";
+@import 'landing/_landing.scss';
+@import 'gallery-link/_gallery-link.scss';
+@import '_bio.scss';
+@import '_quotes.scss';
