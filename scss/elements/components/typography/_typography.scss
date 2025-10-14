@@ -1,5 +1,4 @@
-@import "../settings/_settings.scss";
-@import "_fonts.scss";
+@import '_font-face.scss';
 
 html {
 	font-size: 1em;
@@ -29,7 +28,6 @@ p {
 a,
 a:visited {
 	color: $link-color;
-
 	text-decoration: none;
 
 	&:hover,
@@ -39,18 +37,18 @@ a:visited {
 }
 
 
-h1, 
+h1,
 h2 {
 	font-weight: $header-font-weight;
 	font-family: $header-font-family;
-	margin: 0 0 rem(8);
+	margin: 0 0 rem-calc(8);
 }
 
-h3, 
+h3,
 h4,
 h5,
 h6 {
-	margin: 0 0 rem(8);
+	margin: 0 0 rem-calc(8);
 	font-weight: $body-font-weight;
 }
 
@@ -85,8 +83,8 @@ h6 {
 	font-size: $h6-size;
 }
 
-@include media($medium) {
-	
+// @include media($medium) {
+@media #{$medium} {
 	h1 {
 		font-size: $h2-size;
 	}

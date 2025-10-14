@@ -1,0 +1,45 @@
+$max-560: 'only screen and (max-width : 560px)';
+
+
+header {
+	padding: rem-calc(45) rem-calc(26) 0;
+
+	a#logo {
+		&:hover {
+			text-decoration: none;
+		}
+	}
+
+	h1.title,
+	h2.tag {
+		display: inline-block;
+	}
+
+	h1.title {
+		font-size: rem-calc(36);
+		margin-bottom: 0;
+
+		span {
+			font-size: rem-calc(22);
+		}
+	}
+
+	h2.tag {
+		font-size: rem-calc(24);
+		margin-bottom: rem-calc(30);
+	}
+
+	@media #{$max-560} {
+		h1.title {
+			font-size: rem-calc(30);
+
+			span {
+				font-size: rem-calc(16);
+			}
+		}
+
+		h2.tag {
+			font-size: rem-calc(18);
+		}
+	}
+}

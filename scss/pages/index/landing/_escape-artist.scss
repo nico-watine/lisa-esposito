@@ -1,7 +1,5 @@
-@import "../../../settings/_settings.scss";
-
-$max-2001: "only screen and (max-width : 2001px)";
-$max-1601: "only screen and (max-width : 1601px)";
+$max-2001: 'only screen and (max-width : 2001px)';
+$max-1601: 'only screen and (max-width : 1601px)';
 
 
 #index {
@@ -21,12 +19,12 @@ $max-1601: "only screen and (max-width : 1601px)";
 			background-size: inherit;
 		}
 
-		height: em(700);
-		border-bottom: em(30) solid $base-white;
+		height: rem-calc(700);
+		border-bottom: rem-calc(30) solid $base-white;
 		position: relative;
 
 		@include media($large) {
-			height: em(550);
+			height: rem-calc(550);
 			background: url('/img/index/landing/header/escape-artist@large.jpg') no-repeat;
 			background-position: right top;
 		}
@@ -38,12 +36,11 @@ $max-1601: "only screen and (max-width : 1601px)";
 		}
 
 		@media #{$max-481} {
-			background-position: -200px -70px; 
+			background-position: -200px -70px;
 		}
 
 		@media #{$max-401} {
-			background-position: -270px -70px; 
+			background-position: -270px -70px;
 		}
 	}
 }
-

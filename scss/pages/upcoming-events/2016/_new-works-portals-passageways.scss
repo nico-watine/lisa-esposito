@@ -1,5 +1,3 @@
-@import "../../../settings/_settings.scss";
-
 $max-700: "only screen and (max-width : 43.750em)";
 $max-500: "only screen and (max-width : 31.250em)";
 
@@ -68,7 +66,7 @@ article#new-works-portals-passageways {
 
 		.row#venue-contact-info {
 			margin-bottom: 0;
-			
+
 			p {
 				font-size: rem(28);
 				margin-bottom: 0;
@@ -122,7 +120,7 @@ article#new-works-portals-passageways {
 				}
 			}
 		}
-	}		
+	}
 }
 
 @media #{$max-500} {
